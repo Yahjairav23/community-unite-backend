@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  police_id: 1
+  citizen_id: 1
+  location: MyString
+  city: MyString
+  state: MyString
+  date: 2020-06-03
+  time: 2020-06-03 10:41:53
+  arrest: false
+  force_used: false
+  reason: MyString
+  incident_description: MyString
+  resolution: MyString
+
+two:
+  police_id: 1
+  citizen_id: 1
+  location: MyString
+  city: MyString
+  state: MyString
+  date: 2020-06-03
+  time: 2020-06-03 10:41:53
+  arrest: false
+  force_used: false
+  reason: MyString
+  incident_description: MyString
+  resolution: MyString

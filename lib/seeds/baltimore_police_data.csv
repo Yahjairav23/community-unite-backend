@@ -1,0 +1,2466 @@
+Dept,Location,EMPLID,Name,Job Code,Job Title,Position Number,Gender
+A99,390,95135,"Gillis,James A",10281,Deputy Police Commissioner,46385,M
+A99,399,110445,"Murphy,Daniel P",10281,Deputy Police Commissioner,16646,M
+A99,422,116706,"Nadeau,Brian J",10281,Deputy Police Commissioner,18832,M
+A99,389,116285,"Sullivan,Michael G",10281,Deputy Police Commissioner,53154,M
+A99,416,104129,"Allen,Alonzo D",41191,Police Cadet,17244,M
+A99,416,107205,"Allender,Tyrell A",41191,Police Cadet,45536,M
+A99,416,110290,"Blackwell,Michael C",41191,Police Cadet,46589,M
+A99,416,110181,"Brown,Elan D",41191,Police Cadet,17853,F
+A99,416,103493,"Dickerson,Jaquan K",41191,Police Cadet,18214,M
+A99,416,109177,"Dixon,Cornell D",41191,Police Cadet,43297,M
+A99,416,116728,"Feeser,James H",41191,Police Cadet,35250,N
+A99,416,88844,"Harvell,Diamond K",41191,Police Cadet,44370,F
+A99,416,116331,"Konkus,William H",41191,Police Cadet,18204,M
+A99,416,110475,"Parker,Andrew J",41191,Police Cadet,17386,M
+A99,416,93467,"Powell,Damion M",41191,Police Cadet,18477,M
+A99,416,100112,"Queensbury,Lance D",41191,Police Cadet,43283,M
+A99,416,103496,"Snead,Kameron K",41191,Police Cadet,18544,M
+A99,394,25378,"Diehl,Donald D",10277,Police Captain,16740,M
+A99,322,38810,"Edwards,Nicholas R",10277,Police Captain,35456,M
+A99,1,1219,"Featherstone,Jeffrey T",10277,Police Captain,16752,M
+A99,220,20557,"Heiss,Joel F",10277,Police Captain,16737,M
+A99,30,29270,"Hopkins,Brian C",10277,Police Captain,19075,M
+A99,300,44891,"Jones Jr,Joe H",10277,Police Captain,19321,M
+A99,389,45365,"Loeffler,Derek J",10277,Police Captain,19136,M
+A99,297,21050,"Murphy,Daryl D",10277,Police Captain,47247,M
+A99,297,20362,"Robinson,Lisa D",10277,Police Captain,47826,F
+A99,300,44786,"Smith,Anthony W",10277,Police Captain,47814,M
+A99,90,16945,"Stewart III,Frederick J",10277,Police Captain,18981,M
+A99,324,42083,"Taylor,Mark S",10277,Police Captain,47241,M
+A99,331,19817,"Briscoe,Sheree",10280,Police Colonel,52618,F
+A99,299,19769,"Worley Jr,Richard J",10280,Police Colonel,16749,M
+A99,390,110229,"Harrison,Michael S",10282,Police Commissioner,16614,M
+A99,31,109031,"Figueroa Cordero,Abdiel L",41122,Police Flight Officer,19674,M
+A99,302,48095,"Grochowski,Cory",41122,Police Flight Officer,52360,M
+A99,416,24961,"Hoover,Craig N",41122,Police Flight Officer,19670,M
+A99,302,96186,"Liebermann,Bastian J",41122,Police Flight Officer,52361,M
+A99,302,103100,"Souza,Diogo T",41122,Police Flight Officer,19672,M
+A99,302,990,"Davis,Thomas P",41131,Police Flight Officer EID,47005,M
+A99,302,1268,"Russo,Arnold P",41131,Police Flight Officer EID,47004,M
+A99,302,2051,"Werner Jr,Floyd S",41131,Police Flight Officer EID,33850,M
+A99,195,776,"Amador,Robert",41113,Police Lieutenant,19140,M
+A99,407,62319,"Amey,Johnathan J",41113,Police Lieutenant,16621,M
+A99,370,45528,"Bergeron III,Roger O",41113,Police Lieutenant,19563,M
+A99,222,2641,"Berry Jr,John F",41113,Police Lieutenant,16796,M
+A99,422,29306,"Blue,Lekeshia",41113,Police Lieutenant,16701,F
+A99,190,41890,"Boyd,Danita",41113,Police Lieutenant,16772,F
+A99,4,29544,"Brooks Jr,Leland S",41113,Police Lieutenant,19042,M
+A99,399,25507,"Brown Jr,Robert L",41113,Police Lieutenant,16764,M
+A99,397,20695,"Brown,Latanya P",41113,Police Lieutenant,43559,F
+A99,311,37705,"Butler,Kenneth B",41113,Police Lieutenant,19025,M
+A99,297,37918,"Carter Sr,Charles V",41113,Police Lieutenant,19018,M
+A99,125,10779,"Comegna,Victor R",41113,Police Lieutenant,19141,M
+A99,190,3252,"Cornish,Lisa A",41113,Police Lieutenant,18849,F
+A99,64,956,"Cupid,Gersham L",41113,Police Lieutenant,19034,M
+A99,61,16748,"Dent III,Harold J",41113,Police Lieutenant,16761,M
+A99,356,23524,"Dressler,Scott E",41113,Police Lieutenant,35459,M
+A99,308,12307,"Effland,Deanna L",41113,Police Lieutenant,35457,F
+A99,422,37789,"Fernandez Jr,John",41113,Police Lieutenant,18850,M
+A99,303,10096,"Forrest,Jerome D",41113,Police Lieutenant,35602,M
+A99,304,158,"Friel Jr,Theodore D",41113,Police Lieutenant,18846,M
+A99,200,12308,"Fries,Suzanne",41113,Police Lieutenant,16756,F
+A99,32,42180,"Gardner,Michael J",41113,Police Lieutenant,19030,M
+A99,223,4023,"Gaskin,Kyle E",41113,Police Lieutenant,18848,M
+A99,165,34470,"German,Marjorie M",41113,Police Lieutenant,16794,F
+A99,160,29456,"Grinage,Kimberly N",41113,Police Lieutenant,19645,F
+A99,95,44892,"Hance,Brian",41113,Police Lieutenant,19322,M
+A99,224,42688,"Harris,Daraine D",41113,Police Lieutenant,16763,M
+A99,167,20546,"Hartman,Craig S",41113,Police Lieutenant,50427,M
+A99,302,3311,"Hauf,George E",41113,Police Lieutenant,18844,M
+A99,194,10220,"Heron,Peter",41113,Police Lieutenant,43558,M
+A99,193,16841,"Hubbard,Jaclyn N",41113,Police Lieutenant,16792,F
+A99,395,33854,"James,Charles R",41113,Police Lieutenant,18342,M
+A99,160,12114,"Jenkins III,Earl L",41113,Police Lieutenant,19323,M
+A99,331,41707,"Johnson,Azalee N",41113,Police Lieutenant,16629,F
+A99,305,48371,"Klein,James P",41113,Police Lieutenant,16678,M
+A99,265,16491,"Leitch,Eric R",41113,Police Lieutenant,19013,M
+A99,220,8060,"McCrea,Ebony M",41113,Police Lieutenant,16728,F
+A99,164,66371,"Mercado,Michael A",41113,Police Lieutenant,35511,M
+A99,260,34350,"Miller,Sean D",41113,Police Lieutenant,32991,M
+A99,225,2399,"Mistysyn Jr,Thomas",41113,Police Lieutenant,32715,M
+A99,64,24455,"Mobley,Rodney W",41113,Police Lieutenant,18982,M
+A99,334,38396,"Moore,Bryant D",41113,Police Lieutenant,18833,M
+A99,322,44635,"Newton,Michael P",41113,Police Lieutenant,19664,M
+A99,296,1165,"Nicolas,Hans A",41113,Police Lieutenant,18920,M
+A99,2,1911,"Oree,C V",41113,Police Lieutenant,33757,M
+A99,162,1213,"Owens,Renard",41113,Police Lieutenant,16793,M
+A99,330,7526,"Price,Sterling J",41113,Police Lieutenant,16647,M
+A99,380,34430,"Quick Jr,Robert J",41113,Police Lieutenant,34813,M
+A99,297,1569,"Ridley,Bruce W",41113,Police Lieutenant,32999,M
+A99,399,28413,"Rodriguez,Juan R",41113,Police Lieutenant,16795,M
+A99,422,16192,"Ryan,Gene S",41113,Police Lieutenant,19324,M
+A99,35,12146,"Sturm,Michael A",41113,Police Lieutenant,18847,M
+A99,408,7516,"Talley,Sharon",41113,Police Lieutenant,16779,F
+A99,262,41692,"Tucker,Lakishia L",41113,Police Lieutenant,18845,F
+A99,263,38970,"Worthy,Curtis L",41113,Police Lieutenant,16760,M
+A99,299,20130,"Brown,Monique A",10279,Police Lieutenant Colonel,19224,F
+A99,333,16860,"Herzog,John R",10279,Police Lieutenant Colonel,52615,M
+A99,299,25123,"Jones,Kevin A",10279,Police Lieutenant Colonel,52614,M
+A99,MIL,25640,"Barbour,Torrence D",41133,Police Lieutenant EID,32978,M
+A99,94,41776,"Barillaro,Margaret R",41133,Police Lieutenant EID,19074,F
+A99,360,186,"Breault,David M",41133,Police Lieutenant EID,16748,M
+A99,399,27219,"Brown,Tashania K",41133,Police Lieutenant EID,33756,F
+A99,338,11763,"Brown,Tiffany Q",41133,Police Lieutenant EID,16789,F
+A99,324,19998,"Burrus,Kimberly M",41133,Police Lieutenant EID,19325,F
+A99,335,12521,"Burrus,Torran D",41133,Police Lieutenant EID,16791,M
+A99,260,965,"Callaghan,Jason A",41133,Police Lieutenant EID,16765,M
+A99,407,33919,"Carter Bey,Desmond A",41133,Police Lieutenant EID,35458,M
+A99,415,29623,"Carter,Valencia R",41133,Police Lieutenant EID,16777,F
+A99,304,1685,"De Vita,Kevin D",41133,Police Lieutenant EID,16783,M
+A99,36,768,"Devine,Timothy L",41133,Police Lieutenant EID,19009,M
+A99,161,89,"Ferinde,John",41133,Police Lieutenant EID,16784,M
+A99,261,45111,"Ford,Rosemary",41133,Police Lieutenant EID,32979,F
+A99,330,16641,"Fried,Joel S",41133,Police Lieutenant EID,35616,M
+A99,407,25579,"Gerkin Jr,Donald V",41133,Police Lieutenant EID,16757,M
+A99,97,44195,"Howard,Lamar D",41133,Police Lieutenant EID,16770,M
+A99,407,7353,"Jackson Jr,John L",41133,Police Lieutenant EID,16768,M
+A99,123,59565,"Jones,Michael A",41133,Police Lieutenant EID,16634,M
+A99,329,2897,"Kim,Habib",41133,Police Lieutenant EID,16773,M
+A99,370,34613,"Leitch,Jessica E",41133,Police Lieutenant EID,16766,F
+A99,297,15959,"Lundy,Abdul M",41133,Police Lieutenant EID,33002,M
+A99,120,16484,"Mahoney,Sean",41133,Police Lieutenant EID,16788,M
+A99,332,7822,"Matulonis,Brian A",41133,Police Lieutenant EID,19665,M
+A99,1,38054,"McFadden,Jodie P",41133,Police Lieutenant EID,16774,M
+A99,323,12059,"McGarry,Brian C",41133,Police Lieutenant EID,16769,M
+A99,322,14949,"McLarney,Terrence P",41133,Police Lieutenant EID,17872,M
+A99,347,37679,"Morris Jr,Robert W",41133,Police Lieutenant EID,19226,M
+A99,422,24340,"Norris,Michael K",41133,Police Lieutenant EID,16677,M
+A99,415,41999,"Nyberg,Christopher D",41133,Police Lieutenant EID,16771,M
+A99,2,38908,"Olson,Steven P",41133,Police Lieutenant EID,19227,M
+A99,396,1653,"Paradise,John J",41133,Police Lieutenant EID,16633,M
+A99,351,2479,"Pearson,Brian E",41133,Police Lieutenant EID,16787,M
+A99,331,790,"Pool,Michael R",41133,Police Lieutenant EID,16758,M
+A99,335,12305,"Popp III,Daniel H",41133,Police Lieutenant EID,16759,M
+A99,300,2835,"Reinhard,Dennis J",41133,Police Lieutenant EID,18983,M
+A99,386,2495,"Rice,Brian S",41133,Police Lieutenant EID,16702,M
+A99,60,2176,"Roeser,Kevin R",41133,Police Lieutenant EID,16776,M
+A99,93,46085,"Santiago,Alfredo",41133,Police Lieutenant EID,16775,M
+A99,124,25528,"Saunders,Keira A",41133,Police Lieutenant EID,35460,F
+A99,394,45504,"Shroyer Jr,Douglas H",41133,Police Lieutenant EID,16781,M
+A99,398,38121,"Simmons,William P",41133,Police Lieutenant EID,16767,M
+A99,62,1834,"Slimmer III,Donald H",41133,Police Lieutenant EID,17200,M
+A99,64,16694,"Smallwood,Fontaine W",41133,Police Lieutenant EID,16762,M
+A99,424,61901,"Sullivan,Charles K",41133,Police Lieutenant EID,16790,M
+A99,6,41223,"Thacker III,Guy O",41133,Police Lieutenant EID,32977,M
+A99,196,3674,"Velte,Robert L",41133,Police Lieutenant EID,32994,M
+A99,322,45580,"Walrath,Mark A",41133,Police Lieutenant EID,16778,M
+A99,63,102,"Walton,Troy L",41133,Police Lieutenant EID,33769,M
+A99,33,45629,"Wilson,Stephen J",41133,Police Lieutenant EID,35615,M
+A99,60,2060,"Wiman,Andrew I",41133,Police Lieutenant EID,16753,M
+A99,422,2892,"Yerg,Jason A",41133,Police Lieutenant EID,16782,M
+A99,415,1597,"Bartness,Martin A",10278,Police Major,47242,M
+A99,160,20397,"Brickus,Ettice N",10278,Police Major,18842,F
+A99,299,34035,"Brown,Tomecha S",10278,Police Major,19073,F
+A99,260,3440,"Conaway,Byron J",10278,Police Major,35603,M
+A99,300,28767,"Corbett,Milton L",10278,Police Major,47244,M
+A99,399,266,"Dombroski,Ian A",10278,Police Major,16620,M
+A99,1,1659,"Gaines,Daryl R",10278,Police Major,52617,M
+A99,120,44601,"Gibson,Richard E",10278,Police Major,46384,M
+A99,406,328,"Handley,James C",10278,Police Major,16615,M
+A99,333,29032,"Hatchett,Dion E",10278,Police Major,16754,M
+A99,322,8291,"Hohman Jr,Steven L",10278,Police Major,47249,M
+A99,347,2109,"Hood III,Samuel",10278,Police Major,52624,M
+A99,370,19886,"Howe,Mark E",10278,Police Major,16739,M
+A99,406,25322,"Jones,Christopher A",10278,Police Major,16750,M
+A99,422,41750,"Lansey,Stephanie C",10278,Police Major,19138,F
+A99,332,34182,"Lewis,Latonya N",10278,Police Major,45303,F
+A99,399,1848,"McCoy,Ronda L",10278,Police Major,52625,F
+A99,90,33940,"Preston,Natalie N",10278,Police Major,16741,F
+A99,407,33563,"Rhoden,James",10278,Police Major,52626,M
+A99,120,3031,"Shorter,Jeffrey W",10278,Police Major,52627,M
+A99,30,38998,"Snead Jr,Milton C",10278,Police Major,19125,M
+A99,220,7869,"Swinton,Dwayne L",10278,Police Major,47250,M
+A99,190,20656,"Webb,John O",10278,Police Major,47246,M
+A99,60,45845,"Wells,Lloyd E",10278,Police Major,52628,M
+A99,94,104183,"Abaku,Aigbolosimuan O",41111,Police Officer,18104,M
+A99,34,83793,"Abrahams,Brandon A",41111,Police Officer,17840,M
+A99,4,96475,"Acosta Lopez,Bryan",41111,Police Officer,19007,M
+A99,125,94990,"Acosta,Jahmoor A",41111,Police Officer,17495,M
+A99,224,90081,"Adams III,Wayne A",41111,Police Officer,46594,M
+A99,304,20944,"Adams,Damon R",41111,Police Officer,18459,M
+A99,220,3623,"Adams,Latisha T",41111,Police Officer,17713,F
+A99,330,38139,"Adams,Robert J",41111,Police Officer,17342,M
+A99,33,20697,"Adkins,Shea T",41111,Police Officer,32655,F
+A99,4,96442,"Agella,Lindson C",41111,Police Officer,18275,M
+A99,408,78990,"Ahmed,Bilal",41111,Police Officer,18718,M
+A99,308,61524,"Ajikobi,Abdulsalam W",41111,Police Officer,19651,M
+A99,260,75435,"Albano,Nichole M",41111,Police Officer,17542,F
+A99,348,20017,"Albino,Monica M",41111,Police Officer,17773,F
+A99,5,103070,"Alexander,Kevin D",41111,Police Officer,17836,M
+A99,262,103193,"Alexander,Tony T",41111,Police Officer,35537,M
+A99,407,69952,"Alfano,Anthony G",41111,Police Officer,19206,M
+A99,60,89637,"Alfonso,Matthew J",41111,Police Officer,17432,M
+A99,422,16799,"Alford,Tameka N",41111,Police Officer,19337,F
+A99,335,1147,"Ali,Mohammed",41111,Police Officer,32711,M
+A99,2,16108,"Allen,Richard M",41111,Police Officer,18527,M
+A99,408,20188,"Allen,Wade T",41111,Police Officer,17359,M
+A99,323,2618,"Allman,Brian K",41111,Police Officer,18192,M
+A99,35,96179,"Alvarez,Nicholas J",41111,Police Officer,18443,M
+A99,95,1671,"Alvarez,Raul",41111,Police Officer,46562,M
+A99,408,39198,"Alvear,Matthew R",41111,Police Officer,32630,M
+A99,4,103807,"Amato,John A",41111,Police Officer,18936,M
+A99,194,47642,"Ambrose,Wayne S",41111,Police Officer,45490,M
+A99,324,38420,"Amos,Adrian G",41111,Police Officer,34917,M
+A99,2,79431,"Amsel,Christopher L",41111,Police Officer,17988,M
+A99,93,20191,"Amy,Kevin L",41111,Police Officer,18385,M
+A99,35,1689,"Ancrum,Baron K",41111,Police Officer,18018,M
+A99,407,7376,"Anderson,Clemmie O",41111,Police Officer,32675,M
+A99,2,7636,"Anderson,Evan",41111,Police Officer,35478,M
+A99,335,29015,"Anderson,Theodore C",41111,Police Officer,18521,M
+A99,33,1524,"Andrades,Andre A",41111,Police Officer,18894,M
+A99,407,38541,"Angelini,Steven U",41111,Police Officer,17506,M
+A99,5,81750,"Anthony,Troy B",41111,Police Officer,46454,M
+A99,337,34614,"Antonin,Megan N",41111,Police Officer,45476,F
+A99,196,82783,"Arena,Roberto J",41111,Police Officer,18686,M
+A99,395,66370,"Arias,Carlos M",41111,Police Officer,35560,M
+A99,265,75437,"Armstrong,Scott A",41111,Police Officer,18040,M
+A99,409,24596,"Armwood,Larry W",41111,Police Officer,42182,M
+A99,34,46112,"Arroyo,Jose N",41111,Police Officer,18945,M
+A99,304,24879,"Atkins,Jack N",41111,Police Officer,45555,M
+A99,223,103155,"Augustin,Casleny G",41111,Police Officer,33832,M
+A99,194,104205,"Austin,Christopher E",41111,Police Officer,34787,M
+A99,2,55469,"Austin,David B",41111,Police Officer,46512,M
+A99,262,103190,"Austin,Troy L",41111,Police Officer,35395,M
+A99,95,45335,"Avitia,Jesus P",41111,Police Officer,18340,M
+A99,123,46134,"Ayala,Eric I",41111,Police Officer,18206,M
+A99,6,103079,"Ayala-Lopez,Edgard Y",41111,Police Officer,18307,M
+A99,295,48,"Azur,David F",41111,Police Officer,18775,M
+A99,33,83795,"Bagby,Maurice A",41111,Police Officer,18440,M
+A99,262,12190,"Bagdon,Mark A",41111,Police Officer,35378,M
+A99,97,46190,"Bailey III,Edward",41111,Police Officer,35360,M
+A99,164,1011,"Baines,Cornelia N",41111,Police Officer,17960,F
+A99,97,55323,"Banker,Akshay S",41111,Police Officer,32700,M
+A99,5,104209,"Banks,Eric G",41111,Police Officer,34811,M
+A99,408,25348,"Banks,Joseph A",41111,Police Officer,35515,M
+A99,127,55619,"Banks,Warren S",41111,Police Officer,34938,M
+A99,160,24850,"Bannerman,Joseph J",41111,Police Officer,35561,M
+A99,6,96541,"Bardzik,Timothy G",41111,Police Officer,32627,M
+A99,2,29984,"Barnes,Brandon C",41111,Police Officer,33839,M
+A99,408,16861,"Barnes,Dominic L",41111,Police Officer,16716,M
+A99,335,62296,"Barnes,Melissa A",41111,Police Officer,17921,F
+A99,60,25379,"Barnett,James C",41111,Police Officer,18821,M
+A99,62,74765,"Barreto De Jesus,Jason R",41111,Police Officer,46465,M
+A99,6,74578,"Barreto De Jesus,Julio A",41111,Police Officer,17270,M
+A99,94,96823,"Barrett,Mingyon S",41111,Police Officer,17407,F
+A99,164,41933,"Barrett,Shirome L",41111,Police Officer,18027,M
+A99,124,45703,"Baskerville,Reginald L",41111,Police Officer,46449,M
+A99,225,40166,"Bass,Brandon L",41111,Police Officer,19187,M
+A99,422,16507,"Batey,Angel S",41111,Police Officer,46458,F
+A99,407,74057,"Battipaglia,Kevin T",41111,Police Officer,46419,M
+A99,415,1876,"Baty,Angela E",41111,Police Officer,46488,F
+A99,63,55626,"Baublitz,Eric W",41111,Police Officer,19188,M
+A99,193,47544,"Bauer,Christopher",41111,Police Officer,18951,M
+A99,32,60418,"Baugher Jr,Charles A",41111,Police Officer,17823,M
+A99,225,106788,"Baul,James T",41111,Police Officer,45485,M
+A99,299,74488,"Baur,Patrick J",41111,Police Officer,18186,M
+A99,200,71115,"Bawa,Shivdayal",41111,Police Officer,17615,M
+A99,305,623,"Bayon,Victor J",41111,Police Officer,42206,M
+A99,195,103808,"Bayton,William R",41111,Police Officer,18509,M
+A99,190,18545,"Beads,Arlene K",41111,Police Officer,17855,F
+A99,390,11630,"Beal,James T",41111,Police Officer,17456,M
+A99,334,2686,"Bearde,William",41111,Police Officer,46459,M
+A99,94,2664,"Bechtel,Bradley E",41111,Police Officer,46507,M
+A99,395,75580,"Beebe,Breanna L",41111,Police Officer,35280,F
+A99,415,1187,"Belechto,Darren P",41111,Police Officer,19656,M
+A99,224,74809,"Belen,Daniel S",41111,Police Officer,18546,M
+A99,336,37937,"Bell,Dana A",41111,Police Officer,17728,M
+A99,200,947,"Bell,Ivan H",41111,Police Officer,19038,M
+A99,407,11376,"Ben,Laurence A",41111,Police Officer,32667,M
+A99,312,38817,"Bender,Thomas J",41111,Police Officer,45535,M
+A99,335,863,"Benn,Warren E",41111,Police Officer,18240,M
+A99,408,25008,"Bennett Jr,Samuel E",41111,Police Officer,35522,M
+A99,415,37992,"Bennett,Gary E",41111,Police Officer,18530,M
+A99,322,1875,"Bennett,Ray B",41111,Police Officer,46529,M
+A99,408,55256,"Bennett,Thomas J",41111,Police Officer,36506,M
+A99,415,28714,"Berard,Mark C",41111,Police Officer,17648,M
+A99,33,66291,"Berardi,William K",41111,Police Officer,45539,M
+A99,33,90078,"Bermudez,Andres M",41111,Police Officer,17692,M
+A99,425,67043,"Bernardez Ruiz,Jorge O",41111,Police Officer,17900,M
+A99,407,103675,"Berrios,Inmer X",41111,Police Officer,17932,M
+A99,305,41989,"Berry,Fugiki P",41111,Police Officer,18238,M
+A99,193,89239,"Betz,Nicholas R",41111,Police Officer,17266,M
+A99,395,90183,"Bezzek,Demitri A",41111,Police Officer,17983,M
+A99,91,17004,"Biggers,Sherrod A",41111,Police Officer,17568,M
+A99,193,103641,"Bilal,Muhammad",41111,Police Officer,17583,M
+A99,4,107560,"Biler,Orhan G",41111,Police Officer,46524,M
+A99,5,83798,"Biondo II,Vincent L",41111,Police Officer,46498,M
+A99,407,70088,"Bishop,Nancy J",41111,Police Officer,18260,F
+A99,193,551,"Blackburn,Anthony M",41111,Police Officer,17671,M
+A99,63,84070,"Blankenship,Ryan M",41111,Police Officer,17942,M
+A99,225,103809,"Boateng,Christian O",41111,Police Officer,18520,M
+A99,264,104474,"Boggess,Curtis N",41111,Police Officer,44470,M
+A99,64,103664,"Boggs,Joshua D",41111,Police Officer,17778,M
+A99,190,55632,"Boles,Virgiree N",41111,Police Officer,43274,F
+A99,66,104473,"Bolling,Bria C",41111,Police Officer,45481,F
+A99,330,75406,"Bolt,Brandon T",41111,Police Officer,35549,M
+A99,352,1648,"Bolte,Thomas L",41111,Police Officer,17719,M
+A99,200,38594,"Bonaparte III,Heyward",41111,Police Officer,43282,M
+A99,324,12195,"Bonaparte,Shantel S",41111,Police Officer,17403,F
+A99,190,41366,"Bond,Timothy L",41111,Police Officer,17622,M
+A99,261,47654,"Bongiorno,Michael",41111,Police Officer,46592,M
+A99,2,7409,"Booker,Donta L",41111,Police Officer,18628,M
+A99,124,38595,"Boone,Dante",41111,Police Officer,46526,M
+A99,407,48253,"Booth,Cedric T",41111,Police Officer,35303,M
+A99,322,20569,"Boris II,Gregory M",41111,Police Officer,17523,M
+A99,193,1842,"Bormanshinov,Lavgh",41111,Police Officer,32690,M
+A99,263,47655,"Boscana,Jose",41111,Police Officer,18887,M
+A99,370,19861,"Bowie,Efrem L",41111,Police Officer,33825,M
+A99,35,57537,"Bowling,Anthony R",41111,Police Officer,17950,M
+A99,33,71168,"Bowman,Derek A",41111,Police Officer,17788,M
+A99,35,2943,"Boyd,Gregg B",41111,Police Officer,42192,M
+A99,34,96718,"Boyd,Jack A",41111,Police Officer,33805,M
+A99,335,20140,"Boyd,Michael J",41111,Police Officer,18267,M
+A99,1,65471,"Boyer,Jonathan D",41111,Police Officer,18215,M
+A99,334,41637,"Bradley,James A",41111,Police Officer,18526,M
+A99,305,61463,"Bradshaw,Jennifer S",41111,Police Officer,17458,F
+A99,94,25310,"Brandt,John W",41111,Police Officer,17705,M
+A99,332,57081,"Brandt,Lee R",41111,Police Officer,17795,M
+A99,265,93375,"Braun,Christina L",41111,Police Officer,19015,F
+A99,399,27820,"Bravo,Heleodoro",41111,Police Officer,17604,M
+A99,416,74575,"Breen,Eugene J",41111,Police Officer,32689,M
+A99,190,74766,"Brice,Nishelle S",41111,Police Officer,35497,F
+A99,60,83927,"Bristow,Derek J",41111,Police Officer,17550,M
+A99,338,1719,"Brooks,Angelo W",41111,Police Officer,18188,M
+A99,124,24617,"Brooks,Dion D",41111,Police Officer,35283,M
+A99,260,29155,"Brooks,James L",41111,Police Officer,18354,M
+A99,94,45644,"Brown III,Wilmer",41111,Police Officer,19192,M
+A99,322,7619,"Brown Jr,Joseph",41111,Police Officer,17961,M
+A99,95,75684,"Brown,Andrew D",41111,Police Officer,17450,M
+A99,94,79189,"Brown,Brendan R",41111,Police Officer,18331,M
+A99,415,29524,"Brown,Derrick A",41111,Police Officer,43290,M
+A99,408,34138,"Brown,Gary D",41111,Police Officer,46590,M
+A99,34,93512,"Brown,James D",41111,Police Officer,18458,M
+A99,6,63067,"Brown,Karima A",41111,Police Officer,17230,F
+A99,95,48670,"Brown,Keyonta Y",41111,Police Officer,18382,F
+A99,1,34163,"Brown,Kim R",41111,Police Officer,17206,F
+A99,2,11339,"Brown,Robert P",41111,Police Officer,34932,M
+A99,407,34201,"Browne,Diana S",41111,Police Officer,18202,F
+A99,164,55471,"Browne,Jahcobie R",41111,Police Officer,18501,M
+A99,348,78711,"Brunson,Jamal H",41111,Police Officer,18250,M
+A99,5,74810,"Brutus,Johnny S",41111,Police Officer,35527,M
+A99,261,47584,"Bryan,Gavin N",41111,Police Officer,18882,M
+A99,338,33859,"Bryant,Ronald C",41111,Police Officer,17388,M
+A99,33,93374,"Bumbry,Erika L",41111,Police Officer,42186,F
+A99,3,79596,"Burch Jr.,David A",41111,Police Officer,18437,M
+A99,200,34336,"Burchill,Paul A",41111,Police Officer,18791,M
+A99,34,96603,"Burgos,Raymond A",41111,Police Officer,32681,M
+A99,194,3025,"Burke,Brian E",41111,Police Officer,17814,M
+A99,4,96828,"Burke,Michelle S",41111,Police Officer,17418,F
+A99,348,2436,"Burkett,Michael R",41111,Police Officer,18790,M
+A99,34,96517,"Burks,Leighton B",41111,Police Officer,18017,M
+A99,34,103476,"Burns II,Vincent C",41111,Police Officer,18038,M
+A99,161,29641,"Burns,Donald R",41111,Police Officer,17467,M
+A99,332,41383,"Burns,Robert S",41111,Police Officer,18540,M
+A99,64,103138,"Burrell,Christopher C",41111,Police Officer,18772,M
+A99,193,3313,"Bush Jr,Anthony A",41111,Police Officer,19166,M
+A99,195,29449,"Butler,Mark A",41111,Police Officer,17787,M
+A99,125,38637,"Byfield,Lamaire A",41111,Police Officer,17538,M
+A99,338,29054,"Byrd,Adriene Y",41111,Police Officer,18900,F
+A99,62,46580,"Byron,Tyree L",41111,Police Officer,46463,M
+A99,34,1370,"Cabreja,Ricardo A",41111,Police Officer,45503,M
+A99,65,25089,"Cain,Aaron M",41111,Police Officer,46541,M
+A99,407,1656,"Calcitrai,Rico M",41111,Police Officer,36505,M
+A99,407,33722,"Callow,Anthony S",41111,Police Officer,17308,M
+A99,93,54562,"Campbell,Kenneth W",41111,Police Officer,17425,M
+A99,93,102737,"Candelaria Sanchez,Alex M",41111,Police Officer,35289,M
+A99,93,75713,"Carlos,Jarred A",41111,Police Officer,18024,M
+A99,324,66454,"Carmichael,Donishia E",41111,Police Officer,17746,F
+A99,1,75638,"Carpenter,Devin D",41111,Police Officer,18487,M
+A99,2,17604,"Carpenter,Patrick W",41111,Police Officer,18395,M
+A99,34,6932,"Carrigan,Ronald K",41111,Police Officer,17453,M
+A99,60,96452,"Carroll,Timothy S",41111,Police Officer,18322,M
+A99,124,74689,"Carter,Darius M",41111,Police Officer,33849,M
+A99,225,49434,"Carter,Terrell",41111,Police Officer,18110,M
+A99,161,24947,"Carver,Derek",41111,Police Officer,17525,M
+A99,195,78942,"Cassidy,Brendan J",41111,Police Officer,18154,M
+A99,33,57178,"Castillo,Giovanny S",41111,Police Officer,45506,M
+A99,336,11955,"Catterton,Donald O",41111,Police Officer,18334,M
+A99,35,93232,"Caudle,William A",41111,Police Officer,18363,M
+A99,63,1485,"Cenatus,Jean D",41111,Police Officer,18715,M
+A99,356,11778,"Cephas,Bobbie",41111,Police Officer,46461,F
+A99,64,66958,"Chambers,Brandon K",41111,Police Officer,46455,M
+A99,60,74132,"Chanoine,Alan J",41111,Police Officer,18827,M
+A99,304,62258,"Chapman,Nicholas D",41111,Police Officer,17384,M
+A99,3,40644,"Charles,Bandele A",41111,Police Officer,17212,M
+A99,224,103972,"Charles,Brian B",41111,Police Officer,35514,M
+A99,125,44179,"Chase II,James H",41111,Police Officer,42181,M
+A99,322,2452,"Chin,Joseph L",41111,Police Officer,18242,M
+A99,123,20793,"Chrest,Matthew G",41111,Police Officer,45541,M
+A99,94,103780,"Chriest,Jason T",41111,Police Officer,18478,M
+A99,124,46098,"Cintron Jr,Ferdinand",41111,Police Officer,17100,M
+A99,62,96516,"Cintron,Nikos C",41111,Police Officer,18310,M
+A99,4,1622,"Cintron,Storm O",41111,Police Officer,34788,M
+A99,120,2761,"Ciotti,David E",41111,Police Officer,44471,M
+A99,322,7217,"Cirillo,Anthony E",41111,Police Officer,45517,M
+A99,36,57052,"Clark,Robert S",41111,Police Officer,17727,M
+A99,329,39087,"Clark,Tony C",41111,Police Officer,46568,M
+A99,334,34360,"Clasing,David H",41111,Police Officer,18774,M
+A99,60,83043,"Clasing,Morgan M",41111,Police Officer,18370,F
+A99,125,46126,"Class,Vicente A",41111,Police Officer,44468,M
+A99,415,25668,"Clements,Kevin W",41111,Police Officer,32623,M
+A99,302,2945,"Cloud,Matthew R",41111,Police Officer,17510,M
+A99,36,61457,"Coffin,Brian L",41111,Police Officer,45543,M
+A99,MIL,75690,"Cokley,Tankeisha M",41111,Police Officer,17808,F
+A99,195,96767,"Colbert,Stephen L",41111,Police Officer,35383,M
+A99,336,2937,"Cole,Nathaniel K",41111,Police Officer,42207,M
+A99,200,16721,"Coleman,Kyesha K",41111,Police Officer,17436,F
+A99,64,96421,"Collazo Morales,Jean M",41111,Police Officer,17660,M
+A99,394,38468,"Collins,Derek N",41111,Police Officer,46552,M
+A99,407,96539,"Collins,Samantha J",41111,Police Officer,18969,F
+A99,400,1555,"Colson II,Marvin L",41111,Police Officer,35295,M
+A99,223,731,"Connors,John C",41111,Police Officer,19201,M
+A99,308,38687,"Cook Jr,Raymond E",41111,Police Officer,35520,M
+A99,338,7695,"Cooper,Danyell R",41111,Police Officer,17939,F
+A99,407,75706,"Cooper,Krystal L",41111,Police Officer,17423,F
+A99,91,24635,"Cooper,Monica M",41111,Police Officer,17451,F
+A99,263,43872,"Copeland,Timothy S",41111,Police Officer,17540,M
+A99,262,39007,"Corcoran,Joshua P",41111,Police Officer,17234,M
+A99,422,1515,"Cornejo,Roberto A",41111,Police Officer,46584,M
+A99,61,84023,"Cornelius,Joshua E",41111,Police Officer,43289,M
+A99,194,103547,"Cornias,Antonios Zachary C",41111,Police Officer,34791,M
+A99,422,46237,"Correa,Alexi A",41111,Police Officer,44451,M
+A99,309,1447,"Cortina,Robert A",41111,Police Officer,44465,M
+A99,299,29534,"Cossentino,Angelo J",41111,Police Officer,17801,M
+A99,407,1164,"Costales,Nelson J",41111,Police Officer,46598,M
+A99,224,103973,"Costanzo,Brian J",41111,Police Officer,16617,M
+A99,304,315,"Coughlan,Stephen",41111,Police Officer,35398,M
+A99,34,93514,"Coulibaly,Oumar D",41111,Police Officer,19121,M
+A99,225,16067,"Cox,Bernard D",41111,Police Officer,45528,M
+A99,4,38283,"Cox,Jerron E",41111,Police Officer,45513,M
+A99,167,45871,"Craft,Willis V",41111,Police Officer,18196,M
+A99,127,55157,"Craig,James L",41111,Police Officer,44458,M
+A99,4,42297,"Craig,Latora N",41111,Police Officer,17219,F
+A99,30,48359,"Crane,Robert M",41111,Police Officer,18187,M
+A99,261,67067,"Crawford,Dominic",41111,Police Officer,17614,M
+A99,260,24829,"Creed Jr,Edward W",41111,Police Officer,19194,M
+A99,5,69913,"Creer,Paul M",41111,Police Officer,17475,M
+A99,62,83981,"Crenshaw,Mark A",41111,Police Officer,46564,M
+A99,222,48679,"Critzer,Benjamin M",41111,Police Officer,35296,M
+A99,324,438,"Cromer,Ronald D",41111,Police Officer,18711,M
+A99,356,28883,"Crown,Robert",41111,Police Officer,18305,M
+A99,407,7714,"Crown,Shakisha N",41111,Police Officer,35528,F
+A99,322,838,"Cruz,Aaron",41111,Police Officer,18047,M
+A99,91,65913,"Cruz,Elvin J",41111,Police Officer,32643,M
+A99,408,46081,"Cruz,Jesus A",41111,Police Officer,19680,M
+A99,220,71038,"Cruz,Jorge L",41111,Police Officer,35347,M
+A99,223,104124,"Cruz-Vega,Samir I",41111,Police Officer,18205,M
+A99,6,96728,"Cucchiaro,Robert J",41111,Police Officer,35315,M
+A99,408,46517,"Cuddy,Sean D",41111,Police Officer,19679,M
+A99,95,46138,"Cuevas,Steven N",41111,Police Officer,17210,M
+A99,263,17048,"Curry,Joshua A",41111,Police Officer,32620,M
+A99,33,90116,"Curtis,Patrick M",41111,Police Officer,18284,M
+A99,164,57084,"Custis,Orice R",41111,Police Officer,17315,M
+A99,225,55305,"Dabrio,Mitchell D",41111,Police Officer,17261,M
+A99,94,65965,"Dacuycuy,Rhys T",41111,Police Officer,35496,M
+A99,94,79621,"Dail,Aaron M",41111,Police Officer,33798,M
+A99,398,2208,"Dallessandro,Sean",41111,Police Officer,18283,M
+A99,220,29738,"Daly,Steven M",41111,Police Officer,35535,M
+A99,61,103136,"Damestoit,Jerry",41111,Police Officer,19045,M
+A99,407,81927,"Dandy,Zachary B",41111,Police Officer,18230,M
+A99,324,571,"Daniels,Odis D",41111,Police Officer,45495,M
+A99,330,805,"Danzy,Danny C",41111,Police Officer,18963,M
+A99,162,3283,"Daughton,Danielle D",41111,Police Officer,18009,F
+A99,94,104141,"Davis,Alexia A",41111,Police Officer,18634,F
+A99,415,7156,"Davis,Andrew C",41111,Police Officer,18090,M
+A99,164,46630,"Davis,Benjamin K",41111,Police Officer,17515,M
+A99,164,33916,"Davis,Gail S",41111,Police Officer,18016,F
+A99,220,16442,"Davis,Rodderick T",41111,Police Officer,43557,M
+A99,409,29691,"Davis,Rodney E",41111,Police Officer,18388,M
+A99,305,25644,"Davis,Stephen E",41111,Police Officer,17999,M
+A99,95,55352,"Davis,Vernon S",41111,Police Officer,17399,M
+A99,200,1990,"De Franco,Michael C",41111,Police Officer,18770,M
+A99,304,1062,"De Jesus,Michael",41111,Police Officer,18217,M
+A99,224,1312,"De Jesus,Nicholas",41111,Police Officer,17522,M
+A99,408,46103,"DeJesus-Willem,Noraima",41111,Police Officer,19010,F
+A99,5,102934,"DeShields Jr.,Lamont J",41111,Police Officer,17485,M
+A99,395,83763,"Deachilla,Patrick C",41111,Police Officer,17491,M
+A99,221,28759,"Dease,Jimmy",41111,Police Officer,18819,M
+A99,265,79577,"Deasel,James T",41111,Police Officer,46604,M
+A99,63,61466,"Debrosse,Dancy E",41111,Police Officer,18297,M
+A99,6,103481,"Delgado Garcia,Emilio I",41111,Police Officer,18045,M
+A99,332,46124,"Delgado,Luis A",41111,Police Officer,17564,M
+A99,6,83799,"Delucas,Nicholas A",41111,Police Officer,17360,M
+A99,6,89992,"Dente,Nicholas M",41111,Police Officer,17280,M
+A99,408,42193,"Dewgard,Yvette",41111,Police Officer,19202,F
+A99,196,83038,"Dhaiti,Bruce L",41111,Police Officer,18126,M
+A99,322,46123,"Diaz,Juan A",41111,Police Officer,46450,M
+A99,407,48094,"Diaz,Pablo",41111,Police Officer,33804,M
+A99,347,416,"Dicandeloro Jr,Joseph A",41111,Police Officer,19177,M
+A99,223,54154,"Dickens,Frederico E",41111,Police Officer,19066,M
+A99,96,104476,"Diehl,Charles A",41111,Police Officer,44464,M
+A99,323,17142,"Diggs,Sharon A",41111,Police Officer,17993,F
+A99,160,12219,"Dill,James W",41111,Police Officer,17243,M
+A99,193,84046,"Dinh,Huy N",41111,Police Officer,46534,M
+A99,330,20832,"Dinunno,Matthew T",41111,Police Officer,18306,M
+A99,348,69413,"Dipaola,Jason G",41111,Police Officer,33812,M
+A99,304,12181,"Dipaola,Jeffrey J",41111,Police Officer,17520,M
+A99,415,1643,"Disimone,Matthew M",41111,Police Officer,18257,M
+A99,65,79157,"Distance,Jordan C",41111,Police Officer,35393,M
+A99,330,16369,"Dixon,Duane L",41111,Police Officer,18930,M
+A99,225,41806,"Dockins,Leon C",41111,Police Officer,35369,M
+A99,396,41355,"Dodge Jr,Harry M",41111,Police Officer,17573,M
+A99,123,33748,"Dodson,Eric A",41111,Police Officer,17232,M
+A99,95,670,"Dolcine,Pierre P",41111,Police Officer,32622,M
+A99,5,61908,"Dollard,Jared B",41111,Police Officer,35396,M
+A99,407,109098,"Donoghue,Benjamin P",41111,Police Officer,44463,M
+A99,223,75575,"Dore,Dennis P",41111,Police Officer,17707,M
+A99,408,54551,"Dorn,Steven L",41111,Police Officer,43286,M
+A99,35,93231,"Dorrance,Kyle E",41111,Police Officer,18714,M
+A99,125,48344,"Dow,Brian D",41111,Police Officer,46576,M
+A99,161,103168,"Dow,James H",41111,Police Officer,34913,M
+A99,225,104121,"Downs,Jacob T",41111,Police Officer,18346,M
+A99,95,89601,"Doyle,Gary J",41111,Police Officer,17363,M
+A99,407,70476,"Ducharme,Cody A",41111,Police Officer,35407,M
+A99,61,30632,"Duck,Deonte M",41111,Police Officer,35381,M
+A99,5,38976,"Duckett,Joseph B",41111,Police Officer,18532,M
+A99,95,103810,"Dundore,Maxwell V",41111,Police Officer,19174,M
+A99,195,103338,"Duran,Jeff L",41111,Police Officer,17811,M
+A99,415,29240,"Durant,Damond T",41111,Police Officer,17958,M
+A99,164,33393,"Durant,Smith",41111,Police Officer,18106,M
+A99,260,16949,"Dyson,Chris C",41111,Police Officer,36516,M
+A99,422,34063,"Dyson,Timika S",41111,Police Officer,35536,F
+A99,221,38776,"Dzambo,Matthew J",41111,Police Officer,35300,M
+A99,356,33531,"Eames,Deidre A",41111,Police Officer,35487,F
+A99,347,20523,"Earp,Philip A",41111,Police Officer,17327,M
+A99,300,40720,"Edgar,William C",41111,Police Officer,19154,M
+A99,222,79396,"Edleman,Gregory M",41111,Police Officer,34812,M
+A99,360,42606,"Edlow,Kenzi L",41111,Police Officer,18044,M
+A99,64,102912,"Edwards,Alan M",41111,Police Officer,17318,M
+A99,223,106789,"Ekundayo,Henry T",41111,Police Officer,45498,M
+A99,407,71484,"Eley,Thaddeus M",41111,Police Officer,18336,M
+A99,164,7167,"Elliott,Betavia L",41111,Police Officer,17477,F
+A99,223,93376,"Elmera,Junior S",41111,Police Officer,18944,M
+A99,123,66455,"Emeigh,Shawn C",41111,Police Officer,17632,M
+A99,125,631,"Emerson,Adrian B",41111,Police Officer,17901,M
+A99,415,55347,"English,Chantell N",41111,Police Officer,18163,F
+A99,324,29634,"Ennis,Kellie",41111,Police Officer,32629,F
+A99,162,64085,"Ernst,Jonathan S",41111,Police Officer,16718,M
+A99,195,103266,"Eshmont,Julija A",41111,Police Officer,17562,F
+A99,94,102645,"Esteves,Adam J",41111,Police Officer,18150,M
+A99,408,55648,"Etheredge,Tyrone",41111,Police Officer,18185,M
+A99,224,90079,"Etting,Jamison T",41111,Police Officer,17722,M
+A99,193,84071,"Eugene,Moise",41111,Police Officer,18462,M
+A99,94,5096,"Evans Jr.,Rodney A",41111,Police Officer,17389,M
+A99,264,104450,"Evans,Chase S",41111,Police Officer,44461,M
+A99,341,12402,"Faison,Robert D",41111,Police Officer,46606,M
+A99,262,74060,"Familia,Yenuel F",41111,Police Officer,17497,M
+A99,408,70627,"Farah,Asad A",41111,Police Officer,18265,M
+A99,305,17067,"Farley,Charles B",41111,Police Officer,35329,M
+A99,321,501,"Farley,Wendy K",41111,Police Officer,35308,F
+A99,32,1745,"Fasano,Lawrence V",41111,Police Officer,18538,M
+A99,124,47477,"Faulkner,Charles L",41111,Police Officer,46581,M
+A99,399,37198,"Feaster,Charles E",41111,Police Officer,35248,M
+A99,190,30894,"Feaster,Lakisha E",41111,Police Officer,17870,F
+A99,33,14803,"Feehely,Michael K",41111,Police Officer,17226,M
+A99,407,714,"Feliciano Jr,Carlos R",41111,Police Officer,17443,M
+A99,160,46618,"Felt,Serge J",41111,Police Officer,17209,M
+A99,200,1464,"Ferdinand,Sendy",41111,Police Officer,46518,M
+A99,61,34739,"Ferges,Maria P",41111,Police Officer,18594,F
+A99,408,41995,"Ferguson,Michelle D",41111,Police Officer,46506,F
+A99,348,36031,"Ferguson,Triston A",41111,Police Officer,16719,M
+A99,396,29749,"Feser,Jason R",41111,Police Officer,18083,M
+A99,309,57538,"Fidler,Joshua A",41111,Police Officer,18513,M
+A99,407,95083,"Figueroa,Jose R",41111,Police Officer,17839,M
+A99,33,90125,"Fischer,Steven D",41111,Police Officer,18539,M
+A99,407,1825,"Fisher,Gregory R",41111,Police Officer,18108,M
+A99,408,57503,"Fisher,Krystle N",41111,Police Officer,18066,F
+A99,161,7574,"Fleet,Theo D",41111,Police Officer,17426,M
+A99,125,54634,"Fleming,Brent R",41111,Police Officer,16692,M
+A99,164,45586,"Flemming,Shrina N",41111,Police Officer,33836,F
+A99,407,43089,"Florio,Chris P",41111,Police Officer,17419,M
+A99,94,61556,"Floyd,Daniel W",41111,Police Officer,45518,M
+A99,6,96388,"Font,Ariel",41111,Police Officer,17474,M
+A99,97,701,"Forbes,Anthony O",41111,Police Officer,17881,M
+A99,165,38913,"Ford,Brian D",41111,Police Officer,35552,M
+A99,261,8174,"Ford,Jonathan W",41111,Police Officer,17401,M
+A99,322,20562,"Forsythe,Sandra D",41111,Police Officer,35273,F
+A99,63,48574,"Foster,Brandon K",41111,Police Officer,46546,M
+A99,223,1053,"Foster,Sade L",41111,Police Officer,17240,F
+A99,65,78958,"Foster,Steven J",41111,Police Officer,17954,M
+A99,408,61495,"Fota,Sean",41111,Police Officer,17703,M
+A99,308,38470,"Foye,Shakisha L",41111,Police Officer,46611,F
+A99,125,61496,"France,Amahl E",41111,Police Officer,18412,M
+A99,407,33979,"Francis,Loretta L",41111,Police Officer,18235,F
+A99,123,103630,"Frank,Dominick S",41111,Police Officer,17335,M
+A99,193,25148,"Frank,John E",41111,Police Officer,18152,M
+A99,262,103279,"Franks,Zachary A",41111,Police Officer,17659,M
+A99,310,24936,"Frauenhoffer,James M",41111,Police Officer,17534,M
+A99,338,16750,"Fritzges Jr,Joseph B",41111,Police Officer,46427,M
+A99,124,2292,"Fuksa,Shawn",41111,Police Officer,17288,M
+A99,125,94946,"Fuller,Robert E",41111,Police Officer,17199,M
+A99,407,17289,"Fuller,Vernon",41111,Police Officer,46608,M
+A99,35,75404,"Funk,Jason A",41111,Police Officer,17478,M
+A99,330,29861,"Fyffe Jr,Danny L",41111,Police Officer,34935,M
+A99,164,45372,"Gabbard,Jacob E",41111,Police Officer,17678,M
+A99,35,55288,"Gabriel,Timmy B",41111,Police Officer,17303,M
+A99,408,78676,"Gaff,Donald B",41111,Police Officer,35335,M
+A99,407,28645,"Gale,Ronald A",41111,Police Officer,17710,M
+A99,398,48987,"Galeano,Keith T",41111,Police Officer,33806,M
+A99,95,44679,"Galfi,Theodore J",41111,Police Officer,19200,M
+A99,60,25083,"Gallion,Richard F",41111,Police Officer,18682,M
+A99,194,103974,"Gamedah,Komlavi E",41111,Police Officer,35545,M
+A99,95,89145,"Garcia Jr.,Alejandro",41111,Police Officer,17215,M
+A99,120,1419,"Garcia,Juan",41111,Police Officer,43292,M
+A99,407,79602,"Garcia,Luis C",41111,Police Officer,17887,M
+A99,162,75595,"Garcia,Melvin J",41111,Police Officer,34910,M
+A99,161,79336,"Garcia-Micolta,Jonathan W",41111,Police Officer,18470,M
+A99,297,24280,"Gardner,Earl S",41111,Police Officer,36512,M
+A99,5,96829,"Gardner,Keith R",41111,Police Officer,17694,M
+A99,336,29021,"Gardner,Timothy W",41111,Police Officer,19110,M
+A99,164,44787,"Garrett,Dathan",41111,Police Officer,46580,M
+A99,64,103191,"Garrison,Austin J",41111,Police Officer,35402,M
+A99,313,54162,"Garvin,Arturo",41111,Police Officer,17856,M
+A99,312,34326,"Gary,Jeffrey M",41111,Police Officer,17662,M
+A99,407,24655,"Gary,Michael A",41111,Police Officer,18000,M
+A99,415,44285,"Gary,Tashema D",41111,Police Officer,17943,F
+A99,422,45856,"Gaskins Jr,Franklin D",41111,Police Officer,18485,M
+A99,61,61789,"Gasque,Kweisa I",41111,Police Officer,17838,F
+A99,30,20555,"Gatewood,Christopher L",41111,Police Officer,46415,M
+A99,200,20965,"Gatto,Abraham M",41111,Police Officer,45480,M
+A99,407,104412,"Gavilano,Fernando",41111,Police Officer,19677,M
+A99,167,2836,"Gavin,Valencia C",41111,Police Officer,50434,F
+A99,200,2269,"Geare,Paul T",41111,Police Officer,18768,M
+A99,394,7327,"Geddis,Eric L",41111,Police Officer,17543,M
+A99,95,89772,"Geer,Norman W",41111,Police Officer,17555,M
+A99,161,102686,"Georgakopoulos,Vasilios T",41111,Police Officer,18375,M
+A99,162,20566,"George,Michael W",41111,Police Officer,33824,M
+A99,407,55258,"Gerber,Dominic F",41111,Police Officer,18448,M
+A99,408,29767,"Gerber,Matthew F",41111,Police Officer,46574,M
+A99,422,104001,"Gertz,Bruce G",41111,Police Officer,35553,M
+A99,407,1655,"Gesla,Krzysztof",41111,Police Officer,43296,M
+A99,312,28887,"Getsinger Jr,Thomas C",41111,Police Officer,35548,M
+A99,5,104077,"Gibbs,Andrew R",41111,Police Officer,17976,M
+A99,224,96770,"Gibson,Brett M",41111,Police Officer,17345,M
+A99,161,75408,"Gibson,Damarra C",41111,Police Officer,17642,F
+A99,2,45293,"Gillespie,Dennis",41111,Police Officer,17601,M
+A99,408,34670,"Gilliam,Aaron A",41111,Police Officer,17764,M
+A99,223,2294,"Gillig,Andrew M",41111,Police Officer,19189,M
+A99,123,34158,"Gipson III,James",41111,Police Officer,17652,M
+A99,160,20936,"Githara,George M",41111,Police Officer,44456,M
+A99,407,45297,"Githara,Verillian V",41111,Police Officer,17786,F
+A99,63,49265,"Glanville,Andrew O",41111,Police Officer,19068,M
+A99,124,3797,"Glass,Ryan A",41111,Police Officer,17222,M
+A99,63,38411,"Glawe,Erich J",41111,Police Officer,36514,M
+A99,408,45461,"Glenn,Chad W",41111,Police Officer,46603,M
+A99,334,17298,"Glover,Ethan J",41111,Police Officer,46447,M
+A99,94,70914,"Godsmark,Mark C",41111,Police Officer,46543,M
+A99,261,33895,"Gold Jr,Michael E",41111,Police Officer,36518,M
+A99,295,25454,"Gondo,Momodu",41111,Police Officer,17484,M
+A99,164,71501,"Gonzalez,Cesar R",41111,Police Officer,17221,M
+A99,309,1212,"Gonzalez,Ivan",41111,Police Officer,17246,M
+A99,95,65517,"Gonzalez,Jerry F",41111,Police Officer,18961,M
+A99,95,89638,"Gonzalez,Joshua S",41111,Police Officer,17472,M
+A99,95,103080,"Gonzalez-Lopez,Edgar",41111,Police Officer,17933,M
+A99,93,3370,"Goode,Sharee",41111,Police Officer,18191,F
+A99,400,45831,"Gooden,Kyle E",41111,Police Officer,17285,M
+A99,408,29067,"Gooden,Tamika L",41111,Police Officer,17570,F
+A99,MIL,62259,"Goods,Danielle S",41111,Police Officer,35421,F
+A99,347,29602,"Goodson Jr,Caesar R",41111,Police Officer,35268,M
+A99,310,43433,"Goodwin,Creinton",41111,Police Officer,17720,M
+A99,167,49325,"Gordon,Christopher L",41111,Police Officer,50433,M
+A99,422,38642,"Gordon,Edward C",41111,Police Officer,33790,M
+A99,3,16349,"Gore,Denise M",41111,Police Officer,18007,F
+A99,352,24474,"Gorwell II,Edward T",41111,Police Officer,18493,M
+A99,3,61884,"Gossett,John D",41111,Police Officer,35392,M
+A99,225,83686,"Grant,Jamel A",41111,Police Officer,17963,M
+A99,90,3332,"Grant-Scott,Tamara M",41111,Police Officer,18519,F
+A99,93,79190,"Gray,Asa M",41111,Police Officer,19120,M
+A99,262,24541,"Gray,Johnta J",41111,Police Officer,18365,M
+A99,308,34335,"Green,Charles R",41111,Police Officer,17414,M
+A99,122,17237,"Green,Dwayne N",41111,Police Officer,18383,M
+A99,224,33998,"Green,James B",41111,Police Officer,17499,M
+A99,194,44588,"Green,Jasmine J",41111,Police Officer,33819,M
+A99,408,42676,"Green,Quinise M",41111,Police Officer,34918,F
+A99,408,12173,"Green,Tivon D",41111,Police Officer,17410,M
+A99,397,1465,"Green,Wilson",41111,Police Officer,46585,M
+A99,200,29012,"Greene Jr,David E",41111,Police Officer,17346,M
+A99,161,24428,"Greene,David A",41111,Police Officer,42202,M
+A99,224,12368,"Greene,Melva E",41111,Police Officer,17907,F
+A99,200,45041,"Greenhill,L C",41111,Police Officer,18248,M
+A99,160,42015,"Griffin,Derelle T",41111,Police Officer,17309,M
+A99,324,54538,"Grimes,Bernadette L",41111,Police Officer,19100,F
+A99,63,16706,"Grimes,Charles E",41111,Police Officer,18474,M
+A99,120,6850,"Grishkot,Lee H",41111,Police Officer,32678,M
+A99,195,103629,"Groop,Casey S",41111,Police Officer,17302,M
+A99,335,38624,"Gross,Marvin J",41111,Police Officer,18159,M
+A99,313,78244,"Grove,Eric W",41111,Police Officer,18317,M
+A99,193,8023,"Grubb Jr,Danny G",41111,Police Officer,35354,M
+A99,162,71487,"Guerrero,Jose O",41111,Police Officer,18967,M
+A99,222,75576,"Gurbelski,Mark T",41111,Police Officer,17567,M
+A99,124,49168,"Guy,Richard",41111,Police Officer,17331,M
+A99,94,52719,"Hackett,Anthony J",41111,Police Officer,17587,M
+A99,223,33596,"Haefner,Timothy J",41111,Police Officer,18928,M
+A99,160,29250,"Hailey Jr,John L",41111,Police Officer,18273,M
+A99,197,20018,"Hairston,Durel E",41111,Police Officer,18158,M
+A99,329,8372,"Haley Jr,John L",41111,Police Officer,19032,M
+A99,MIL,79537,"Halilaj,Taulant A",41111,Police Officer,17869,M
+A99,408,11777,"Hall,Chaunte",41111,Police Officer,19065,F
+A99,321,29321,"Hall,Christopher A",41111,Police Officer,35404,M
+A99,408,78943,"Hall,Joshua M",41111,Police Officer,17867,M
+A99,310,33964,"Hall,Michael C",41111,Police Officer,18998,M
+A99,94,38667,"Hall,Richard I",41111,Police Officer,17737,M
+A99,310,373,"Halstead,Stephen A",41111,Police Officer,35570,M
+A99,304,1929,"Hameier,Kurt E",41111,Police Officer,42203,M
+A99,2,16047,"Hamilton,Lolando L",41111,Police Officer,46492,M
+A99,312,34552,"Hamilton,Timothy E",41111,Police Officer,45501,M
+A99,162,78891,"Hamond,Rashad M",41111,Police Officer,18049,M
+A99,408,20423,"Hannah,Fred E",41111,Police Officer,17329,M
+A99,95,79593,"Hansen,Austin A",41111,Police Officer,34803,M
+A99,193,82782,"Hansen,Steven M",41111,Police Officer,17585,M
+A99,125,20759,"Hanyok,John J",41111,Police Officer,19118,M
+A99,261,2374,"Harding,Sylvanus A",41111,Police Officer,46416,M
+A99,95,89245,"Harmon-Perez,Yanine M",41111,Police Officer,17338,F
+A99,260,83725,"Harner,Colin G",41111,Police Officer,17380,M
+A99,407,71084,"Harper,Tamara L",41111,Police Officer,34919,F
+A99,223,104228,"Harris,Andre C",41111,Police Officer,17213,M
+A99,408,12119,"Harris,Gaynell M",41111,Police Officer,19209,F
+A99,194,29987,"Harris,Jamal L",41111,Police Officer,35277,M
+A99,34,62219,"Harris,Johnathan C",41111,Police Officer,17195,M
+A99,335,1063,"Harris,Shareen K",41111,Police Officer,46437,F
+A99,62,12153,"Harvey,Tremaine J",41111,Police Officer,18699,M
+A99,95,66400,"Hashagen,Alex R",41111,Police Officer,17863,M
+A99,124,49336,"Haskins,Christopher",41111,Police Officer,35409,M
+A99,197,78955,"Hassan,Sufian B",41111,Police Officer,18321,M
+A99,64,106790,"Hastings-Hamilton,Cody W",41111,Police Officer,45502,M
+A99,408,79433,"Hastings-Hamilton,Kirstin D",41111,Police Officer,17714,F
+A99,263,38320,"Hatcher,Ned J",41111,Police Officer,17277,M
+A99,295,7739,"Hayden,Jonathan P",41111,Police Officer,17952,M
+A99,200,2973,"Hayes,Donald E",41111,Police Officer,17603,M
+A99,93,47768,"Hayes,Kristopher C",41111,Police Officer,45529,M
+A99,422,56912,"Hayes,Paul B",41111,Police Officer,17235,M
+A99,222,90051,"Healey,William M",41111,Police Officer,43553,M
+A99,415,40716,"Healey,William P",41111,Police Officer,18149,M
+A99,63,49366,"Heath,Christopher D",41111,Police Officer,18429,M
+A99,62,44858,"Heflin Jr,Thomas Q",41111,Police Officer,45532,M
+A99,304,29826,"Helm Jr.,Bradley J",41111,Police Officer,17629,M
+A99,95,96713,"Helman,Hunter J",41111,Police Officer,33815,M
+A99,94,66289,"Henard,Christopher J",41111,Police Officer,18244,M
+A99,35,103554,"Henderson,Nathan D",41111,Police Officer,35416,M
+A99,330,42954,"Hendrick,Paul E",41111,Police Officer,17679,M
+A99,408,7086,"Henriques,Dawnyell S",41111,Police Officer,46433,F
+A99,265,70606,"Henry,Jeffrey B",41111,Police Officer,18352,M
+A99,223,29926,"Henry,Marcus D",41111,Police Officer,17634,M
+A99,123,96716,"Henry,Matthew L",41111,Police Officer,34789,M
+A99,302,8139,"Henry,Scott",41111,Police Officer,19199,M
+A99,3,20115,"Hensley,Gerald M",41111,Police Officer,18056,M
+A99,329,7456,"Henson,Steven",41111,Police Officer,18065,M
+A99,305,823,"Herman,Mathew A",41111,Police Officer,17597,M
+A99,408,71705,"Hernandez,Benjamin F",41111,Police Officer,19103,M
+A99,408,46091,"Hernandez,Jeffrey",41111,Police Officer,17909,M
+A99,95,96604,"Herz,Thomas H",41111,Police Officer,32692,M
+A99,407,2843,"Hess,Jason A",41111,Police Officer,18681,M
+A99,334,24218,"Hester,Glenn J",41111,Police Officer,17316,M
+A99,190,83787,"Heuser,Jared C",41111,Police Officer,17623,M
+A99,62,1767,"Hicks,Dane L",41111,Police Officer,18324,M
+A99,124,52773,"Hightower,Bria D",41111,Police Officer,18064,F
+A99,304,2775,"Hildebrandt,Donald P",41111,Police Officer,18272,M
+A99,408,1896,"Hildebrandt,Jennifer L",41111,Police Officer,46613,F
+A99,4,83041,"Hill,Kahron K",41111,Police Officer,17802,M
+A99,190,74493,"Hill,Natasha D",41111,Police Officer,18450,F
+A99,34,94939,"Hilton,James R",41111,Police Officer,17312,M
+A99,93,82784,"Hinds,Gary E",41111,Police Officer,18095,M
+A99,408,45487,"Hinkley,Lisa M",41111,Police Officer,18155,F
+A99,197,38665,"Hinson,Eric K",41111,Police Officer,32710,M
+A99,2,38891,"Hittle,David S",41111,Police Officer,18595,M
+A99,305,65277,"Hobe,Allyson M",41111,Police Officer,35523,F
+A99,61,75448,"Hodas Jr.,Thomas P",41111,Police Officer,18518,M
+A99,330,25171,"Hoffman,Christopher J",41111,Police Officer,17709,M
+A99,94,96768,"Hoffman,Jordan M",41111,Police Officer,17282,M
+A99,223,103667,"Hohenstein,Randolph B",41111,Police Officer,17911,M
+A99,263,104187,"Holleman,Walter B",41111,Police Officer,32674,M
+A99,61,79430,"Holliday,Cody R",41111,Police Officer,42190,M
+A99,62,103140,"Holt,Bruce G",41111,Police Officer,18888,M
+A99,305,12143,"Hood,Arthur F",41111,Police Officer,17884,M
+A99,297,65418,"Hooper,Jeffrey A",41111,Police Officer,17661,M
+A99,407,25646,"Hoover,Jason Loui M",41111,Police Officer,17350,M
+A99,295,33865,"Hopson,Antonnio R",41111,Police Officer,46481,M
+A99,61,83648,"Horne Jr.,John H",41111,Police Officer,18268,M
+A99,324,25086,"Horne,Robert N",41111,Police Officer,18465,M
+A99,415,66484,"Horton,Ralph F",41111,Police Officer,44367,M
+A99,408,62226,"Hosein,Kern D",41111,Police Officer,17292,M
+A99,4,83804,"Houk,Jeffrey D",41111,Police Officer,17558,M
+A99,396,41769,"Howard Jr,Rodney",41111,Police Officer,18209,M
+A99,335,2974,"Howard,Justin J",41111,Police Officer,18657,M
+A99,408,2186,"Howard,Kenneth P",41111,Police Officer,17278,M
+A99,261,79355,"Howard,Terrell C",41111,Police Officer,17333,M
+A99,193,1687,"Hubbard Jr,Arkel A",41111,Police Officer,18410,M
+A99,302,61783,"Huber,Brian T",41111,Police Officer,35294,M
+A99,1,40020,"Huffman,Jennifer L",41111,Police Officer,18633,F
+A99,124,61898,"Hull,David R",41111,Police Officer,35406,M
+A99,408,78991,"Hussain,Shaqeeb A",41111,Police Officer,19101,M
+A99,305,44363,"Huter,Patrick J",41111,Police Officer,18708,M
+A99,164,103560,"Iglesias,Pablo D",41111,Police Officer,35551,M
+A99,408,46102,"Irizarry,Yolanda",41111,Police Officer,18721,F
+A99,93,102977,"Irizarry-Vega,Juan F",41111,Police Officer,17736,M
+A99,312,38833,"Izquierdo,Christopher D",41111,Police Officer,17461,M
+A99,95,992,"Jackson,Angelo W",41111,Police Officer,18276,M
+A99,200,34060,"Jackson,Fletcher L",41111,Police Officer,46485,M
+A99,194,104044,"Jackson,James E",41111,Police Officer,17516,M
+A99,5,102478,"Jackson,Joshua J",41111,Police Officer,17927,M
+A99,395,61557,"Jaimes,John F",41111,Police Officer,19111,M
+A99,399,44879,"James,Natasha M",41111,Police Officer,18451,F
+A99,262,7569,"James,Rodney T",41111,Police Officer,17276,M
+A99,422,34280,"Jaramillo,Julio M",41111,Police Officer,17979,M
+A99,407,46587,"Javed,Hassan A",41111,Police Officer,18389,M
+A99,93,66780,"Jeanty,Francisco",41111,Police Officer,19036,M
+A99,329,20694,"Jefferson,Eric M",41111,Police Officer,17434,M
+A99,94,81752,"Jeffrey,Kent R",41111,Police Officer,46464,M
+A99,124,94991,"Jeffry,Christopher M",41111,Police Officer,17708,M
+A99,396,46051,"Jenifer,Phoenix",41111,Police Officer,45467,F
+A99,335,78756,"Jenkins,Frank",41111,Police Officer,18442,M
+A99,93,89246,"Jenkins,Haneefah A",41111,Police Officer,17383,F
+A99,348,29743,"Jennings,Corey S",41111,Police Officer,17766,M
+A99,124,96420,"Jensen,Daniel C",41111,Police Officer,17677,M
+A99,126,107271,"Jeter,Anthony M",41111,Police Officer,46422,M
+A99,194,104142,"Jett,Lamont A",41111,Police Officer,18700,M
+A99,409,34229,"Jimmerson,Jo Anne D",41111,Police Officer,33845,F
+A99,63,1220,"John,Audwyn A",41111,Police Officer,17539,M
+A99,160,985,"John,Clement A",41111,Police Officer,17610,M
+A99,322,57449,"Johncox,Peter L",41111,Police Officer,17940,M
+A99,164,20798,"Johnson Jr,John S",41111,Police Officer,42210,M
+A99,394,20419,"Johnson Jr,Lloyd E",41111,Police Officer,18637,M
+A99,62,103671,"Johnson,Cameron M",41111,Police Officer,18165,M
+A99,35,34557,"Johnson,Chantel D",41111,Police Officer,35337,F
+A99,407,24535,"Johnson,David",41111,Police Officer,17537,M
+A99,330,38801,"Johnson,Eric T",41111,Police Officer,17377,M
+A99,94,20801,"Johnson,Jamaal G",41111,Police Officer,18266,M
+A99,260,12450,"Johnson,Katrinka M",41111,Police Officer,18097,F
+A99,330,16699,"Johnson,Kyle A",41111,Police Officer,45545,M
+A99,64,55160,"Johnson,Marcus C",41111,Police Officer,18339,M
+A99,220,65343,"Johnson,Michael D",41111,Police Officer,43281,M
+A99,160,79398,"Johnson,Rondelle J",41111,Police Officer,17325,M
+A99,165,57098,"Johnson,Wanda N",41111,Police Officer,18488,F
+A99,224,93228,"Jointer,Carlin Z",41111,Police Officer,18482,M
+A99,322,16608,"Jones IV,Melvin E",41111,Police Officer,19179,M
+A99,6,20588,"Jones Jr,Arnold L",41111,Police Officer,46420,M
+A99,2,11683,"Jones Jr,David C",41111,Police Officer,17847,M
+A99,348,79205,"Jones Jr,Norman A",41111,Police Officer,46516,M
+A99,334,25665,"Jones Sr,Ryan F",41111,Police Officer,18172,M
+A99,33,30087,"Jones,April S",41111,Police Officer,18077,F
+A99,196,48345,"Jones,Bryant W",41111,Police Officer,33785,M
+A99,125,17328,"Jones,Dennis C",41111,Police Officer,17865,M
+A99,60,84078,"Jones,Dwyone A",41111,Police Officer,18960,M
+A99,330,24060,"Jones,Eyvette W",41111,Police Officer,18898,F
+A99,347,29150,"Jones,Kevin E",41111,Police Officer,46556,M
+A99,337,25029,"Jones,Lakiea M",41111,Police Officer,17630,F
+A99,93,83068,"Jones,Michael F",41111,Police Officer,18089,M
+A99,93,59005,"Jones,Phillip J",41111,Police Officer,17190,M
+A99,322,11774,"Jordan,Robert E",41111,Police Officer,17488,M
+A99,299,2605,"Jugan,Thomas M",41111,Police Officer,17799,M
+A99,64,74814,"Jukam,Jon T",41111,Police Officer,17509,M
+A99,415,75373,"Julio,Vincenzo C",41111,Police Officer,17704,M
+A99,33,1202,"Jurry,Tugbeh J",41111,Police Officer,33809,M
+A99,395,3142,"Kahler,Mark W",41111,Police Officer,46559,M
+A99,95,96838,"Kain,Charles N",41111,Police Officer,17508,M
+A99,5,1138,"Kalinowski,Brian J",41111,Police Officer,18636,M
+A99,34,34231,"Kamberger,Michael",41111,Police Officer,18012,M
+A99,95,26330,"Kane,Donta T",41111,Police Officer,18460,M
+A99,408,41209,"Karn,Michael S",41111,Police Officer,46471,M
+A99,62,103236,"Kayati,Amine M",41111,Police Officer,17473,M
+A99,322,39002,"Kazmarek,Christopher A",41111,Police Officer,46533,M
+A99,35,90044,"Keenan,Mark P",41111,Police Officer,43552,M
+A99,162,34750,"Keitz Jr,William A",41111,Police Officer,42185,M
+A99,263,103549,"Kellogg,Sharif K",41111,Police Officer,34909,M
+A99,2,21181,"Kelly,Christopher R",41111,Police Officer,18101,M
+A99,94,20959,"Kelly,Joshua J",41111,Police Officer,35367,M
+A99,407,109237,"Kensey,Andrew J",41111,Police Officer,17750,M
+A99,322,17244,"Kershaw,Bryan P",41111,Police Officer,18824,M
+A99,95,79617,"Kim,John J",41111,Police Officer,18014,M
+A99,330,12349,"Kim,Yoo W",41111,Police Officer,18678,M
+A99,123,70915,"Kipp,Joshua J",41111,Police Officer,17818,M
+A99,2,75691,"Kirby,Thomas J",41111,Police Officer,32660,M
+A99,124,54216,"Kitt,John M",41111,Police Officer,18654,M
+A99,3,74100,"Klado,Gary O",41111,Police Officer,18269,M
+A99,91,75396,"Klingenstein,Matthew S",41111,Police Officer,19164,M
+A99,90,2874,"Klinges,Annemarie A",41111,Police Officer,18338,F
+A99,125,66046,"Klocko,Richard F",41111,Police Officer,33794,M
+A99,407,25259,"Knight,Dennis R",41111,Police Officer,19175,M
+A99,64,48326,"Kolb,Kevin M",41111,Police Officer,35304,M
+A99,408,15930,"Kolbe,Raymond K",41111,Police Officer,45546,M
+A99,425,74608,"Koo,Seong L",41111,Police Officer,32657,M
+A99,224,65429,"Kosko IV,John G",41111,Police Officer,35506,M
+A99,2,70179,"Kostoplis,James S",41111,Police Officer,17252,M
+A99,304,25761,"Krauss,Damion M",41111,Police Officer,32691,M
+A99,33,28877,"Kreafle,Anthony B",41111,Police Officer,17231,M
+A99,95,103077,"Kreiter,Calvin M",41111,Police Officer,18426,M
+A99,166,81753,"Kruesi,Kyle W",41111,Police Officer,17361,M
+A99,195,11589,"La Prade,Lawrence",41111,Police Officer,35525,M
+A99,262,79163,"LaPorta,Dylan R",41111,Police Officer,46457,M
+A99,162,70176,"Labar,Robert A",41111,Police Officer,46547,M
+A99,164,46113,"Laboy,Jahaziel",41111,Police Officer,18423,M
+A99,331,83072,"Lagola,Neil F",41111,Police Officer,19577,M
+A99,194,54498,"Lam,Moussa A",41111,Police Officer,18890,M
+A99,415,70083,"Lance,Robert C",41111,Police Officer,32672,M
+A99,334,1892,"Landing,Corey L",41111,Police Officer,17351,M
+A99,224,45859,"Lane,Edwin",41111,Police Officer,43538,M
+A99,395,66722,"Lane,Jonathan F",41111,Police Officer,18406,M
+A99,125,1386,"Lang,Michael J",41111,Police Officer,35275,M
+A99,93,62292,"Langjahr,Steven F",41111,Police Officer,33792,M
+A99,330,7238,"Lansey,Anthony D",41111,Police Officer,33789,M
+A99,407,46582,"Laracuente,Eddie J",41111,Police Officer,17643,M
+A99,322,1618,"Larbi,Manuel J",41111,Police Officer,18484,M
+A99,6,104078,"Larson,Brian J",41111,Police Officer,18026,M
+A99,200,1516,"Lascelle,Shawn E",41111,Police Officer,43294,M
+A99,407,55163,"Lattimore,Genara M",41111,Police Officer,18374,F
+A99,262,3184,"Lawrence,Scott J",41111,Police Officer,17675,M
+A99,408,75709,"LeMaitre,Christopher J",41111,Police Officer,17307,M
+A99,120,96489,"Leak,Clayton D",41111,Police Officer,19180,M
+A99,266,24325,"Leake,Nicole D",41111,Police Officer,35281,F
+A99,408,371,"Leamon,Edmond",41111,Police Officer,18274,M
+A99,408,43026,"Leary,Keven R",41111,Police Officer,46565,M
+A99,95,61566,"Lebrun,John L",41111,Police Officer,17264,M
+A99,200,25163,"Lebrun,Robert L",41111,Police Officer,18679,M
+A99,2,3355,"Lee,Charles E",41111,Police Officer,17989,M
+A99,123,3368,"Lee,Jason T",41111,Police Officer,17237,M
+A99,160,81928,"Leepa,Matthew R",41111,Police Officer,17494,M
+A99,312,33033,"Leepa,Robert C",41111,Police Officer,17257,M
+A99,32,1854,"Lehman,Christopher M",41111,Police Officer,43288,M
+A99,407,11346,"Leisher II,Jerome L",41111,Police Officer,32638,M
+A99,195,103811,"Leister,Shannon M",41111,Police Officer,32632,F
+A99,5,103842,"Lepper,Stephen M",41111,Police Officer,35343,M
+A99,34,103812,"Leppo,Jordan E",41111,Police Officer,34785,M
+A99,200,29349,"Lettau,Shane T",41111,Police Officer,18769,M
+A99,193,86553,"Levasseur,Michael W",41111,Police Officer,19186,M
+A99,222,69464,"Leventhall,Jason M",41111,Police Officer,43556,M
+A99,34,93229,"Levierge,Anthony E",41111,Police Officer,18447,M
+A99,322,1633,"Lewis,Brian C",41111,Police Officer,18201,M
+A99,30,74803,"Lewis,Danielle A",41111,Police Officer,17885,F
+A99,5,69994,"Lewis,Eric D",41111,Police Officer,45520,M
+A99,356,46477,"Lewis,Josie M",41111,Police Officer,17738,F
+A99,408,7490,"Lewis,Lakishna N",41111,Police Officer,17256,F
+A99,200,45067,"Lilly,Jeffrey J",41111,Police Officer,18643,M
+A99,193,7675,"Lind,Michael J",41111,Police Officer,19155,M
+A99,297,20554,"Linthicum,Amanda D",41111,Police Officer,17903,F
+A99,330,89102,"Lippe,Philip B",41111,Police Officer,16696,M
+A99,120,61455,"Liu,Victor L",41111,Police Officer,16625,M
+A99,90,552,"Lizardo,Volmy",41111,Police Officer,46536,M
+A99,2,8172,"Lockhart,Iris T",41111,Police Officer,32666,F
+A99,6,107577,"Lockwood,Evan R",41111,Police Officer,46544,M
+A99,396,38996,"Lofton,Osiris",41111,Police Officer,35317,M
+A99,408,48367,"Lohmann,Katherine",41111,Police Officer,33795,F
+A99,91,49437,"London,Darrell T",41111,Police Officer,19183,M
+A99,4,54220,"Long,Christopher W",41111,Police Officer,17272,M
+A99,415,1913,"Long,Michael",41111,Police Officer,46472,M
+A99,2,1118,"Longmire,Colette",41111,Police Officer,18629,F
+A99,408,1116,"Lopez,Angel L",41111,Police Officer,18917,M
+A99,161,75280,"Lopez,Israel I",41111,Police Officer,17739,M
+A99,95,93230,"Lopez,Leonel A",41111,Police Officer,18901,M
+A99,62,103243,"Loughrey,Cullen D",41111,Police Officer,17486,M
+A99,356,34262,"Love Jr,Terry W",41111,Police Officer,17860,M
+A99,407,20650,"Lovett,Kristine M",41111,Police Officer,18659,F
+A99,262,102503,"Lowery,Andrew M",41111,Police Officer,17985,M
+A99,34,94754,"Lozada Jr,David A",41111,Police Officer,17295,M
+A99,331,340,"Lugo Jr,Ramon",41111,Police Officer,46513,M
+A99,96,104425,"Lust,Cory W",41111,Police Officer,43083,M
+A99,395,69484,"Lybarger,Jeffrey M",41111,Police Officer,33799,M
+A99,407,10157,"Lyles,Bria L",41111,Police Officer,35340,F
+A99,300,12353,"Lyles,Richard S",41111,Police Officer,18416,M
+A99,409,17062,"Lynch III,Stanley A",41111,Police Officer,18105,M
+A99,162,103348,"Mabatto,Marius O",41111,Police Officer,17812,M
+A99,265,61919,"MacNeill,David T",41111,Police Officer,18923,M
+A99,93,96724,"Machado,Brendan G",41111,Police Officer,35316,M
+A99,220,61807,"Mackall,Larry C",41111,Police Officer,17984,M
+A99,407,78704,"Macklin,Destinee L",41111,Police Officer,18067,F
+A99,194,89247,"Maddox,Tarsia R",41111,Police Officer,17420,F
+A99,60,1658,"Maddred,Terrill K",41111,Police Officer,18420,M
+A99,2,25129,"Magwood,Anthony M",41111,Police Officer,32684,M
+A99,94,16987,"Mahan,Steven M",41111,Police Officer,18295,M
+A99,94,104122,"Majalca,Gustovo R",41111,Police Officer,18349,M
+A99,194,89650,"Makhnichenko,Maksym",41111,Police Officer,17263,M
+A99,193,70374,"Makowski,Jason L",41111,Police Officer,18415,M
+A99,35,102685,"Maldonado Lopez,Jose A",41111,Police Officer,18816,M
+A99,408,17599,"Mangano Jr,John",41111,Police Officer,18243,M
+A99,311,3045,"Manning,Damien D",41111,Police Officer,17780,M
+A99,415,761,"Maralusha,Adrian R",41111,Police Officer,18677,M
+A99,194,54776,"Marigny,Raschad P",41111,Police Officer,17822,M
+A99,194,57241,"Marius,Wilnick",41111,Police Officer,18884,M
+A99,94,16064,"Markey,Eric M",41111,Police Officer,17837,M
+A99,407,6580,"Marsh,James N",41111,Police Officer,17733,M
+A99,407,79397,"Marsh,Sean A",41111,Police Officer,32637,M
+A99,322,38178,"Martin,Thomas J",41111,Police Officer,18271,M
+A99,2,754,"Martinez,Miguel",41111,Police Officer,17966,M
+A99,225,61270,"Martinez-Contreras,Miguel A",41111,Police Officer,17804,M
+A99,224,70825,"Marty,Jonathan",41111,Police Officer,18398,M
+A99,415,2820,"Marvel,Bobby A",41111,Police Officer,18683,M
+A99,126,104210,"Maseruka,Dennis M",41111,Police Officer,34911,M
+A99,347,538,"Mason,Rodney A",41111,Police Officer,35288,M
+A99,324,38675,"Mason,Sharron S",41111,Police Officer,19213,F
+A99,323,454,"Mateo,Helen G",41111,Police Officer,17968,F
+A99,163,104403,"Mathis,Jahlik K",41111,Police Officer,18060,M
+A99,94,102646,"Mauri Jr.,Robert A",41111,Police Officer,18302,M
+A99,407,12157,"Maynard Jr,David J",41111,Police Officer,17742,M
+A99,60,7052,"McAlexander,Lewis R",41111,Police Officer,32664,M
+A99,225,46826,"McCall,Markkeder A",41111,Police Officer,17392,M
+A99,165,55390,"McCallum,Alton T",41111,Police Officer,32683,M
+A99,415,74062,"McCann,Shaun D",41111,Police Officer,18025,M
+A99,312,2684,"McCarthy,Richard J",41111,Police Officer,18222,M
+A99,422,28254,"McClairn,Jerry",41111,Police Officer,18280,M
+A99,322,11941,"McCoy,Tavon D",41111,Police Officer,17528,M
+A99,407,61747,"McCray-Lathan,Ellesse D",41111,Police Officer,19167,F
+A99,60,46584,"McCullough,Nathaniel A",41111,Police Officer,35365,M
+A99,395,40811,"McDermott,Leighton A",41111,Police Officer,17676,M
+A99,64,11764,"McDuffie,Carnest L",41111,Police Officer,18704,M
+A99,1,34414,"McElveen,William V",41111,Police Officer,19182,M
+A99,415,75441,"McFadden Jr.,Dean M",41111,Police Officer,17293,M
+A99,127,34653,"McGee,Keith P",41111,Police Officer,34790,M
+A99,263,102450,"McGhie,Maurice M",41111,Police Officer,17275,M
+A99,91,38730,"McGinnis,Adrian",41111,Police Officer,17754,M
+A99,200,3446,"McGowan,David E",41111,Police Officer,46532,M
+A99,2,61808,"McGrath,Michael J",41111,Police Officer,17926,M
+A99,34,95085,"McGuiness,Lindsey M",41111,Police Officer,17877,F
+A99,62,70210,"McHenry,Jordan M",41111,Police Officer,18296,M
+A99,407,2957,"McKendry,Jason",41111,Police Officer,19584,M
+A99,125,96496,"McKenzie,Quanshay R",41111,Police Officer,17593,F
+A99,399,2416,"McKissick,Traci L",41111,Police Officer,18491,F
+A99,407,33562,"McKnight,Jeffrey M",41111,Police Officer,17991,M
+A99,164,1668,"McLarty,Jay W",41111,Police Officer,45505,M
+A99,194,83063,"McLaughlin,Hanna M",41111,Police Officer,16722,F
+A99,124,83815,"McLaughlin,Mary E",41111,Police Officer,18823,F
+A99,348,83055,"McLaughlin,Ryan M",41111,Police Officer,35355,M
+A99,167,998,"McLeod,Rafael G",41111,Police Officer,17606,M
+A99,127,17305,"McMahon,Creed M",41111,Police Officer,32688,M
+A99,408,537,"McMillan,Nakita N",41111,Police Officer,17949,F
+A99,408,70835,"McMillian,Thadius O",41111,Police Officer,17598,M
+A99,322,7911,"McMillion,Curtis L",41111,Police Officer,35328,M
+A99,409,24709,"McMillon,Ernest",41111,Police Officer,17897,M
+A99,122,2112,"McWilliams,Brandon M",41111,Police Officer,18940,M
+A99,415,25004,"Meagher,Geoffrey S",41111,Police Officer,19114,M
+A99,307,24417,"Mealey,Ronald",41111,Police Officer,17994,M
+A99,407,2038,"Meehan,Daniel P",41111,Police Officer,35567,M
+A99,407,70213,"Meehan,Raymond R",41111,Police Officer,17674,M
+A99,165,376,"Meertens,Ian G",41111,Police Officer,18080,M
+A99,60,75458,"Meiler,Cory J",41111,Police Officer,35564,M
+A99,408,78959,"Mejia,Jothuel D",41111,Police Officer,33817,M
+A99,300,1199,"Melendez,Edwin",41111,Police Officer,17605,M
+A99,64,691,"Melendez,Gaston",41111,Police Officer,17734,M
+A99,93,96800,"Melendez-Ortiz,Edgardo L",41111,Police Officer,17300,M
+A99,93,96490,"Melendez-Ortiz,Jose' R",41111,Police Officer,19176,M
+A99,193,84007,"Melo,Jeffrey",41111,Police Officer,18316,M
+A99,62,45315,"Mendez Jr,Edward",41111,Police Officer,18361,M
+A99,312,46158,"Mercado,Edgardo",41111,Police Officer,17868,M
+A99,35,90115,"Messimer,Ryan L",41111,Police Officer,18332,M
+A99,161,40915,"Mihm,Joseph A",41111,Police Officer,17706,M
+A99,125,96160,"Miller,Christopher B",41111,Police Officer,18367,M
+A99,224,37694,"Miller,David E",41111,Police Officer,45504,M
+A99,322,7838,"Miller,Francis W",41111,Police Officer,18908,M
+A99,307,71162,"Miller,Garrett E",41111,Police Officer,17211,M
+A99,200,11787,"Miller,Michael I",41111,Police Officer,17917,M
+A99,62,96323,"Miller,Regan W",41111,Police Officer,17271,M
+A99,91,79550,"Mitchell Jr.,James A",41111,Police Officer,18218,M
+A99,194,19538,"Mitchell,Robert W",41111,Police Officer,46600,M
+A99,194,83951,"Mobley,Adrian A",41111,Police Officer,17561,F
+A99,322,69918,"Mohamed,Ceasar E",41111,Police Officer,46430,M
+A99,164,79274,"Mohr,Chad R",41111,Police Officer,17793,M
+A99,200,1067,"Molinaro,Eugene S",41111,Police Officer,32704,M
+A99,164,8233,"Molock,Sharod A",41111,Police Officer,18037,M
+A99,262,778,"Monah,Levar B",41111,Police Officer,18210,M
+A99,391,34356,"Monroe,Nicole S",41111,Police Officer,18915,F
+A99,262,103192,"Montano,Klaus F",41111,Police Officer,35521,M
+A99,5,217,"Montemarano,Nicholas J",41111,Police Officer,18309,M
+A99,164,79353,"Montgomery,Chase L",41111,Police Officer,17548,M
+A99,6,107579,"Montgomery,Ryan L",41111,Police Officer,46451,M
+A99,194,77511,"Moody,Joshua A",41111,Police Officer,16714,M
+A99,97,38779,"Moody,Krystal Y",41111,Police Officer,18662,F
+A99,394,45746,"Moody,Todd A",41111,Police Officer,18071,M
+A99,4,30934,"Moore,DaSean A",41111,Police Officer,17716,M
+A99,408,20245,"Moore,Darren",41111,Police Officer,17196,M
+A99,322,20714,"Moore,Richard L",41111,Police Officer,43291,M
+A99,162,24714,"Moore,Robert C",41111,Police Officer,32624,M
+A99,330,11781,"Moore,Thomas O",41111,Police Officer,18113,M
+A99,193,46142,"Morales,Jose A",41111,Police Officer,18313,M
+A99,407,96155,"Morales,Nelson",41111,Police Officer,18379,M
+A99,93,102729,"Morales-Mendez,Kenneth",41111,Police Officer,35252,M
+A99,322,20339,"Moran,Michael A",41111,Police Officer,19678,M
+A99,395,38815,"More,Tavon S",41111,Police Officer,35284,M
+A99,94,74457,"Morgan,Sean C",41111,Police Officer,17757,M
+A99,261,1874,"Moro,Manuel A",41111,Police Officer,18358,M
+A99,416,116583,"Morozin,John V",41111,Police Officer,19027,M
+A99,96,104413,"Morton,Jordan C",41111,Police Officer,42209,M
+A99,399,17192,"Morton,Wendy K",41111,Police Officer,18111,F
+A99,124,69953,"Moschera,Kyle B",41111,Police Officer,45521,M
+A99,407,1743,"Moss,Calvin P",41111,Police Officer,17463,M
+A99,264,64187,"Moulden,Aurlenota S",41111,Police Officer,18466,F
+A99,311,56903,"Moxey,Gregory J",41111,Police Officer,18664,M
+A99,322,119,"Moynihan,David K",41111,Police Officer,35332,M
+A99,408,1720,"Muhammad,Fareed",41111,Police Officer,18418,M
+A99,36,12106,"Muir Jr,Donald R",41111,Police Officer,18290,M
+A99,61,74651,"Mumey,Christopher T",41111,Police Officer,18015,M
+A99,407,33635,"Munoz,Manolo V",41111,Police Officer,45526,M
+A99,415,3422,"Munyan,David B",41111,Police Officer,18694,M
+A99,311,33817,"Murphy,Bomani S",41111,Police Officer,46545,M
+A99,35,17323,"Murphy,Jill M",41111,Police Officer,45478,F
+A99,225,8109,"Murray III,Fred E",41111,Police Officer,18294,M
+A99,62,33918,"Murray,Deborah",41111,Police Officer,17879,F
+A99,408,29281,"Murray,Younetta",41111,Police Officer,18128,F
+A99,162,49175,"Musema,Edson T",41111,Police Officer,18223,M
+A99,225,103237,"Mustafa,Najiyyah M",41111,Police Officer,17375,F
+A99,62,86521,"Myers,Heather D",41111,Police Officer,17965,F
+A99,94,79599,"Myers,Jacob T",41111,Police Officer,35573,M
+A99,264,104477,"Naccari-Mueller,Tyler J",41111,Police Officer,44466,M
+A99,194,74525,"Nagle,Andrew J",41111,Police Officer,34930,M
+A99,65,715,"Nagovich,Valentine",41111,Police Officer,18463,M
+A99,264,104451,"Natale,Vincent J",41111,Police Officer,44462,M
+A99,399,11519,"Nauman,Kenneth L",41111,Police Officer,18480,M
+A99,422,16760,"Nave Jr,William H",41111,Police Officer,46499,M
+A99,394,12256,"Naylor III,Walter H",41111,Police Officer,46555,M
+A99,194,19910,"Naylor,Roy C",41111,Police Officer,18668,M
+A99,407,46128,"Negron,Porfirio",41111,Police Officer,43544,M
+A99,161,102619,"Nehms,Haley M",41111,Police Officer,18076,F
+A99,224,51947,"Nelson,Akeem O",41111,Police Officer,19181,M
+A99,408,535,"Nelson,Chemene M",41111,Police Officer,32652,F
+A99,164,49684,"Nelson,Yolanda A",41111,Police Officer,46595,F
+A99,35,57444,"Nestor,Wayne A",41111,Police Officer,35498,M
+A99,2,28990,"Newkirk,Benjamin T",41111,Police Officer,17415,M
+A99,297,29538,"Nichols,Carnell L",41111,Police Officer,19098,M
+A99,193,25652,"Nichols,Sean D",41111,Police Officer,18312,M
+A99,338,29153,"Nicholson,Daniel T",41111,Police Officer,35399,M
+A99,407,20409,"Nickles,William E",41111,Police Officer,35420,M
+A99,322,1094,"Niedermeier,Gary G",41111,Police Officer,17559,M
+A99,6,79527,"Noesi,Darwin S",41111,Police Officer,35543,M
+A99,407,16843,"Nolan,Roger W",41111,Police Officer,17440,M
+A99,32,79394,"Nolan-Anderson,Michael E",41111,Police Officer,17341,M
+A99,123,46257,"Nolet,Jean P",41111,Police Officer,17843,M
+A99,60,48990,"Nowell,Charlene A",41111,Police Officer,17886,F
+A99,415,1500,"Nunez,Adriel",41111,Police Officer,45477,M
+A99,161,75442,"Nunn,Christopher J",41111,Police Officer,19051,M
+A99,263,65966,"O'Brien,James T",41111,Police Officer,18689,M
+A99,322,57481,"O'Connor,Ryan A",41111,Police Officer,17980,M
+A99,263,103369,"O'Dell,Alec L",41111,Police Officer,17878,M
+A99,352,11805,"O'Neil,Terri",41111,Police Officer,46423,F
+A99,94,79459,"O'Shea,Katelyn I",41111,Police Officer,18255,F
+A99,302,771,"Odom,Anthony A",41111,Police Officer,18507,M
+A99,262,71470,"Ohin,Stephane A",41111,Police Officer,32669,M
+A99,322,70630,"Ohmstede,Erick M",41111,Police Officer,17833,M
+A99,348,65998,"Ojeda,Ricardo B",41111,Police Officer,32712,M
+A99,415,17231,"Oliver,Kristopher G",41111,Police Officer,17328,M
+A99,34,90050,"Oliver,Ryan J",41111,Police Officer,43555,M
+A99,220,57445,"Oliver,Tayvon M",41111,Police Officer,46439,M
+A99,34,1575,"Olivo,Modesto A",41111,Police Officer,34933,M
+A99,264,107557,"Orellana,Rafael E",41111,Police Officer,46445,M
+A99,93,102449,"Ortiz Del Valle,Eduardo M",41111,Police Officer,17768,M
+A99,5,79604,"Ortiz III,Adrian V",41111,Police Officer,17602,M
+A99,409,48054,"Ortiz,Alvin",41111,Police Officer,18931,M
+A99,266,25324,"Ott,Christopher W",41111,Police Officer,17820,M
+A99,122,38204,"Ottey,Stanley K",41111,Police Officer,46537,M
+A99,263,69480,"Owens,Dominique",41111,Police Officer,18117,M
+A99,95,102728,"Oxendine,Daniel R",41111,Police Officer,35389,M
+A99,125,96491,"Padilla-Santos,Kewanee E",41111,Police Officer,19193,M
+A99,261,46105,"Padin,Justo V",41111,Police Officer,18391,M
+A99,394,7735,"Paige,Karl",41111,Police Officer,18144,M
+A99,34,90038,"Pangaro,Eric D",41111,Police Officer,19170,M
+A99,32,90077,"Parker III,Gregory D",41111,Police Officer,17930,M
+A99,322,65422,"Parker Jr,Andre E",41111,Police Officer,46475,M
+A99,127,33898,"Parker,Darryl",41111,Police Officer,42188,M
+A99,263,71160,"Parker,Johnathon P",41111,Police Officer,17274,M
+A99,348,20219,"Parker,Reginald",41111,Police Officer,17974,M
+A99,407,2857,"Parker,Stacey L",41111,Police Officer,18270,F
+A99,407,20100,"Parker,Tia L",41111,Police Officer,17899,F
+A99,262,103012,"Parks,Delbert R",41111,Police Officer,18073,M
+A99,415,55503,"Parlett,Shawn M",41111,Police Officer,46440,M
+A99,34,55315,"Pase,Jarad M",41111,Police Officer,18286,M
+A99,162,103669,"Patrick,Devonte S",41111,Police Officer,17915,M
+A99,305,20727,"Patzman,Kenneth R",41111,Police Officer,34903,M
+A99,223,61551,"Paul,David M",41111,Police Officer,18913,M
+A99,2,24146,"Pawley,Harry A",41111,Police Officer,18070,M
+A99,407,67050,"Pawley,Harry A",41111,Police Officer,19172,M
+A99,33,46541,"Payne,Jasman T",41111,Police Officer,18328,F
+A99,195,79606,"Payne,Michael C",41111,Police Officer,17819,M
+A99,93,95103,"Payton Sr,Eric A",41111,Police Officer,18022,M
+A99,304,2643,"Peck,Damon A",41111,Police Officer,32628,M
+A99,332,24297,"Peer,John R",41111,Police Officer,35293,M
+A99,260,2418,"Pegues,Joy A",41111,Police Officer,44449,F
+A99,407,17008,"Pennington,Demetria Y",41111,Police Officer,32709,F
+A99,62,57106,"Pereira,Paulo J",41111,Police Officer,17725,M
+A99,408,42924,"Perez Herrarte,Marco V",41111,Police Officer,17987,M
+A99,162,102498,"Perez,April E",41111,Police Officer,17938,F
+A99,93,102504,"Perez,Armando",41111,Police Officer,18034,M
+A99,322,353,"Perez,Eric J",41111,Police Officer,46500,M
+A99,263,103425,"Perez-Diaz,Juan G",41111,Police Officer,17975,M
+A99,124,102852,"Perrin II,Randolph B",41111,Police Officer,17201,M
+A99,261,42076,"Perry,Colin L",41111,Police Officer,44457,M
+A99,64,11646,"Perry,Keith D",41111,Police Officer,17457,M
+A99,260,75597,"Perry,Michael D",41111,Police Officer,17378,M
+A99,265,81929,"Perry,Rico M",41111,Police Officer,46446,M
+A99,260,65917,"Perry,Ryan S",41111,Police Officer,17813,M
+A99,195,70180,"Persico,Robert L",41111,Police Officer,43300,M
+A99,408,11750,"Peters Jr,Glenn A",41111,Police Officer,17680,M
+A99,397,8221,"Peters,C J",41111,Police Officer,45486,M
+A99,94,7688,"Petryszak,Joseph M",41111,Police Officer,18197,M
+A99,225,64320,"Pettiford Jr,Gerard L",41111,Police Officer,18180,M
+A99,MIL,79337,"Pevarnik Jr.,Daniel T",41111,Police Officer,17455,M
+A99,160,16397,"Pfeiler,Thomas M",41111,Police Officer,18494,M
+A99,5,61889,"Pierre,Kimberly L",41111,Police Officer,35493,F
+A99,223,75454,"Pierre,Ludgens",41111,Police Officer,34809,M
+A99,200,21034,"Pietryak,David W",41111,Police Officer,19653,M
+A99,93,55107,"Pilkerton,William",41111,Police Officer,32716,M
+A99,123,103813,"Pineda,Carlos A",41111,Police Officer,18778,M
+A99,220,66935,"Pinheiro,Richard A",41111,Police Officer,17871,M
+A99,225,25038,"Pinto,Eduardo D",41111,Police Officer,19002,M
+A99,422,1975,"Pitts,Anita C",41111,Police Officer,45516,F
+A99,223,103514,"Plaisance,Luc A",41111,Police Officer,19012,M
+A99,223,102448,"Plummer,Christopher H",41111,Police Officer,17834,M
+A99,322,49162,"Poist,John",41111,Police Officer,17600,M
+A99,66,104444,"Polanco,Andretti F",41111,Police Officer,44453,M
+A99,6,79426,"Polanco,Giusseppe A",41111,Police Officer,18051,M
+A99,407,103627,"Polanco,Ramon E",41111,Police Officer,17446,M
+A99,307,41350,"Pope,Randy J",41111,Police Officer,35307,M
+A99,422,24311,"Poremski,Joseph J",41111,Police Officer,35309,M
+A99,4,107559,"Porter,Robert W",41111,Police Officer,46521,M
+A99,334,74436,"Porter,William G",41111,Police Officer,46587,M
+A99,266,78712,"Post,Christy A",41111,Police Officer,17970,F
+A99,313,7745,"Potter,John D",41111,Police Officer,18716,M
+A99,162,71497,"Prado,Jorge A",41111,Police Officer,18436,M
+A99,125,61526,"Prasad,Niraj",41111,Police Officer,19203,M
+A99,324,55162,"Presberry,Angelia M",41111,Police Officer,17334,F
+A99,2,38130,"Presberry,Berdell L",41111,Police Officer,19198,M
+A99,63,42022,"Preston,Kiam L",41111,Police Officer,17862,M
+A99,32,17072,"Preston,Sabrina P",41111,Police Officer,45483,F
+A99,197,48663,"Price,Gregory",41111,Police Officer,19096,M
+A99,124,41421,"Price,Michelle L",41111,Police Officer,35412,F
+A99,336,3627,"Price,Shanice L",41111,Police Officer,18401,F
+A99,330,29148,"Pringle,Andre M",41111,Police Officer,44369,M
+A99,262,48099,"Pritchard,Brandon L",41111,Police Officer,35322,M
+A99,196,70223,"Provow,Brenden S",41111,Police Officer,18036,M
+A99,4,94882,"Pujols,Anthony",41111,Police Officer,17268,M
+A99,193,89569,"Pultro,Joshua M",41111,Police Officer,17191,M
+A99,34,7933,"Pusloskie Jr,Michael J",41111,Police Officer,17052,M
+A99,30,93378,"Quase,Jacob B",41111,Police Officer,32619,M
+A99,197,25323,"Queen,Antonio A",41111,Police Officer,18537,M
+A99,196,70418,"Quigley,William J",41111,Police Officer,19336,M
+A99,262,103556,"Quillin,Joel P",41111,Police Officer,35376,M
+A99,407,7328,"Quomony,Cheryl D",41111,Police Officer,17452,F
+A99,222,12091,"Ragin,Elijah Q",41111,Police Officer,18454,M
+A99,2,17156,"Raheem,Shelia S",41111,Police Officer,19031,F
+A99,60,33592,"Raimondi,Vincent P",41111,Police Officer,17782,M
+A99,310,7012,"Ralph,Brian J",41111,Police Officer,18189,M
+A99,162,103176,"Ramirez Perez,Rafael A",41111,Police Officer,34934,M
+A99,260,45336,"Ramirez,Rosa R",41111,Police Officer,33782,F
+A99,167,2599,"Ramsey,Bernard M",41111,Police Officer,50435,M
+A99,194,104033,"Ramsey,Mitchell P",41111,Police Officer,17298,M
+A99,337,46843,"Randall,Shawntad V",41111,Police Officer,33822,F
+A99,190,38459,"Randolph,Carl A",41111,Police Officer,35568,M
+A99,2,65440,"Raney,Ryan J",41111,Police Officer,43539,M
+A99,322,8639,"Rasheed,Hassan A",41111,Police Officer,46462,M
+A99,330,981,"Rawlins Jr,Clyde",41111,Police Officer,17557,M
+A99,305,20971,"Ray,Daniel W",41111,Police Officer,35400,M
+A99,322,1047,"Reass,Ryan W",41111,Police Officer,17381,M
+A99,161,79192,"Recine,Joseph A",41111,Police Officer,17888,M
+A99,MIL,58,"Recupero,Steven G",41111,Police Officer,18690,M
+A99,35,70917,"Reddy,Peter P",41111,Police Officer,19057,M
+A99,33,20877,"Reed,Jacob R",41111,Police Officer,33847,M
+A99,407,47582,"Reed,Takiyha Y",41111,Police Officer,17376,F
+A99,61,61818,"Reedy,Eric M",41111,Police Officer,35374,M
+A99,123,75354,"Reese,Shante T",41111,Police Officer,35249,F
+A99,322,45832,"Reichenberg,Shawn M",41111,Police Officer,17891,M
+A99,305,46436,"Reid,Scott J",41111,Police Officer,18153,M
+A99,221,3316,"Reynolds,Victoria L",41111,Police Officer,35544,F
+A99,195,103848,"Riaza Giraldo,Jorge L",41111,Police Officer,35359,M
+A99,97,34236,"Richardson,Angel C",41111,Police Officer,33827,F
+A99,93,25469,"Richardson,Martin G",41111,Police Officer,45473,M
+A99,408,38635,"Richburg,Stacy T",41111,Police Officer,46530,F
+A99,223,93377,"Ricketts,James R",41111,Police Officer,34795,M
+A99,407,65963,"Ricketts,Milton H",41111,Police Officer,46478,M
+A99,33,75677,"Riehl,David T",41111,Police Officer,17242,M
+A99,60,20641,"Righter,Brian J",41111,Police Officer,18156,M
+A99,422,8085,"Riha,Lisa M",41111,Police Officer,17859,F
+A99,261,12134,"Riley III,Leon P",41111,Police Officer,45525,M
+A99,265,74572,"Riley,Leon P",41111,Police Officer,18236,M
+A99,408,20709,"Rill,Donna L",41111,Police Officer,17712,F
+A99,123,41598,"Rinehart,Ronald S",41111,Police Officer,45511,M
+A99,415,34642,"Ring,Natalie L",41111,Police Officer,17624,F
+A99,162,103156,"Rios-Arroyo,Nydia E",41111,Police Officer,32668,F
+A99,223,20281,"Riser,Michael A",41111,Police Officer,44467,M
+A99,5,96157,"Rivas,Juan L",41111,Police Officer,18396,M
+A99,95,103676,"Rivera Centeno,Ramsey X",41111,Police Officer,17779,M
+A99,329,913,"Rivera Jr,Victor I",41111,Police Officer,35382,M
+A99,323,880,"Rivera,Christopher",41111,Police Officer,17220,M
+A99,356,45949,"Rivera,Daymieon E",41111,Police Officer,17572,M
+A99,409,970,"Rivera,Edmanuel",41111,Police Officer,18053,M
+A99,5,104188,"Rivera,Kevin O",41111,Police Officer,33788,M
+A99,63,96322,"Rivera,Michael S",41111,Police Officer,17352,M
+A99,195,89714,"Rivera,Natasha M",41111,Police Officer,17507,F
+A99,33,3429,"Rivera,William",41111,Police Officer,46569,M
+A99,64,96429,"Rivera-Cuevas,Carlos X",41111,Police Officer,17848,M
+A99,4,65204,"Rivera-Martinez,Carlos J",41111,Police Officer,19134,M
+A99,64,103550,"Rivera-Ocasio,Ismael K",41111,Police Officer,35364,M
+A99,34,75577,"Rivera-Rodriguez,Jose J",41111,Police Officer,18079,M
+A99,407,1150,"Robert,Thomas M",41111,Police Officer,18131,M
+A99,262,57556,"Roberts,Roy J",41111,Police Officer,17700,M
+A99,162,3406,"Robertson,Marisa O",41111,Police Officer,19008,F
+A99,63,16746,"Robinson,John B",41111,Police Officer,46502,M
+A99,407,19808,"Robinson,John C",41111,Police Officer,19214,M
+A99,94,61749,"Robinson,Matthew W",41111,Police Officer,46417,M
+A99,225,66000,"Robles,Adam N",41111,Police Officer,18511,M
+A99,6,69996,"Rocks,Michael J",41111,Police Officer,18935,M
+A99,64,49326,"Rodgers,Joseph",41111,Police Officer,35391,M
+A99,163,104232,"Rodriguez III,Roberto A",41111,Police Officer,42198,M
+A99,389,586,"Rodriguez,Agustin",41111,Police Officer,17666,M
+A99,222,70918,"Rodriguez,Andres",41111,Police Officer,17789,M
+A99,407,566,"Rodriguez,Hassan",41111,Police Officer,17693,M
+A99,36,46163,"Rodriguez,Miguel A",41111,Police Officer,19017,M
+A99,95,103426,"Rodriguez-Berrios,Alexander J",41111,Police Officer,18021,M
+A99,161,103562,"Rodriguez-Ramos,Alex M",41111,Police Officer,35571,M
+A99,408,16692,"Rogers,Kirsten M",41111,Police Officer,46575,F
+A99,60,79730,"Rogers-Salmond,Chalonda M",41111,Police Officer,17850,F
+A99,1,89991,"Rojas,Delira",41111,Police Officer,16632,F
+A99,126,106791,"Rojas,William R",41111,Police Officer,45533,M
+A99,336,11567,"Roles Jr,Nathan",41111,Police Officer,42184,M
+A99,263,20095,"Rollins,Serina L",41111,Police Officer,19160,F
+A99,6,96321,"Roman,Jose D",41111,Police Officer,17291,M
+A99,61,57199,"Romeo,Timothy E",41111,Police Officer,17755,M
+A99,MIL,57225,"Romey,Stephen A",41111,Police Officer,18013,M
+A99,93,16485,"Roney Jr,Jerry L",41111,Police Officer,16628,M
+A99,400,879,"Rosado,Alexandra",41111,Police Officer,18300,F
+A99,407,29402,"Rosado,Joseph W",41111,Police Officer,17715,M
+A99,62,103833,"Rosales,Sebastian A",41111,Police Officer,35270,M
+A99,221,3092,"Rose,Brian W",41111,Police Officer,35358,M
+A99,221,1200,"Rose,Nigel C",41111,Police Officer,18319,M
+A99,334,3442,"Rose,Steven N",41111,Police Officer,18903,M
+A99,223,90057,"Rosier,James W",41111,Police Officer,35411,M
+A99,408,61552,"Rosier,Steven N",41111,Police Officer,18123,M
+A99,370,34388,"Ross,Kenneth D",41111,Police Officer,34798,M
+A99,194,96488,"Ross,Lakeia T",41111,Police Officer,19196,F
+A99,60,20302,"Rouse,Richard E",41111,Police Officer,46602,M
+A99,322,12456,"Roussey,Seth J",41111,Police Officer,18140,M
+A99,422,20404,"Roy,Nicole D",41111,Police Officer,33808,F
+A99,225,103631,"Rudin,Bryan T",41111,Police Officer,17560,M
+A99,5,96780,"Ruiz,Briana M",41111,Police Officer,17374,F
+A99,94,104060,"Rush,Eric P",41111,Police Officer,17962,M
+A99,304,24382,"Russell,Bryant K",41111,Police Officer,35547,M
+A99,223,1460,"Russell,Jamieson E",41111,Police Officer,17726,M
+A99,2,83661,"Rutzen,Joshua S",41111,Police Officer,18640,M
+A99,322,11506,"Ryce III,John D",41111,Police Officer,46548,M
+A99,415,55570,"Ryckman,Travis M",41111,Police Officer,35505,M
+A99,4,20822,"Sabb Jr,Howard N",41111,Police Officer,18384,M
+A99,6,8052,"Sabb,Janell",41111,Police Officer,33807,F
+A99,MIL,96401,"Salcedo,Abdiel A",41111,Police Officer,17639,M
+A99,265,69488,"Salmon,Brian M",41111,Police Officer,19681,M
+A99,409,34977,"Salmon,Dorian",41111,Police Officer,18107,F
+A99,35,83020,"Salters,Jasmine",41111,Police Officer,18958,F
+A99,407,44967,"Salyers,Alesha D",41111,Police Officer,45509,F
+A99,4,96428,"Samol,Alberto A",41111,Police Officer,17910,M
+A99,95,7234,"Samuels,Joseph A",41111,Police Officer,18693,M
+A99,348,70533,"Sanchez,Brandon A",41111,Police Officer,17283,M
+A99,407,84079,"Sanchez,Carlos D",41111,Police Officer,18630,M
+A99,61,74140,"Sanchez,Kenneth J",41111,Police Officer,35333,M
+A99,224,90008,"Sanchez,Roberto S",41111,Police Officer,17526,M
+A99,322,60970,"Sanders,Marcus D",41111,Police Officer,17411,M
+A99,365,24672,"Sanders,Tommy",41111,Police Officer,18886,M
+A99,262,103555,"Sanfeliz-Perez,Luis A",41111,Police Officer,19091,M
+A99,4,96492,"Sanford,Robert H",41111,Police Officer,19212,M
+A99,161,103563,"Santana,Christian",41111,Police Officer,35423,M
+A99,162,46644,"Santiago,German G",41111,Police Officer,18194,M
+A99,260,46130,"Santiago,Melvin",41111,Police Officer,18005,M
+A99,195,89231,"Santiago,Miguel A",41111,Police Officer,17233,M
+A99,162,103175,"Santos Roman,Jesus G",41111,Police Officer,34937,M
+A99,225,66296,"Santos,Jeffrey L",41111,Police Officer,32665,M
+A99,223,90140,"Santos,Roger L",41111,Police Officer,18489,M
+A99,415,44493,"Sargent,Derreck R",41111,Police Officer,18490,M
+A99,348,75355,"Sauerwald,Nicolas M",41111,Police Officer,18422,M
+A99,322,31126,"Saunders,Antonio M",41111,Police Officer,18213,M
+A99,395,1890,"Schaeffer,Christian A",41111,Police Officer,17428,M
+A99,261,46687,"Schanamann,Jospeh S",41111,Police Officer,17835,M
+A99,304,2278,"Schappell,Dustin L",41111,Police Officer,17775,M
+A99,163,102753,"Schlereth,Richard J",41111,Police Officer,35517,M
+A99,35,55316,"Schmitt,Jason A",41111,Police Officer,18057,M
+A99,304,34103,"Schmitt,Jeffrey A",41111,Police Officer,17931,M
+A99,261,24696,"Schneider,Frank",41111,Police Officer,46522,M
+A99,5,69465,"Schuller,Thomas M",41111,Police Officer,17198,M
+A99,336,70872,"Schurman,Terry L",41111,Police Officer,18114,F
+A99,64,57480,"Scofield II,Erwin A",41111,Police Officer,18942,M
+A99,224,93380,"Scott,Christopher G",41111,Police Officer,35501,M
+A99,34,873,"Scott,Donas A",41111,Police Officer,18059,M
+A99,323,413,"Scott,Elizabeth J",41111,Police Officer,18380,F
+A99,3,82378,"Scott,Jessica N",41111,Police Officer,45484,F
+A99,122,34181,"Scott,Kenneth N",41111,Police Officer,32636,M
+A99,164,2619,"Scott,Kevin M",41111,Police Officer,35352,M
+A99,337,11958,"Scott,Milton F",41111,Police Officer,18728,M
+A99,6,82789,"Scott,Tyler G",41111,Police Officer,46428,M
+A99,63,585,"Segar,Herbert",41111,Police Officer,18705,M
+A99,348,2762,"Semmler,Damian G",41111,Police Officer,18777,M
+A99,36,69415,"Severino,Andres M",41111,Police Officer,35372,M
+A99,2,55218,"Sexton,Daniel U",41111,Police Officer,43540,M
+A99,261,34140,"Seymore,Catherine Y",41111,Police Officer,32626,F
+A99,200,29020,"Sgambati,Anthony M",41111,Police Officer,35388,M
+A99,225,74808,"Shakir,Jamil W",41111,Police Officer,18350,M
+A99,222,78674,"Shank,Amos C",41111,Police Officer,46610,M
+A99,195,44934,"Shaurette,Jerome L",41111,Police Officer,32650,M
+A99,162,1992,"Sheehan,John P",41111,Police Officer,17412,M
+A99,196,89774,"Shelley,Luke C",41111,Police Officer,17566,M
+A99,34,388,"Shelton,Michael B",41111,Police Officer,18247,M
+A99,407,57641,"Sherman,David P",41111,Police Officer,19064,M
+A99,334,38880,"Shifflett,Norman L",41111,Police Officer,45497,M
+A99,308,41375,"Shillenn,Darryl K",41111,Police Officer,18444,M
+A99,408,70221,"Shive,Timothy R",41111,Police Officer,46542,M
+A99,224,102505,"Shuck,Joseph M",41111,Police Officer,18001,M
+A99,263,95101,"Shultzaberger,Andrew J",41111,Police Officer,18096,M
+A99,334,2280,"Shutt,Brian T",41111,Police Officer,17427,M
+A99,64,89251,"Sibiski,Thomas J",41111,Police Officer,17698,M
+A99,347,11489,"Siegmund,Leo P",41111,Police Officer,17619,M
+A99,167,1009,"Sierra,Anthony C",41111,Police Officer,46429,M
+A99,391,11933,"Silbert,Jeremy S",41111,Police Officer,46578,M
+A99,200,25519,"Sills Jr,Charles J",41111,Police Officer,46609,M
+A99,262,66422,"Silwick,Erik J",41111,Police Officer,17696,M
+A99,408,45770,"Simmons,Carlos D",41111,Police Officer,17228,M
+A99,162,24724,"Simmons,Kevin",41111,Police Officer,17626,M
+A99,395,89250,"Simms,Daisha S",41111,Police Officer,17596,F
+A99,407,102754,"Simpson II,Theodore O",41111,Police Officer,35516,M
+A99,422,38559,"Simpson,Vanessa M",41111,Police Officer,17332,F
+A99,409,75443,"Sinchi,Carlos H",41111,Police Officer,33787,M
+A99,322,79610,"Singer,Mordechai D",41111,Police Officer,17783,M
+A99,MIL,74526,"Siracusano,Richard",41111,Police Officer,17362,M
+A99,63,38628,"Sistek,Stephen J",41111,Police Officer,18091,M
+A99,415,11288,"Slacum,Edward G",41111,Police Officer,35394,M
+A99,261,7288,"Slaughter,Erich J",41111,Police Officer,43298,M
+A99,62,42072,"Slaughter,Trina",41111,Police Officer,33844,F
+A99,396,29522,"Small,Antwon D",41111,Police Officer,33829,M
+A99,415,38981,"Small,Rebecca",41111,Police Officer,17916,F
+A99,63,31320,"Smalls,Davon J",41111,Police Officer,35353,M
+A99,302,17172,"Smith Jr,Andre N",41111,Police Officer,35251,M
+A99,407,59148,"Smith Saxon,Brandon",41111,Police Officer,43279,M
+A99,60,487,"Smith,Charles",41111,Police Officer,17845,M
+A99,295,34954,"Smith,Gary T",41111,Police Officer,17358,M
+A99,407,75457,"Smith,Gregory M",41111,Police Officer,17265,M
+A99,312,45713,"Smith,Jeannette M",41111,Police Officer,17946,F
+A99,422,13501,"Smith,Joshua D",41111,Police Officer,46436,M
+A99,63,54409,"Smith,Mark A",41111,Police Officer,35327,M
+A99,195,103541,"Smith,Michael A",41111,Police Officer,33834,M
+A99,407,66839,"Smith,Philip B",41111,Police Officer,16721,M
+A99,347,668,"Smith,Sharisse R",41111,Police Officer,45537,F
+A99,311,25316,"Smith,Trabien",41111,Police Officer,46494,M
+A99,225,84098,"Sobboh,Lloyd C",41111,Police Officer,17368,M
+A99,334,417,"Sokolowski,Keith G",41111,Police Officer,17402,M
+A99,415,489,"Soukaseum,Khamla",41111,Police Officer,35555,M
+A99,61,55317,"Sowers,Kent M",41111,Police Officer,16713,M
+A99,120,19908,"Spangler Jr,Sheridan D",41111,Police Officer,46432,M
+A99,330,3434,"Spinnato,Michael R",41111,Police Officer,18183,M
+A99,312,28629,"Sprinkle,Martha M",41111,Police Officer,18362,F
+A99,352,38134,"Sprinkle,Penny L",41111,Police Officer,17306,F
+A99,304,46822,"Stackewicz,Craig J",41111,Police Officer,45514,M
+A99,224,90126,"Stackhouse,Joshua E",41111,Police Officer,18885,M
+A99,408,11179,"Starr,Daniel W",41111,Police Officer,43272,M
+A99,333,20189,"Stein,Daniel L",41111,Police Officer,19173,M
+A99,167,2621,"Steiner,James P",41111,Police Officer,50431,M
+A99,125,3282,"Steinhorn,Kelly L",41111,Police Officer,45500,F
+A99,305,34170,"Stenger,Scott J",41111,Police Officer,17250,M
+A99,415,45367,"Steven,Scott A",41111,Police Officer,45531,M
+A99,262,62295,"Stinchcomb,Shane D",41111,Police Officer,17628,M
+A99,323,38467,"Stinnett,Justin M",41111,Police Officer,18212,M
+A99,422,1621,"Strand,Amy",41111,Police Officer,17454,F
+A99,63,39554,"Strohminger Jr,Mark J",41111,Police Officer,35524,M
+A99,400,1729,"Strong,Rashawn K",41111,Police Officer,35482,M
+A99,261,1641,"Sturgis,Warren S",41111,Police Officer,18516,M
+A99,305,19984,"Sturm,Steven W",41111,Police Officer,34784,M
+A99,123,38324,"Sullivan,C M",41111,Police Officer,46474,M
+A99,164,38668,"Sutton,Kenneth N",41111,Police Officer,17470,M
+A99,265,94753,"Swain,Brenden D",41111,Police Officer,17393,M
+A99,408,1970,"Swinney,Debra",41111,Police Officer,17588,F
+A99,407,64670,"Sykes,Diamond S",41111,Police Officer,17669,F
+A99,224,104233,"Szumigalski,Mark R",41111,Police Officer,42200,M
+A99,35,3253,"Szymanowski,Steve N",41111,Police Officer,18074,M
+A99,123,84077,"Tabron,Tyrell J",41111,Police Officer,35550,M
+A99,223,103834,"Tahir,Mujahid A",41111,Police Officer,35319,M
+A99,63,89536,"Talbert,Freddie V",41111,Police Officer,16626,F
+A99,322,16068,"Talley,Damon L",41111,Police Officer,43299,M
+A99,265,66741,"Tallmadge,Mark M",41111,Police Officer,17844,M
+A99,161,1710,"Tandy,Steven B",41111,Police Officer,17337,M
+A99,415,29586,"Tarter,Robert L",41111,Police Officer,35425,M
+A99,415,25081,"Taru,Tarsha L",41111,Police Officer,17387,F
+A99,322,54701,"Tate,Keith L",41111,Police Officer,17670,M
+A99,222,84076,"Taurisano,Anthony F",41111,Police Officer,17904,M
+A99,308,12216,"Taylor,Edward S J",41111,Police Officer,17849,M
+A99,309,46049,"Taylor,Jeffry E",41111,Police Officer,32707,M
+A99,398,57642,"Taylor,Marcus R",41111,Police Officer,17759,M
+A99,34,96181,"Taylor,Trenton E",41111,Police Officer,18919,M
+A99,322,20865,"Taylor,Troy D",41111,Police Officer,17421,M
+A99,335,11843,"Taylor,William R",41111,Police Officer,43275,M
+A99,164,79278,"Teeter,Andrew J",41111,Police Officer,40351,M
+A99,195,89252,"Tenny,Sean M",41111,Police Officer,17511,M
+A99,95,65441,"Testa,David J",41111,Police Officer,46523,M
+A99,93,464,"Theodore,Anthony W",41111,Police Officer,17365,M
+A99,408,31203,"Thomas Jr,Samuel",41111,Police Officer,17810,M
+A99,408,57086,"Thomas,Bridget M",41111,Police Officer,17405,F
+A99,97,61811,"Thomas,Christopher M",41111,Police Officer,18471,M
+A99,330,29865,"Thomas,Eric L",41111,Police Officer,18723,M
+A99,263,29089,"Thomas,Helena N",41111,Police Officer,18082,F
+A99,330,42014,"Thomas,Susan L",41111,Police Officer,18062,F
+A99,330,38350,"Thompson Jr,Earl T",41111,Police Officer,35357,M
+A99,94,104184,"Thompson,Robert A",41111,Police Officer,17224,M
+A99,223,22623,"Tildon,Davon M",41111,Police Officer,17347,M
+A99,304,2802,"Timms,C J",41111,Police Officer,35424,M
+A99,60,16690,"Tinsley,Latosha N",41111,Police Officer,46460,F
+A99,195,103174,"Tolentino Trinidad,Pablo J",41111,Police Officer,35362,M
+A99,425,78961,"Tondeur,Keith D",41111,Police Officer,19037,M
+A99,33,57654,"Toro-Munford,Tarik S",41111,Police Officer,35574,M
+A99,5,11668,"Torres Jr,Epifanio",41111,Police Officer,46561,M
+A99,262,1568,"Torres,Claude",41111,Police Officer,33840,M
+A99,263,46161,"Torres,Felix",41111,Police Officer,32682,M
+A99,34,47659,"Torres,Ricardo",41111,Police Officer,18211,M
+A99,6,8112,"Trotman,Kevin A",41111,Police Officer,19578,M
+A99,2,41648,"Tucker,Larry D",41111,Police Officer,43542,M
+A99,307,44796,"Turner Jr,Terry",41111,Police Officer,,M
+A99,408,38439,"Turpin,Jerry S",41111,Police Officer,19060,M
+A99,194,3438,"Tutt,Steven D",41111,Police Officer,45471,M
+A99,2,70504,"Twigg,Gregory S",41111,Police Officer,33831,M
+A99,330,7689,"Tyson III,KayTee",41111,Police Officer,17894,M
+A99,407,33809,"Tyson,Darrilynn Y",41111,Police Officer,46573,F
+A99,304,65436,"Ulmer,Nathan L",41111,Police Officer,17503,M
+A99,223,940,"Ulmer,Ronald E",41111,Police Officer,42194,M
+A99,338,57117,"Uruchima,Stephanie J",41111,Police Officer,17617,F
+A99,225,78903,"Valderas,Douglas R",41111,Police Officer,32662,M
+A99,224,103482,"Valdes,Melvin E",41111,Police Officer,18137,M
+A99,224,90154,"Valencia Valencia,Cristian A",41111,Police Officer,17951,M
+A99,225,84041,"Valis,Christopher G",41111,Police Officer,17370,M
+A99,313,55474,"Valis,Corey A",41111,Police Officer,18127,M
+A99,395,83057,"Van Helten,Jason F",41111,Police Officer,40349,M
+A99,311,1512,"Vargas Jr,Pedro A",41111,Police Officer,45493,M
+A99,330,2755,"Vargas,Henry A",41111,Police Officer,35356,M
+A99,196,83877,"Varner,Brooke E",41111,Police Officer,35377,F
+A99,164,44329,"Vega,James S",41111,Police Officer,46511,M
+A99,60,46096,"Velez,Felix A",41111,Police Officer,17695,M
+A99,262,103553,"Velez-Fernandez,Jose L",41111,Police Officer,19039,M
+A99,322,16406,"Veney,Mark E",41111,Police Officer,34923,M
+A99,399,624,"Verga,Matthew A",41111,Police Officer,46493,M
+A99,61,79612,"Vertus,Vladimy A",41111,Police Officer,32713,M
+A99,334,1835,"Vigue,George C",41111,Police Officer,35349,M
+A99,62,83952,"Vilchez,Gregory",41111,Police Officer,18641,M
+A99,222,70534,"Villafane,Victor M",41111,Police Officer,35282,M
+A99,125,34087,"Villareal,Enrique G",41111,Police Officer,18914,M
+A99,4,57246,"Villaronga,Angel L",41111,Police Officer,17841,M
+A99,3,71123,"Villodas,Aileen",41111,Police Officer,18941,F
+A99,4,79436,"Vitek,Justin A",41111,Police Officer,18326,M
+A99,33,65442,"Vlard,Tiffany K",41111,Police Officer,45507,F
+A99,322,2457,"Vodarick,Michael J",41111,Police Officer,32659,M
+A99,335,44546,"Voorhees,John E",41111,Police Officer,45496,M
+A99,394,5,"Wade,Chris A",41111,Police Officer,17701,M
+A99,6,103242,"Wagner,Matthew W",41111,Police Officer,17482,M
+A99,126,107270,"Wagner,Ryan J",41111,Police Officer,46443,M
+A99,336,20363,"Wagner,William E",41111,Police Officer,18264,M
+A99,32,79581,"Waldron,Donald R",41111,Police Officer,18357,M
+A99,262,42959,"Walker Jr,John M",41111,Police Officer,18381,M
+A99,304,48665,"Walker,Clint K",41111,Police Officer,32679,M
+A99,126,107272,"Wallace,John R",41111,Police Officer,46425,M
+A99,330,23833,"Wallner,Robert R",41111,Police Officer,18949,M
+A99,60,89568,"Walp,Melinda K",41111,Police Officer,17207,F
+A99,296,70743,"Ward,Anthony G",41111,Police Officer,17717,M
+A99,161,103512,"Warner,Ryan A",41111,Police Officer,18726,M
+A99,4,82791,"Warren,Denzel A",41111,Police Officer,19115,M
+A99,167,16214,"Washington,James E",41111,Police Officer,17829,M
+A99,399,29473,"Washington,Tammica P",41111,Police Officer,18170,F
+A99,265,70362,"Waskiewicz,Daniel J",41111,Police Officer,40350,M
+A99,309,33416,"Wassum,Brian S",41111,Police Officer,46448,M
+A99,95,24984,"Waters,Ronnie",41111,Police Officer,18393,M
+A99,399,38205,"Watford,Kevin D",41111,Police Officer,17344,M
+A99,225,55260,"Watkins,James E",41111,Police Officer,18411,M
+A99,262,70696,"Watson,Cejus W",41111,Police Officer,32686,M
+A99,265,74141,"Watson,Sharod T",41111,Police Officer,17554,M
+A99,35,11497,"Webb Sr,Frank W",41111,Police Officer,17429,M
+A99,4,718,"Weems,Anthony S",41111,Police Officer,18481,M
+A99,263,51946,"Weese,Richard C",41111,Police Officer,17563,M
+A99,261,29741,"Weichert,Steven T",41111,Police Officer,46593,M
+A99,422,21046,"Wells,Joann",41111,Police Officer,18826,F
+A99,334,79357,"Welsh,Ryan T",41111,Police Officer,17223,M
+A99,261,2940,"West,Jeffery J",41111,Police Officer,42195,M
+A99,91,16719,"West,John W",41111,Police Officer,17194,M
+A99,304,7830,"West,Scott A",41111,Police Officer,35526,M
+A99,407,55535,"White,Craig S",41111,Police Officer,18473,M
+A99,220,34408,"White,Danielle R",41111,Police Officer,46468,F
+A99,194,1365,"White,David K",41111,Police Officer,18254,M
+A99,123,8626,"White,Michael T",41111,Police Officer,35287,M
+A99,321,993,"White,Preston",41111,Police Officer,17948,M
+A99,200,55571,"White,Stephon M",41111,Police Officer,18676,M
+A99,223,67007,"Whitehead,Monica Y",41111,Police Officer,18229,F
+A99,32,79544,"Whittaker,Richard K",41111,Police Officer,17785,M
+A99,2,16518,"Whittingham IV,George H",41111,Police Officer,18713,M
+A99,337,7544,"Wiggins,Dominique C",41111,Police Officer,18289,F
+A99,299,3138,"Wiley,Lynea Y",41111,Police Officer,17945,F
+A99,407,19939,"Williams III,Earl J",41111,Police Officer,35346,M
+A99,356,29175,"Williams,Antoine M",41111,Police Officer,17681,M
+A99,261,95098,"Williams,Craig E",41111,Police Officer,18033,M
+A99,330,16847,"Williams,Craig M",41111,Police Officer,35325,M
+A99,195,16564,"Williams,Donnell M",41111,Police Officer,46538,M
+A99,407,3128,"Williams,Donta M",41111,Police Officer,45547,M
+A99,341,34610,"Williams,Exdol A",41111,Police Officer,17697,M
+A99,200,44905,"Williams,Mark C",41111,Police Officer,19011,M
+A99,164,49357,"Williams,Maunda",41111,Police Officer,18953,M
+A99,125,41718,"Williams,Nicole M",41111,Police Officer,17922,F
+A99,165,1824,"Williams,Rahim I",41111,Police Officer,17513,M
+A99,396,24055,"Williams,Roland T",41111,Police Officer,18181,M
+A99,35,17153,"Williams,Steven J",41111,Police Officer,35572,M
+A99,408,8350,"Williams,Tiara K",41111,Police Officer,17876,F
+A99,407,33991,"Williams,Toyia",41111,Police Officer,18341,F
+A99,408,7365,"Willie,Chawntay",41111,Police Officer,18288,F
+A99,193,29606,"Willis-Eggleston,Resha T",41111,Police Officer,44469,F
+A99,408,38542,"Wilson,Erica N",41111,Police Officer,18329,F
+A99,415,12104,"Wilson,Frankie K",41111,Police Officer,17483,M
+A99,95,96156,"Wilson,Lamall E",41111,Police Officer,18404,M
+A99,262,95140,"Wilson,Mark W",41111,Police Officer,18142,M
+A99,407,24700,"Wilson,Shareena S",41111,Police Officer,18372,F
+A99,223,11826,"Wilson,Walter A",41111,Police Officer,17653,M
+A99,160,24711,"Winder,Dominick E",41111,Police Officer,45494,M
+A99,347,20267,"Wine,Douglas M",41111,Police Officer,17584,M
+A99,407,103101,"Winfield,Shaniqua F",41111,Police Officer,18523,F
+A99,162,96715,"Winkey,Drake E",41111,Police Officer,35290,M
+A99,265,75642,"Winston,Eric E",41111,Police Officer,18916,M
+A99,124,94862,"Wise II,Atiba E",41111,Police Officer,17417,M
+A99,407,16947,"Witmer,Michael D",41111,Police Officer,17665,M
+A99,415,7172,"Witter,John D",41111,Police Officer,46540,M
+A99,407,12018,"Woerner,Christopher",41111,Police Officer,35488,M
+A99,304,16501,"Wojcik,Paul A",41111,Police Officer,34805,M
+A99,322,33309,"Wolf,Thomas C",41111,Police Officer,17682,M
+A99,222,90184,"Wood,Michael H",41111,Police Officer,18116,M
+A99,124,93379,"Woods,Jonathan X",41111,Police Officer,35313,M
+A99,93,1346,"Worrell,Neil D",41111,Police Officer,16720,M
+A99,323,70536,"Worsley,Rachel L",41111,Police Officer,17489,F
+A99,299,45776,"Wortham,Jennifer M",41111,Police Officer,17439,F
+A99,408,8279,"Wright III,Lewis E",41111,Police Officer,35363,M
+A99,263,70170,"Wright,Courtney A",41111,Police Officer,17691,M
+A99,94,19926,"Wright,Darla J",41111,Police Officer,18966,F
+A99,399,44410,"Wright,Thomas R",41111,Police Officer,35546,M
+A99,30,16863,"Wroten Jr,Frederick P",41111,Police Officer,45468,M
+A99,94,1953,"Wynne,James A",41111,Police Officer,18464,M
+A99,224,74812,"Yaguibou,Abdoul S",41111,Police Officer,17395,M
+A99,64,96545,"Yancy,Devin J",41111,Police Officer,32651,M
+A99,407,2756,"Yates,Adam G",41111,Police Officer,18687,M
+A99,405,652,"Yates,Roberta A",41111,Police Officer,45538,F
+A99,32,34045,"Yates,Shawn L",41111,Police Officer,46550,M
+A99,407,78906,"Yezzi,Michael A",41111,Police Officer,17607,M
+A99,322,38641,"Yost,Raymond D",41111,Police Officer,19197,M
+A99,224,102941,"Young,Alex C",41111,Police Officer,17544,M
+A99,299,1567,"Young,Deborah J",41111,Police Officer,17480,F
+A99,407,47583,"Young,Latarsha C",41111,Police Officer,18655,F
+A99,33,46136,"Zambrana,Darwin",41111,Police Officer,18355,M
+A99,161,44899,"Zamora,Ronald P",41111,Police Officer,35433,M
+A99,390,638,"Zayas,Anthony",41111,Police Officer,18054,M
+A99,262,96540,"Zaza,Zaebele M",41111,Police Officer,18897,M
+A99,329,8090,"Zdura,Andrew J",41111,Police Officer,42187,M
+A99,194,95141,"Zebulun,Walter H",41111,Police Officer,18171,M
+A99,33,79555,"Zelno,Patrick",41111,Police Officer,35494,M
+A99,64,79454,"Zimmerman Jr,Jason A",41111,Police Officer,46469,M
+A99,395,75679,"Zimmerman,Jeremy E",41111,Police Officer,46466,M
+A99,224,71552,"Zorbach,Michael K",41111,Police Officer,35410,M
+A99,6,79214,"Zovistoski,Zachary D",41111,Police Officer,17612,M
+A99,225,75711,"Aguilera,Rene A",41121,Police Officer EID,17157,M
+A99,409,47646,"Al-Quarishy,Khady",41121,Police Officer EID,34817,F
+A99,335,46090,"Albino,Edwin",41121,Police Officer EID,17125,M
+A99,224,1004,"Alexander,Paul H",41121,Police Officer EID,17163,M
+A99,93,103154,"Alicea,Francisco G",41121,Police Officer EID,32611,M
+A99,304,19818,"Archambault,Jeffrey P",41121,Police Officer EID,17072,M
+A99,36,3040,"Ardis,Vicky L",41121,Police Officer EID,16992,F
+A99,408,46646,"Armstrong,Karyn L",41121,Police Officer EID,17181,F
+A99,407,74571,"Arutyunov,Anton P",41121,Police Officer EID,35474,M
+A99,297,48340,"Atanacio,Raul",41121,Police Officer EID,17105,M
+A99,30,46586,"Austin,Bryant J",41121,Police Officer EID,17175,M
+A99,60,83064,"Ayala-Booth,Suleika",41121,Police Officer EID,17986,F
+A99,337,2073,"Bailey,Dennis",41121,Police Officer EID,17113,M
+A99,338,66447,"Barnes,Jessie A",41121,Police Officer EID,17056,M
+A99,127,96158,"Barnett,Gabriel R",41121,Police Officer EID,17046,M
+A99,196,83036,"Bartoszak,John",41121,Police Officer EID,17169,M
+A99,90,55568,"Beasley,Derrick D",41121,Police Officer EID,46560,M
+A99,322,66581,"Beauregard-Navarro,Jill S",41121,Police Officer EID,18703,F
+A99,302,29661,"Bilheimer,John C",41121,Police Officer EID,17055,M
+A99,5,79085,"Billings,Nicholas A",41121,Police Officer EID,17139,M
+A99,407,1852,"Bomenka,David J",41121,Police Officer EID,17164,M
+A99,63,71068,"Bonner,Ira E",41121,Police Officer EID,17094,M
+A99,93,55327,"Bourn,Tiffani L",41121,Police Officer EID,17033,F
+A99,395,83723,"Bowen Jr.,Timothy M",41121,Police Officer EID,19159,M
+A99,322,7842,"Brockdorff,C P",41121,Police Officer EID,35462,M
+A99,415,62294,"Brown,Todd M",41121,Police Officer EID,16977,M
+A99,407,41911,"Burgess,Larzine J",41121,Police Officer EID,17016,F
+A99,415,12459,"Cabezas,Antonio J",41121,Police Officer EID,17037,M
+A99,329,1135,"Cabreja,Emmanuel",41121,Police Officer EID,35473,M
+A99,64,53470,"Caesar,Winona F",41121,Police Officer EID,17162,F
+A99,262,47484,"Candelaria,Abel A",41121,Police Officer EID,32614,M
+A99,93,46108,"Carrasquillo,Felipe O",41121,Police Officer EID,17015,M
+A99,93,74142,"Carrozzi,Nicholas J",41121,Police Officer EID,17731,M
+A99,194,640,"Catron,Cameron S",41121,Police Officer EID,17106,M
+A99,60,71149,"Cetrone,Richard M",41121,Police Officer EID,32654,M
+A99,304,65252,"Chin Jr,William E",41121,Police Officer EID,17024,M
+A99,398,1868,"Ciraolo Jr,Ronald J",41121,Police Officer EID,17031,M
+A99,302,17183,"Coker,Eugene O",41121,Police Officer EID,17180,M
+A99,408,1101,"Coleman,Lisa L",41121,Police Officer EID,34901,F
+A99,334,3317,"Collins,Michael C",41121,Police Officer EID,17172,M
+A99,5,46088,"Conde,Javier H",41121,Police Officer EID,17059,M
+A99,408,70912,"Conner,David C",41121,Police Officer EID,35463,M
+A99,35,95100,"Connor Jr.,Michael G",41121,Police Officer EID,17185,M
+A99,65,772,"Converse,Jeffrey A",41121,Police Officer EID,17018,M
+A99,62,35556,"Coppage,Brittney N",41121,Police Officer EID,17021,F
+A99,302,16264,"Counsell,Daniel A",41121,Police Officer EID,17085,M
+A99,95,89242,"Curtin,Michael J",41121,Police Officer EID,16975,M
+A99,297,536,"Curtis,Andrea J",41121,Police Officer EID,16711,F
+A99,5,83762,"Davies,Ryan S",41121,Police Officer EID,18820,M
+A99,221,83800,"DiPasquale,AnnMarie",41121,Police Officer EID,17140,F
+A99,263,95097,"Diaz,Mario W",41121,Police Officer EID,17083,M
+A99,322,44958,"Diener,Ryan J",41121,Police Officer EID,17107,M
+A99,408,66702,"Downing,Steven S",41121,Police Officer EID,17134,M
+A99,5,96726,"Echevarria,Elvin",41121,Police Officer EID,17186,M
+A99,94,55616,"Edge,James P",41121,Police Officer EID,19089,M
+A99,332,1637,"Elkner,Robert J",41121,Police Officer EID,17171,M
+A99,407,2059,"Emmanuelli,Alexis",41121,Police Officer EID,17129,M
+A99,305,16745,"Ensor,Matthew B",41121,Police Officer EID,17135,M
+A99,361,24728,"Epperson,Danielle D",41121,Police Officer EID,17004,F
+A99,263,89694,"Estevez,Joel",41121,Police Officer EID,35619,M
+A99,304,49342,"Etting,Errol E",41121,Police Officer EID,17058,M
+A99,396,2205,"Everett,Roan D",41121,Police Officer EID,17391,M
+A99,334,1946,"Faller,C P",41121,Police Officer EID,17099,M
+A99,265,78760,"Fanning Jr.,Gary F",41121,Police Officer EID,18905,M
+A99,407,75375,"Featherstone,Adrian R",41121,Police Officer EID,35415,M
+A99,391,12417,"Fennoy,Chakia N",41121,Police Officer EID,16973,F
+A99,225,103286,"Figueroa,Victor J",41121,Police Officer EID,17609,M
+A99,60,66744,"Fillion,Jacqueline A",41121,Police Officer EID,16993,F
+A99,195,736,"Fleurimond,Richard",41121,Police Officer EID,17002,M
+A99,65,65275,"Flores,Jeremy",41121,Police Officer EID,17165,M
+A99,124,71163,"Foster,Jeremy P",41121,Police Officer EID,17176,M
+A99,322,71702,"Fraser,Steven S",41121,Police Officer EID,17760,M
+A99,91,61887,"Frederick,Aaron W",41121,Police Officer EID,17041,M
+A99,197,2784,"Frey,Michael R",41121,Police Officer EID,35361,M
+A99,422,904,"Fusillo,Rocco J",41121,Police Officer EID,17080,M
+A99,94,96821,"Galligan,Thomas C",41121,Police Officer EID,45479,M
+A99,94,61680,"Gephardt,Scott M",41121,Police Officer EID,17104,M
+A99,415,2440,"Gillespie,Edward O",41121,Police Officer EID,33780,M
+A99,220,42214,"Gilliam,Bobbie S",41121,Police Officer EID,16689,F
+A99,95,83803,"Gizzo,Frank G",41121,Police Officer EID,45470,M
+A99,330,383,"Glanville,C R",41121,Police Officer EID,33778,M
+A99,33,1461,"Golimowski,Frank A",41121,Police Officer EID,33783,M
+A99,330,71103,"Gomez,Leonardo D",41121,Police Officer EID,17103,M
+A99,94,89074,"Gomez,Norberto",41121,Police Officer EID,17023,M
+A99,165,46648,"Gonzalez,Angel L",41121,Police Officer EID,18996,M
+A99,93,102966,"Gonzalez,Gilberto M",41121,Police Officer EID,17117,M
+A99,352,46120,"Gonzalez,Luis D",41121,Police Officer EID,17177,M
+A99,2,46107,"Gonzalez,Melvin J",41121,Police Officer EID,17066,M
+A99,263,43552,"Graham,Boris D",41121,Police Officer EID,17189,M
+A99,396,45841,"Grear,Clarence",41121,Police Officer EID,18873,M
+A99,330,37936,"Green,Eric L",41121,Police Officer EID,17026,M
+A99,265,69463,"Gregorio,John M",41121,Police Officer EID,17090,M
+A99,123,75376,"Grice,Dominique A",41121,Police Officer EID,17042,F
+A99,6,79409,"Gross III,Thomas J",41121,Police Officer EID,16985,M
+A99,408,467,"Gutierrez,Rene",41121,Police Officer EID,17150,M
+A99,125,466,"Gutierrez,Richard",41121,Police Officer EID,17039,M
+A99,312,45387,"Haley,Reed M",41121,Police Officer EID,17101,M
+A99,409,496,"Hall,June S",41121,Police Officer EID,17131,F
+A99,3,48362,"Hankard,Robert A",41121,Police Officer EID,32609,M
+A99,335,49173,"Harker,Scott R",41121,Police Officer EID,16995,M
+A99,32,48575,"Harris,Demario J",41121,Police Officer EID,17166,M
+A99,422,20620,"Harvin,Syreeta Y",41121,Police Officer EID,17170,F
+A99,124,45506,"Hawk,Joel E",41121,Police Officer EID,32616,M
+A99,299,62315,"Hay,Erica A",41121,Police Officer EID,34814,F
+A99,3,79434,"Haziminas,Alexandros A",41121,Police Officer EID,45551,M
+A99,164,2057,"Heffernan,Paul M",41121,Police Officer EID,17182,M
+A99,161,79556,"Hernandez-Domenech,Felix",41121,Police Officer EID,17638,M
+A99,33,1899,"Hibler,Andre T",41121,Police Officer EID,17036,M
+A99,335,2508,"Hiester,Christopher A",41121,Police Officer EID,16994,M
+A99,120,25658,"Hill Jr,Melvin M",41121,Police Officer EID,17077,M
+A99,407,24421,"Holmes,David J",41121,Police Officer EID,17035,M
+A99,161,61525,"Hopkins,Wesley D",41121,Police Officer EID,17953,M
+A99,164,44812,"Howard,James",41121,Police Officer EID,32701,M
+A99,195,74614,"Jackson,Aaron C",41121,Police Officer EID,18085,M
+A99,395,54222,"Jacques,Chedais D",41121,Police Officer EID,17143,M
+A99,334,29127,"Jester,Craig M",41121,Police Officer EID,17060,M
+A99,125,48666,"Johncox,Thomas E",41121,Police Officer EID,17119,M
+A99,337,25356,"Johnson,Raynard R",41121,Police Officer EID,17148,M
+A99,333,3107,"Jones III,Reginald",41121,Police Officer EID,17111,M
+A99,322,24856,"Jones,Jonathan L",41121,Police Officer EID,17136,M
+A99,62,41408,"Jones,Michael D",41121,Police Officer EID,18997,M
+A99,6,103665,"Jones,Michael N",41121,Police Officer EID,17149,M
+A99,407,74813,"Jordan,Joshua M",41121,Police Officer EID,35387,M
+A99,164,64968,"Jukam,Jason W",41121,Police Officer EID,33779,M
+A99,407,35171,"Kapfhammer,Cassidy M",41121,Police Officer EID,17087,F
+A99,95,102644,"Kelly,Brendan J",41121,Police Officer EID,17003,M
+A99,415,62291,"Kerg-Bucksbaum,Ann R",41121,Police Officer EID,17128,F
+A99,410,951,"Kirkpatrick,Sean A",41121,Police Officer EID,17159,M
+A99,305,83071,"Koch,Donald R",41121,Police Officer EID,40352,M
+A99,162,83058,"Krautkremer,Derek J",41121,Police Officer EID,18133,M
+A99,221,75449,"Kuhn,Nicholas P",41121,Police Officer EID,18933,M
+A99,125,55593,"Lamb,Sharon P",41121,Police Officer EID,16987,F
+A99,123,75378,"Lancetta,Nicholas G",41121,Police Officer EID,17054,M
+A99,323,44465,"Lash,Michael V",41121,Police Officer EID,16988,M
+A99,200,44466,"Lash,Vincent M",41121,Police Officer EID,17112,M
+A99,307,1068,"Lavery,Michael J",41121,Police Officer EID,17065,M
+A99,125,44877,"Laycock,Joshua D",41121,Police Officer EID,17144,M
+A99,323,8633,"Lee,Lakea I",41121,Police Officer EID,35467,F
+A99,304,62317,"Loiero,Brian C",41121,Police Officer EID,17013,M
+A99,200,1705,"Louvado,Ivo M",41121,Police Officer EID,17001,M
+A99,194,74524,"Luddy,Cathal A",41121,Police Officer EID,33784,M
+A99,330,24913,"Madigan,John M",41121,Police Officer EID,17022,M
+A99,408,49323,"Mahuta,Brian D",41121,Police Officer EID,17010,M
+A99,62,612,"Makanjuola,Rafiu T",41121,Police Officer EID,17007,M
+A99,97,70749,"Marley,John R",41121,Police Officer EID,17133,M
+A99,124,488,"Marrero,Ruben",41121,Police Officer EID,17097,M
+A99,200,24981,"Martin,Michael C",41121,Police Officer EID,16979,M
+A99,266,49343,"Masters,Erin",41121,Police Officer EID,17006,F
+A99,407,248,"Matchett,Steven F",41121,Police Officer EID,32610,M
+A99,162,55652,"Matthew,Kenneth T",41121,Police Officer EID,17955,M
+A99,93,61794,"Mayer,Michael J",41121,Police Officer EID,16981,M
+A99,5,55635,"McBride,Latasha Q",41121,Police Officer EID,17168,F
+A99,120,44803,"McCarty,Andrew M",41121,Police Officer EID,16990,M
+A99,322,11839,"McDonnell,Steven A",41121,Police Officer EID,33777,M
+A99,408,38465,"McLendon,Errin D",41121,Police Officer EID,35461,F
+A99,200,83,"McShane,James E",41121,Police Officer EID,17108,M
+A99,407,882,"McSpadden,Shannon M",41121,Police Officer EID,16982,F
+A99,305,28277,"McWilliams,Thomas A",41121,Police Officer EID,35469,M
+A99,200,70178,"Melnick,Stephanie E",41121,Police Officer EID,17161,F
+A99,2,46133,"Mendez,Angel M",41121,Police Officer EID,17071,M
+A99,224,74135,"Mendez,Xavier A",41121,Police Officer EID,17126,M
+A99,304,17614,"Merson,Justin P",41121,Police Officer EID,17599,M
+A99,330,1541,"Miller,Michael D",41121,Police Officer EID,17050,M
+A99,396,65922,"Milles,Jeffrey L",41121,Police Officer EID,17047,M
+A99,194,81749,"Million,James A",41121,Police Officer EID,17093,M
+A99,34,75598,"Miloff,Andrew C",41121,Police Officer EID,17088,M
+A99,322,25318,"Min,Julian J",41121,Police Officer EID,16991,M
+A99,409,47588,"Minaya,Juan C",41121,Police Officer EID,17167,M
+A99,161,29064,"Mitter,Roderick T",41121,Police Officer EID,17153,M
+A99,312,66452,"Montmorency,Johnathan R",41121,Police Officer EID,16997,M
+A99,36,75472,"Moorhead,Robert J",41121,Police Officer EID,17048,M
+A99,193,1811,"Morroni Jr,Raymond A",41121,Police Officer EID,16972,M
+A99,391,29220,"Moses Jr,James D",41121,Police Officer EID,17081,M
+A99,262,2915,"Mundy,Frank B",41121,Police Officer EID,17174,M
+A99,261,41716,"Murphy,Aidrine R",41121,Police Officer EID,16986,M
+A99,415,837,"Nanna Jr,Louis C",41121,Police Officer EID,17005,M
+A99,338,387,"Navarro,Eddys",41121,Police Officer EID,35465,M
+A99,63,2021,"Nelson,Damon L",41121,Police Officer EID,17082,M
+A99,200,55271,"Neptune,Mark M",41121,Police Officer EID,17074,M
+A99,302,74136,"Nero,Edward M",41121,Police Officer EID,17027,M
+A99,324,17347,"Newman,Sheena I",41121,Police Officer EID,32608,F
+A99,311,945,"Nieves,Heriberto",41121,Police Officer EID,17009,M
+A99,350,1424,"Nolan,John K",41121,Police Officer EID,17017,M
+A99,127,42866,"O'Sullivan,Michael D",41121,Police Officer EID,32612,M
+A99,296,1721,"Olds,Charlotte B",41121,Police Officer EID,17079,F
+A99,415,903,"Orisadele,Babatunde",41121,Police Officer EID,34815,M
+A99,225,7788,"Oster,Kristopher E",41121,Police Officer EID,32607,M
+A99,329,66292,"Paltoo,Anim",41121,Police Officer EID,33781,M
+A99,308,426,"Parris,Teddy E",41121,Police Officer EID,16971,M
+A99,61,79579,"Pashkevich,Mark A",41121,Police Officer EID,16999,M
+A99,407,34073,"Percell Jr,Tharmon",41121,Police Officer EID,16984,M
+A99,407,46129,"Perez,Maria",41121,Police Officer EID,17011,F
+A99,160,2704,"Perfetto,John J",41121,Police Officer EID,17155,M
+A99,407,102731,"Peroza,Johnathan M",41121,Police Officer EID,17044,M
+A99,332,64058,"Pham,Dien H",41121,Police Officer EID,17053,M
+A99,200,1272,"Pitocchelli,Julie A",41121,Police Officer EID,17019,F
+A99,193,74145,"Popham,Alexandria C",41121,Police Officer EID,17092,F
+A99,407,42070,"Poulsen,Brooks L",41121,Police Officer EID,18874,M
+A99,224,89229,"Pouokam,Juelie M",41121,Police Officer EID,17076,F
+A99,322,46498,"Pow,Matthew D",41121,Police Officer EID,16974,M
+A99,322,66748,"Powden,Nicholas L",41121,Police Officer EID,17158,M
+A99,33,47548,"Queen,Raymond",41121,Police Officer EID,17173,M
+A99,310,665,"Rager,John F",41121,Police Officer EID,16983,M
+A99,322,893,"Ragland,Eric T",41121,Police Officer EID,35472,M
+A99,194,96301,"Rago,Andrew I",41121,Police Officer EID,17008,M
+A99,61,38162,"Randolph Jr,Ronnie E",41121,Police Officer EID,16976,M
+A99,94,3141,"Ray Jr,Owen M",41121,Police Officer EID,16978,M
+A99,408,67070,"Richards,Bette S",41121,Police Officer EID,17078,F
+A99,64,74096,"Richardson,David T",41121,Police Officer EID,17156,M
+A99,322,859,"Riker,Jonathan V",41121,Police Officer EID,17873,M
+A99,220,46097,"Rivera,Elvin J",41121,Police Officer EID,17152,M
+A99,30,46082,"Rivera,Raul",41121,Police Officer EID,17025,M
+A99,323,75678,"Roberts,Kelsey R",41121,Police Officer EID,50430,F
+A99,307,16815,"Robinson,Stephane",41121,Police Officer EID,17154,M
+A99,62,103347,"Robles-Castro,Carlos J",41121,Police Officer EID,17084,M
+A99,63,46626,"Rodriguez,Linda I",41121,Police Officer EID,17160,F
+A99,61,70572,"Rogers,Norman W",41121,Police Officer EID,17151,M
+A99,194,79609,"Romeo,John A",41121,Police Officer EID,17073,M
+A99,223,65271,"Rose,Jay R",41121,Police Officer EID,17142,M
+A99,195,79580,"Rosenblatt,John C",41121,Police Officer EID,32606,M
+A99,307,1401,"Ryan,Thomas W",41121,Police Officer EID,34818,M
+A99,221,90152,"Sale,Katherine A",41121,Police Officer EID,42199,F
+A99,195,79193,"Sall,Alhassane A",41121,Police Officer EID,16690,M
+A99,33,70896,"Sanni-Ojikutu,Ismail O",41121,Police Officer EID,17130,M
+A99,120,61268,"Saunders,Jeanna V",41121,Police Officer EID,17014,F
+A99,322,48533,"Savadel,Keith E",41121,Police Officer EID,18876,M
+A99,299,20402,"Schaekel,Gary B",41121,Police Officer EID,34816,M
+A99,262,68833,"Schreven,John W",41121,Police Officer EID,17547,M
+A99,330,33329,"Schreyer,C J",41121,Police Officer EID,17063,M
+A99,407,69414,"Scoglio,James J",41121,Police Officer EID,33814,M
+A99,196,55257,"Sentz,Tyler J",41121,Police Officer EID,17034,M
+A99,124,1100,"Serrano,Deshawn",41121,Police Officer EID,17123,M
+A99,324,46064,"Severin,Verna V",41121,Police Officer EID,17089,F
+A99,161,79435,"Shaub,Steven L",41121,Police Officer EID,19088,M
+A99,200,33955,"Shockley Jr,James C",41121,Police Officer EID,17792,M
+A99,407,15914,"Simmons,David M",41121,Police Officer EID,17127,M
+A99,222,71152,"Simonyan,Hovhannes S",41121,Police Officer EID,16989,M
+A99,224,1234,"Singleton,Ronald",41121,Police Officer EID,17068,M
+A99,224,66466,"Sisco,James A",41121,Police Officer EID,17116,M
+A99,304,70169,"Smith,Ian M",41121,Police Officer EID,35470,M
+A99,97,62395,"Smothers,Marcus R",41121,Police Officer EID,17187,M
+A99,348,2158,"Spila,Mark T",41121,Police Officer EID,35617,M
+A99,94,79536,"Stafford,Geoffrey R",41121,Police Officer EID,50436,M
+A99,394,12069,"Stern,Jared E",41121,Police Officer EID,17049,M
+A99,225,2071,"Stokes,Robert C",41121,Police Officer EID,32613,M
+A99,322,70607,"Storie,Adam C",41121,Police Officer EID,18503,M
+A99,323,44782,"Suriano,Scott A",41121,Police Officer EID,17020,M
+A99,304,33316,"Swam,Hammond W",41121,Police Officer EID,17028,M
+A99,295,42773,"Swords,Dawn M",41121,Police Officer EID,32615,F
+A99,200,49356,"Tasher,Avraham A",41121,Police Officer EID,16996,M
+A99,4,20644,"Taylor,Michael A",41121,Police Officer EID,35258,M
+A99,65,48412,"Tiedemann,Keith M",41121,Police Officer EID,17038,M
+A99,395,83688,"Tobjy,Matthew J",41121,Police Officer EID,35618,M
+A99,408,74561,"Tonin,Eva R",41121,Police Officer EID,18948,F
+A99,322,74097,"Tonsch,Kimberly K",41121,Police Officer EID,17045,F
+A99,194,102976,"Torres-Miranda,Alexis J",41121,Police Officer EID,33801,M
+A99,197,69482,"Tran,Maggie L",41121,Police Officer EID,17043,F
+A99,35,79598,"Valencia,Sebastian",41121,Police Officer EID,17057,M
+A99,195,103009,"Vega,Omar J",41121,Police Officer EID,16998,M
+A99,97,46242,"Velez,Abraham L",41121,Police Officer EID,18877,M
+A99,262,79321,"Vernes,Daniel J",41121,Police Officer EID,17032,M
+A99,35,102732,"Villanueva-Ruiz,Pablo M",41121,Police Officer EID,17178,M
+A99,123,74811,"Washington,Stephanie D",41121,Police Officer EID,17095,F
+A99,304,827,"Wein,Zachary D",41121,Police Officer EID,17064,M
+A99,266,79629,"Wellems,Nicholas R",41121,Police Officer EID,17138,M
+A99,309,45584,"Wheeler,Patrick C",41121,Police Officer EID,17070,M
+A99,299,38155,"White,Ivan R",41121,Police Officer EID,18872,M
+A99,262,79395,"White-Bey,Aisha S",41121,Police Officer EID,17067,F
+A99,194,61895,"Yampierre,Sean T",41121,Police Officer EID,35475,M
+A99,322,65924,"Young,Thomas G",41121,Police Officer EID,17137,M
+A99,MIL,70635,"Zenker,Matthew J",41121,Police Officer EID,17147,M
+A99,348,82788,"Zeno Jr.,Anthony J",41121,Police Officer EID,17591,M
+A99,335,75581,"Zimrin,Evan R",41121,Police Officer EID,17062,M
+A99,196,95182,"Zuhoski,Timothy C",41121,Police Officer EID,17000,M
+A99,96,110018,"Abdulrahman,Mustafa H",41110,Police Officer Trainee,18525,M
+A99,416,116465,"Acosta,Arnulfo J",41110,Police Officer Trainee,18483,M
+A99,416,106799,"Agard,Christian T",41110,Police Officer Trainee,45534,M
+A99,7,109084,"Alrubaiee,Hasan A",41110,Police Officer Trainee,18445,M
+A99,416,13966,"Alston,Emmanuel R",41110,Police Officer Trainee,32653,M
+A99,96,110014,"Anyanwu,Eberenna F",41110,Police Officer Trainee,42183,M
+A99,416,110237,"Aracena-Tavarez,Jose J",41110,Police Officer Trainee,18320,M
+A99,416,110126,"Arnold,Nolan A",41110,Police Officer Trainee,17487,M
+A99,416,116568,"Arroyo,Franky",41110,Police Officer Trainee,18547,M
+A99,264,110021,"Attah,Kojo F",41110,Police Officer Trainee,43276,M
+A99,416,110329,"Austin,Anthony A",41110,Police Officer Trainee,18039,M
+A99,416,116183,"Avitia,Angelica B",41110,Police Officer Trainee,17973,F
+A99,7,109053,"Baez,Christopher M",41110,Police Officer Trainee,18828,M
+A99,416,116186,"Balaam,Darnell H",41110,Police Officer Trainee,17875,M
+A99,416,116671,"Balok,Christopher A",41110,Police Officer Trainee,32661,M
+A99,33,108694,"Banocy,Matthew R",41110,Police Officer Trainee,17518,M
+A99,416,110244,"Belhomme,Jiovani G",41110,Police Officer Trainee,17790,M
+A99,226,103492,"Benjamin,Michael N",41110,Police Officer Trainee,18168,M
+A99,416,109052,"Betancourt,Malik V",41110,Police Officer Trainee,32635,M
+A99,416,110395,"Beverly,Charles L",41110,Police Officer Trainee,35274,M
+A99,416,116834,"Blackman,Charles A",41110,Police Officer Trainee,35285,M
+A99,416,110368,"Bluhm,Andrew F",41110,Police Officer Trainee,34806,M
+A99,7,108677,"Bohli,Ryan J",41110,Police Officer Trainee,17203,M
+A99,407,110369,"Bracken,Sean M",41110,Police Officer Trainee,32687,M
+A99,416,82744,"Brandon,Harrison T",41110,Police Officer Trainee,18182,M
+A99,7,108774,"Brothers,Jeremy M",41110,Police Officer Trainee,17854,M
+A99,416,116925,"Brown,Ashley I",41110,Police Officer Trainee,35518,F
+A99,96,53775,"Brown,David M",41110,Police Officer Trainee,43271,M
+A99,416,110323,"Buitrago,Sheryll R",41110,Police Officer Trainee,32670,F
+A99,416,116248,"Burke,Dylan R",41110,Police Officer Trainee,18052,M
+A99,264,110015,"Butler,Kevin M",41110,Police Officer Trainee,43285,M
+A99,416,110270,"Butt,Brandon M",41110,Police Officer Trainee,43277,M
+A99,31,108923,"Caraballo,Joel S",41110,Police Officer Trainee,18939,M
+A99,416,110299,"Choi,Seung E",41110,Police Officer Trainee,17627,M
+A99,416,110125,"Cline,Jeffrey D",41110,Police Officer Trainee,17762,M
+A99,416,116385,"Collado,Nicolas N",41110,Police Officer Trainee,18457,M
+A99,416,110019,"Cooper,Tavon C",41110,Police Officer Trainee,19024,M
+A99,33,103564,"Crespo-Torres,Luis A",41110,Police Officer Trainee,35418,M
+A99,264,109214,"Currier,Zachary A",41110,Police Officer Trainee,46489,M
+A99,416,110238,"Dabo,Aliyu T",41110,Police Officer Trainee,18259,M
+A99,416,116548,"Dahl,Jacob D",41110,Police Officer Trainee,18533,M
+A99,416,116185,"Dalal,Sanjeev M",41110,Police Officer Trainee,17895,M
+A99,31,109135,"DiLucci,Ralph L",41110,Police Officer Trainee,46434,M
+A99,416,110666,"Dixon,Connor T",41110,Police Officer Trainee,17664,M
+A99,416,116923,"Dixon,Timothy L",41110,Police Officer Trainee,42193,M
+A99,416,110465,"Dominguez,Jonathan D",41110,Police Officer Trainee,35419,M
+A99,416,110649,"Ebner,Alexandra E",41110,Police Officer Trainee,17589,F
+A99,416,110324,"Edelman,Joseph E",41110,Police Officer Trainee,32676,M
+A99,34,109095,"Edwards,Amber O",41110,Police Officer Trainee,43541,F
+A99,416,116334,"Elleby,Cedric L",41110,Police Officer Trainee,18224,M
+A99,416,116590,"Ellis,Gabrielle C",41110,Police Officer Trainee,32647,F
+A99,416,110396,"Estevez,Joel L",41110,Police Officer Trainee,35341,M
+A99,35,109134,"Evans,Tyrell A",41110,Police Officer Trainee,45499,M
+A99,416,110174,"Feliz,Joardy F",41110,Police Officer Trainee,17774,M
+A99,416,116836,"Ferrigine,Joseph V",41110,Police Officer Trainee,35476,M
+A99,407,109022,"Filleti,Matthew A",41110,Police Officer Trainee,32658,M
+A99,126,110016,"Finkelstein,Kalman G",41110,Police Officer Trainee,17253,M
+A99,416,110606,"Fisher,Tyler J",41110,Police Officer Trainee,17459,M
+A99,407,110236,"Fortman,Thomas J",41110,Police Officer Trainee,18814,M
+A99,416,116830,"Frazier,Kaila C",41110,Police Officer Trainee,35310,F
+A99,416,116335,"Fuog,Arthur E",41110,Police Officer Trainee,18231,M
+A99,96,30874,"Gaines,Darius D",41110,Police Officer Trainee,45549,M
+A99,416,116569,"Galanos,Devon L",41110,Police Officer Trainee,18815,M
+A99,416,110647,"Galloway,Antoine T",41110,Police Officer Trainee,17592,M
+A99,96,108678,"Gibson,Ryan M",41110,Police Officer Trainee,17208,M
+A99,126,108727,"Gimbi,Eric H",41110,Police Officer Trainee,17595,M
+A99,96,103670,"Gomez,Reynardo B",41110,Police Officer Trainee,18093,M
+A99,416,110182,"Grant,Morais M",41110,Police Officer Trainee,17828,M
+A99,416,116343,"Green,Steven W",41110,Police Officer Trainee,18261,M
+A99,416,110300,"Greer,Martin F",41110,Police Officer Trainee,17469,M
+A99,264,110013,"Guzman,Jose R",41110,Police Officer Trainee,18408,M
+A99,264,108710,"Harris,Justin D",41110,Police Officer Trainee,17684,M
+A99,416,116196,"Hessler,Kyle L",41110,Police Officer Trainee,18019,M
+A99,416,116180,"Hill,Kyia M",41110,Police Officer Trainee,17858,F
+A99,416,116532,"Hilton,Kevin J",41110,Police Officer Trainee,18174,M
+A99,416,116386,"Hodge,Matthew A",41110,Police Officer Trainee,18479,M
+A99,MIL,83794,"Howe II,John L",41110,Police Officer Trainee,17373,M
+A99,416,110674,"Jewitt,Hunter G",41110,Police Officer Trainee,17807,M
+A99,126,108915,"Jimenez,Emmanuel M",41110,Police Officer Trainee,19099,M
+A99,416,116197,"Johnson,Antonio J",41110,Police Officer Trainee,18010,M
+A99,66,109236,"Johnson,Connor M",41110,Police Officer Trainee,17406,M
+A99,MIL,109143,"Johnson,Rahmaine W",41110,Police Officer Trainee,46476,M
+A99,126,108846,"Jones,Chantice N",41110,Police Officer Trainee,18344,F
+A99,416,116570,"Jones,James R",41110,Police Officer Trainee,18822,M
+A99,416,116342,"Kan,Steven W",41110,Police Officer Trainee,18262,M
+A99,416,108734,"Kemerer,Michael J",41110,Police Officer Trainee,18330,M
+A99,416,104096,"Khan,Tareq A",41110,Police Officer Trainee,18141,M
+A99,416,110370,"Kimock,Jack A",41110,Police Officer Trainee,33838,M
+A99,416,116582,"Kordela,Joshua N",41110,Police Officer Trainee,19676,M
+A99,416,110301,"Langley,Marcus L",41110,Police Officer Trainee,46441,M
+A99,416,104446,"Lewis,Lawrence L",41110,Police Officer Trainee,44366,M
+A99,96,109263,"Lipka,Alexander J",41110,Police Officer Trainee,35612,M
+A99,126,104230,"Lopez,Nelson A",41110,Police Officer Trainee,19019,M
+A99,416,110314,"Lutz,Joshua L",41110,Police Officer Trainee,17723,M
+A99,264,108848,"Mable,Brandall D",41110,Police Officer Trainee,18397,M
+A99,416,116187,"Magness,Kristian M",41110,Police Officer Trainee,17864,M
+A99,264,108776,"Maitland,Keith B",41110,Police Officer Trainee,18193,M
+A99,416,116581,"Maldonado Canales,Santos E",41110,Police Officer Trainee,18938,M
+A99,264,108916,"Malina,Matthew J",41110,Police Officer Trainee,19106,M
+A99,192,108775,"Marmolejos,Steven M",41110,Police Officer Trainee,18299,M
+A99,416,116184,"Marrero Gonzalez,Jesse J",41110,Police Officer Trainee,17969,M
+A99,416,110231,"Martell,Taryn G",41110,Police Officer Trainee,18109,F
+A99,416,110670,"Martinez,Henry J",41110,Police Officer Trainee,17729,M
+A99,126,58461,"Melvin,Timothy M",41110,Police Officer Trainee,16695,M
+A99,416,110245,"Mercado,Jose L",41110,Police Officer Trainee,17571,M
+A99,407,110302,"Miller,Casey L",41110,Police Officer Trainee,17471,F
+A99,416,110416,"Montanez,Jaziel L",41110,Police Officer Trainee,35397,M
+A99,416,813,"Montrose,Telisecia A",41110,Police Officer Trainee,17553,F
+A99,416,116831,"Moore,Spencer S",41110,Police Officer Trainee,35330,M
+A99,163,109238,"Mosca,Antonio E",41110,Police Officer Trainee,35490,M
+A99,96,108711,"Murray,Connor S",41110,Police Officer Trainee,17767,M
+A99,31,109201,"Myer,Alexsandro J",41110,Police Officer Trainee,45554,M
+A99,96,103814,"Negron-Santiago,Ashley A",41110,Police Officer Trainee,18773,F
+A99,96,109200,"Nelson,Lanesha S",41110,Police Officer Trainee,33837,F
+A99,416,116672,"Nelson,Norman A",41110,Police Officer Trainee,32677,M
+A99,96,110017,"Nguyen,Christopher H",41110,Police Officer Trainee,32671,M
+A99,96,109230,"Nieves,Luis M",41110,Police Officer Trainee,52357,M
+A99,66,108913,"Olszak,Michael J",41110,Police Officer Trainee,19055,M
+A99,66,109961,"Oquendo,Angelica J",41110,Police Officer Trainee,35529,F
+A99,416,110272,"Ortiz,Wilfredo M",41110,Police Officer Trainee,46566,M
+A99,192,104434,"Ortiz-Lopez,Felix A",41110,Police Officer Trainee,43278,M
+A99,264,104123,"Paracha,Humza M",41110,Police Officer Trainee,18208,M
+A99,192,108918,"Paredes,Rafael",41110,Police Officer Trainee,19185,M
+A99,416,110646,"Parker,Trevor J",41110,Police Officer Trainee,17521,M
+A99,66,108695,"Patoska,Matthew A",41110,Police Officer Trainee,17581,M
+A99,416,116837,"Pereira,Rodrigo O",41110,Police Officer Trainee,35481,M
+A99,192,109265,"Perez,Jorge A",41110,Police Officer Trainee,52359,M
+A99,416,116527,"Perez,Michael J",41110,Police Officer Trainee,18531,M
+A99,416,110648,"Peterson,Brittany B",41110,Police Officer Trainee,17541,F
+A99,416,116194,"Phipps,Franklin R",41110,Police Officer Trainee,17978,M
+A99,416,116181,"Pineda,Joseph G",41110,Police Officer Trainee,17996,M
+A99,192,109239,"Polanco,Phill J",41110,Police Officer Trainee,17500,M
+A99,416,104414,"Poremski,Dylan F",41110,Police Officer Trainee,42204,M
+A99,192,109287,"Pratt,Olen A",41110,Police Officer Trainee,17348,M
+A99,163,109983,"Price,Kenton J",41110,Police Officer Trainee,17422,M
+A99,7,108849,"Puello,Irene D",41110,Police Officer Trainee,18400,F
+A99,416,76481,"Purcell Jr.,Garnell L",41110,Police Officer Trainee,17574,M
+A99,416,110243,"Quenzer,Ericka M",41110,Police Officer Trainee,18937,F
+A99,416,104475,"Quinones,Ana M",41110,Police Officer Trainee,45482,F
+A99,66,108706,"Raickett,Jamal H",41110,Police Officer Trainee,17613,M
+A99,416,110246,"Reichart,Michael A",41110,Police Officer Trainee,32699,M
+A99,407,108850,"Restituyo,Julian",41110,Police Officer Trainee,18472,M
+A99,416,116547,"Robles,Enmanuel D",41110,Police Officer Trainee,18541,M
+A99,416,116571,"Rodriguez,Jose A",41110,Police Officer Trainee,18825,M
+A99,416,57255,"Rodriguez,Kristopher M",41110,Police Officer Trainee,32649,M
+A99,66,109030,"Rodriguez,Omar D",41110,Police Officer Trainee,16627,M
+A99,416,116472,"Rojas Nunez,Juan P",41110,Police Officer Trainee,18497,M
+A99,416,110672,"Rosa-Caldero,Orlando D",41110,Police Officer Trainee,17699,M
+A99,416,110671,"Rosenberger,Wesley B",41110,Police Officer Trainee,17744,M
+A99,416,116832,"Routh,Brittany T",41110,Police Officer Trainee,35253,F
+A99,407,108679,"Ruhling,Cody M",41110,Police Officer Trainee,17409,M
+A99,416,116625,"Rutledge,Tyler R",41110,Police Officer Trainee,32648,M
+A99,226,109028,"Santana,Keitha-Maria F",41110,Police Officer Trainee,17816,F
+A99,416,116833,"Scarff,Abigail M",41110,Police Officer Trainee,35371,F
+A99,192,109085,"Seivers,Daron V",41110,Police Officer Trainee,43536,M
+A99,416,116884,"Sekou-Thomas,Ahmed R",41110,Police Officer Trainee,35499,M
+A99,226,108914,"Severson,Michael T",41110,Police Officer Trainee,19095,M
+A99,416,116533,"Sheppard,Aaron M",41110,Police Officer Trainee,18506,M
+A99,416,110397,"Shields,Melissa P",41110,Police Officer Trainee,35269,F
+A99,416,116963,"Shugarman,Avraham L",41110,Police Officer Trainee,17236,M
+A99,416,110154,"Siegars,Dannjie D",41110,Police Officer Trainee,17531,M
+A99,416,116591,"Smedberg,Richard J",41110,Police Officer Trainee,32631,M
+A99,416,116341,"Smith,Daniel J",41110,Police Officer Trainee,18281,M
+A99,416,110669,"Smith,Tarshea D",41110,Police Officer Trainee,17796,F
+A99,226,109051,"Sosa,Gilberto V",41110,Police Officer Trainee,32656,M
+A99,416,110328,"Sowards,Kyle A",41110,Police Officer Trainee,18004,M
+A99,226,108889,"Staley,Joseph C",41110,Police Officer Trainee,18665,M
+A99,416,110675,"Stewart,Kaivon J",41110,Police Officer Trainee,17831,M
+A99,416,116882,"Stremlau,Joseph R",41110,Police Officer Trainee,42197,M
+A99,416,116195,"Strickland,Clifford E",41110,Police Officer Trainee,18008,M
+A99,407,103668,"Taffanelli Latorre,Manuel D",41110,Police Officer Trainee,17905,M
+A99,416,110668,"Tamsiti,Rostoum T",41110,Police Officer Trainee,17690,M
+A99,126,110028,"Tatum,D'Ara E",41110,Police Officer Trainee,18356,F
+A99,163,108912,"Taylor,Terrell A",41110,Police Officer Trainee,19210,M
+A99,163,103137,"Thomas,Charles E",41110,Police Officer Trainee,32646,M
+A99,226,109262,"Thompson,Tyrik T",41110,Police Officer Trainee,18292,M
+A99,264,109212,"Thornton,Asia M",41110,Police Officer Trainee,46572,F
+A99,416,116879,"Tiburzi,Tony R",41110,Police Officer Trainee,35495,M
+A99,416,110565,"Torand,Avery C",41110,Police Officer Trainee,17441,M
+A99,416,116471,"Torres Cruz,Ismael S",41110,Police Officer Trainee,18502,M
+A99,163,103678,"Torres Walker,Bolivar M",41110,Police Officer Trainee,18195,M
+A99,416,116835,"Torres,Angel L",41110,Police Officer Trainee,35484,M
+A99,416,110303,"Trott,Jason W",41110,Police Officer Trainee,19150,M
+A99,416,110605,"Trudell,Honovi C",41110,Police Officer Trainee,17449,M
+A99,31,109231,"Turcios-Paz,Ana V",41110,Police Officer Trainee,52358,F
+A99,416,116182,"Tutuska IV,David J",41110,Police Officer Trainee,17957,M
+A99,416,110398,"Upton,Grant M",41110,Police Officer Trainee,34922,M
+A99,163,109086,"Valenzuela,Sergio V",41110,Police Officer Trainee,43537,M
+A99,416,116584,"VanderBrug,Derek E",41110,Police Officer Trainee,18955,M
+A99,416,116964,"Vasquez,Nicholas L",41110,Police Officer Trainee,44454,M
+A99,416,110247,"Weaver,Jerian K",41110,Police Officer Trainee,35432,M
+A99,416,110123,"Wentworth,Nicholas E",41110,Police Officer Trainee,45492,M
+A99,416,103815,"West,Derrick D",41110,Police Officer Trainee,34905,M
+A99,416,116193,"Williams,Akeem J",41110,Police Officer Trainee,17997,M
+A99,66,110027,"Williams,Dameon R",41110,Police Officer Trainee,18371,M
+A99,66,58698,"Williams,Diontae M",41110,Police Officer Trainee,16693,M
+A99,163,109029,"Winiarski,Dylan M",41110,Police Officer Trainee,18200,M
+A99,416,110122,"Wisner-Carlson,William D",41110,Police Officer Trainee,46510,M
+A99,264,108668,"Wolfanger,Madison S",41110,Police Officer Trainee,46583,M
+A99,163,110012,"Woodard,Lamont R",41110,Police Officer Trainee,35569,M
+A99,416,110315,"Yuth,Brandon L",41110,Police Officer Trainee,17730,M
+A99,163,109962,"Zhang,Zhiang J",41110,Police Officer Trainee,17408,M
+A99,163,104150,"Zou,Zhi Fan",41110,Police Officer Trainee,18895,M
+A99,160,1528,"Abdi,Ezekiel W",41112,Police Sergeant,16833,M
+A99,64,16796,"Adams Jr,Wayne A",41112,Police Sergeant,18766,M
+A99,262,7794,"Adams,Tavon R",41112,Police Sergeant,35451,M
+A99,63,610,"Akinwande,Olufemi O",41112,Police Sergeant,35446,M
+A99,408,447,"Alessi,Michael J",41112,Police Sergeant,33765,M
+A99,167,25166,"Alvarez III,Amado C",41112,Police Sergeant,16950,M
+A99,370,11142,"Amos,Virginia L",41112,Police Sergeant,16866,F
+A99,63,943,"Anselme,Patrick",41112,Police Sergeant,16860,M
+A99,162,1252,"Armstrong Jr,Frank",41112,Police Sergeant,35508,M
+A99,305,33303,"Atwood,Brian M",41112,Police Sergeant,16684,M
+A99,348,34330,"Avery,Brandon O",41112,Police Sergeant,17740,M
+A99,407,7256,"Baker,Michael A",41112,Police Sergeant,35436,M
+A99,64,46211,"Battle,Cameron S",41112,Police Sergeant,35438,M
+A99,302,46218,"Belcher,Renonzo L",41112,Police Sergeant,46930,M
+A99,322,29532,"Bell,Terry M",41112,Police Sergeant,17396,M
+A99,63,7222,"Bennett,Gene A",41112,Police Sergeant,10657,M
+A99,347,152,"Bennett,Jason I",41112,Police Sergeant,18432,M
+A99,261,46170,"Bergeron,Mark J",41112,Police Sergeant,16949,M
+A99,200,41816,"Blackwell,Troy M",41112,Police Sergeant,33773,M
+A99,60,57177,"Blanchard,Jason S",41112,Police Sergeant,19078,M
+A99,394,20318,"Bolden,Michelle",41112,Police Sergeant,33760,F
+A99,323,28821,"Bowen,Bryan A",41112,Police Sergeant,16911,M
+A99,125,24786,"Bracken,Thomas P",41112,Police Sergeant,44258,M
+A99,370,24928,"Brickus,Michael A",41112,Police Sergeant,33768,M
+A99,415,38907,"Brinn,Michael",41112,Police Sergeant,16862,M
+A99,365,37833,"Brokus Jr,James J",41112,Police Sergeant,18993,M
+A99,190,18165,"Brown,Curtis M",41112,Police Sergeant,17956,M
+A99,322,424,"Brown,Kevin T",41112,Police Sergeant,44259,M
+A99,94,24206,"Brown,Margaret A",41112,Police Sergeant,19143,F
+A99,164,2129,"Brown,Richard J",41112,Police Sergeant,16852,M
+A99,1,46823,"Brown,Yolanda A",41112,Police Sergeant,35437,F
+A99,32,48652,"Brust,David J",41112,Police Sergeant,16807,M
+A99,399,8059,"Bryant,Kianah C",41112,Police Sergeant,19221,F
+A99,408,29302,"Burns Jr,John E",41112,Police Sergeant,18767,M
+A99,398,44433,"Burton,Joseph M",41112,Police Sergeant,32989,M
+A99,195,81751,"Cadiz-Burgos,Alfredo B",41112,Police Sergeant,18985,M
+A99,220,570,"Caraballo,Edgar L",41112,Police Sergeant,19648,M
+A99,97,33861,"Carrington,Isaac D",41112,Police Sergeant,16855,M
+A99,93,1248,"Cartagena,Jose J",41112,Police Sergeant,19230,M
+A99,200,20880,"Cavey,Shannon D",41112,Police Sergeant,35435,M
+A99,124,34612,"Cephas,Damon L",41112,Police Sergeant,16958,M
+A99,407,28798,"Chimick,Karla J",41112,Police Sergeant,17972,F
+A99,334,12418,"Cicchetti III,Carl",41112,Police Sergeant,33762,M
+A99,305,20179,"Colbert,Edward D",41112,Police Sergeant,18994,M
+A99,195,57116,"Colburn,David O",41112,Police Sergeant,32990,M
+A99,400,46144,"Colon,Alberto L",41112,Police Sergeant,16948,M
+A99,415,29768,"Corso,Robert A",41112,Police Sergeant,16886,M
+A99,36,25307,"Crites,David A",41112,Police Sergeant,16940,M
+A99,302,1944,"Crowley Jr,James",41112,Police Sergeant,16703,M
+A99,408,33566,"Crowther,Timothy M",41112,Police Sergeant,16890,M
+A99,160,1283,"Currie,William A",41112,Police Sergeant,16821,M
+A99,2,29146,"Davis,Antwann N",41112,Police Sergeant,16708,M
+A99,415,16213,"Davis,Edward P",41112,Police Sergeant,16955,M
+A99,323,29745,"Davis,Gloria",41112,Police Sergeant,19335,F
+A99,160,565,"Davis,Lamont R",41112,Police Sergeant,17317,M
+A99,6,61786,"Davis,Thomas A",41112,Police Sergeant,18764,M
+A99,398,15983,"Day,Matthew W",41112,Police Sergeant,16817,M
+A99,93,65962,"Degele,James A",41112,Police Sergeant,46923,M
+A99,312,1052,"Deluca,Kenneth J",41112,Police Sergeant,18992,M
+A99,324,41576,"Dixon III,Phillip A",41112,Police Sergeant,16875,M
+A99,296,38639,"Dixon,Curtis G",41112,Police Sergeant,16849,M
+A99,34,3046,"Dobry,Joseph L",41112,Police Sergeant,46928,M
+A99,62,46087,"Dockery,Charles L",41112,Police Sergeant,16941,M
+A99,167,329,"Dockett,Julius T",41112,Police Sergeant,50429,M
+A99,3,6820,"Dull,David R",41112,Police Sergeant,16923,M
+A99,60,41194,"Duncan,Rebecca A",41112,Police Sergeant,16819,F
+A99,125,70880,"Dunlap,Christopher J",41112,Police Sergeant,17519,M
+A99,331,25375,"Eames,Gregory X",41112,Police Sergeant,16848,M
+A99,35,55167,"Easley,James E",41112,Police Sergeant,35450,M
+A99,347,881,"Echevarria,Brandon E",41112,Police Sergeant,17998,M
+A99,95,1950,"Edwards,Shawn N",41112,Police Sergeant,19085,M
+A99,193,34476,"Eskins,Lane E",41112,Police Sergeant,16961,M
+A99,389,62201,"Etwaroo,Jai J",41112,Police Sergeant,19081,M
+A99,164,34083,"Evans,Steven L",41112,Police Sergeant,19229,M
+A99,347,8031,"Fair,Bryant X",41112,Police Sergeant,16889,M
+A99,221,6999,"Fallon,James M",41112,Police Sergeant,16840,M
+A99,394,33878,"Faulk Jr,Anthony",41112,Police Sergeant,32981,M
+A99,407,49347,"Fedd IV,John W",41112,Police Sergeant,17718,M
+A99,337,2853,"Felker,Ryan R",41112,Police Sergeant,16828,M
+A99,262,34208,"Fell,Glen M",41112,Police Sergeant,16808,M
+A99,305,7326,"Ferenc,Mark W",41112,Police Sergeant,16883,M
+A99,62,41807,"Ferguson,Aaron T",41112,Police Sergeant,18867,M
+A99,263,2575,"Flynn,Brian E",41112,Police Sergeant,46921,M
+A99,407,44169,"Fonseca,Marlena",41112,Police Sergeant,16946,F
+A99,337,34139,"Foster,Antwon L",41112,Police Sergeant,17654,M
+A99,2,21212,"Foster,Dontae A",41112,Police Sergeant,16826,M
+A99,196,34342,"Frazier Jr,Jerre D",41112,Police Sergeant,35614,M
+A99,265,34675,"Friend Jr,Frank J",41112,Police Sergeant,36507,M
+A99,61,16741,"Garber,Jason T",41112,Police Sergeant,18860,M
+A99,127,34384,"Garrett,Jonathan R",41112,Police Sergeant,16868,M
+A99,322,47585,"Gause,Michael L",41112,Police Sergeant,19647,M
+A99,409,33773,"Giannakoulias,Georgios S",41112,Police Sergeant,16687,M
+A99,125,7350,"Gibson Jr,Douglas C",41112,Police Sergeant,19148,M
+A99,407,407,"Gillgannon,Daniel D",41112,Police Sergeant,17229,M
+A99,335,1344,"Giordano,Jason P",41112,Police Sergeant,16837,M
+A99,415,41923,"Gladden,Kara L",41112,Police Sergeant,32985,F
+A99,263,42110,"Green Sr,Shawn M",41112,Police Sergeant,16959,M
+A99,260,49266,"Green,Cheaneka A",41112,Police Sergeant,18861,F
+A99,407,2007,"Guinn,Ryan J",41112,Police Sergeant,16915,M
+A99,304,16296,"Harris Jr,William",41112,Police Sergeant,18834,M
+A99,91,16875,"Harty,Marlon A",41112,Police Sergeant,19232,M
+A99,222,49662,"Hendrichs,Jack R",41112,Police Sergeant,18865,M
+A99,162,45513,"Hernandez,Edgardo C",41112,Police Sergeant,16803,M
+A99,123,17071,"Herndon,Derek M",41112,Police Sergeant,16622,M
+A99,224,944,"Heyward,Terrance G",41112,Police Sergeant,17069,M
+A99,296,1933,"Higley,Graig A",41112,Police Sergeant,16904,M
+A99,193,48995,"Hill,Ryan W",41112,Police Sergeant,18986,M
+A99,304,2960,"Himes III,Robert L",41112,Police Sergeant,18765,M
+A99,32,48325,"Hines,Jason A",41112,Police Sergeant,18870,M
+A99,321,7684,"Hinton,Eric M",41112,Police Sergeant,35445,M
+A99,4,24470,"Histon,Steven E",41112,Police Sergeant,16861,M
+A99,94,47657,"Hood,Bradley",41112,Police Sergeant,16682,M
+A99,330,38915,"Hoover,William P",41112,Police Sergeant,18989,M
+A99,297,32802,"Hopson Jr,Louis H",41112,Police Sergeant,16805,M
+A99,415,15823,"Hovermill,Lawrence H",41112,Police Sergeant,16937,M
+A99,224,465,"Hunter,Nicole",41112,Police Sergeant,33764,F
+A99,91,29468,"Icenroad,Christopher L",41112,Police Sergeant,18029,M
+A99,395,20171,"Jackson Jr,William G",41112,Police Sergeant,16681,M
+A99,370,15971,"Jackson,Dearl",41112,Police Sergeant,16954,M
+A99,399,34410,"Jackson,Erick M",41112,Police Sergeant,16952,M
+A99,422,20549,"Jackson,Glen A",41112,Police Sergeant,18862,M
+A99,260,20429,"Jackson,Kathleen S",41112,Police Sergeant,16845,F
+A99,394,16574,"Jackson,Thomas L",41112,Police Sergeant,17741,M
+A99,415,44518,"Janu III,William C",41112,Police Sergeant,18762,M
+A99,35,39004,"Jemmott,Julian D",41112,Police Sergeant,16913,M
+A99,162,17336,"Johnson,Jamal D",41112,Police Sergeant,16964,M
+A99,347,57450,"Johnson,Timothy D",41112,Police Sergeant,19565,M
+A99,361,28996,"Johnson,Valerie M",41112,Police Sergeant,16843,F
+A99,407,45529,"Jones,Deandrea T",41112,Police Sergeant,46931,F
+A99,322,38692,"Jones,Sean P",41112,Police Sergeant,16859,M
+A99,407,24560,"Jones,Urica N",41112,Police Sergeant,43202,F
+A99,33,57636,"Jordan,Denishia R",41112,Police Sergeant,16863,F
+A99,424,1064,"Jurado,Melvin",41112,Police Sergeant,32995,M
+A99,407,1623,"Kienle,Keith T",41112,Police Sergeant,16944,M
+A99,34,66684,"Kincaid,David R",41112,Police Sergeant,16830,M
+A99,62,20271,"Klado,Gary",41112,Police Sergeant,18990,M
+A99,90,34184,"Kolacz,Steven K",41112,Police Sergeant,35441,M
+A99,4,70564,"Koushall,Marlon S",41112,Police Sergeant,16927,M
+A99,200,30001,"Landsman,Joseph C",41112,Police Sergeant,18866,M
+A99,30,49515,"Lee,Latreese N",41112,Police Sergeant,19127,F
+A99,200,24915,"Leisher,Christopher R",41112,Police Sergeant,35509,M
+A99,225,54156,"Lewis,Antione J",41112,Police Sergeant,19083,M
+A99,415,25239,"Livesay Jr,Ricky A",41112,Police Sergeant,16939,M
+A99,322,44192,"Lloyd,James A",41112,Police Sergeant,19084,M
+A99,331,17263,"Lofton,Aryne P",41112,Police Sergeant,16685,F
+A99,396,33985,"MacDonald,William E",41112,Police Sergeant,35439,M
+A99,61,24949,"Maggio,Anthony",41112,Police Sergeant,16965,M
+A99,124,7640,"Marshall,Charles E",41112,Police Sergeant,16880,M
+A99,32,29869,"Martin,Daniel S",41112,Police Sergeant,18868,M
+A99,60,25168,"Martin,Erica A",41112,Police Sergeant,16899,F
+A99,60,29259,"Maurice,Michael J",41112,Police Sergeant,16908,M
+A99,160,45613,"Mayfield Sr,Derrick E",41112,Police Sergeant,16854,M
+A99,415,16346,"McCoy,Alvin L",41112,Police Sergeant,35443,M
+A99,308,34463,"McEntyre,Marlon J",41112,Police Sergeant,16945,M
+A99,200,2723,"McGrath,Jennifer E",41112,Police Sergeant,33766,F
+A99,60,41286,"McNeill,Keith D",41112,Police Sergeant,16810,M
+A99,120,44031,"Middleton,Henrietta L",41112,Police Sergeant,36508,F
+A99,265,49664,"Moore,Jordan G",41112,Police Sergeant,16806,M
+A99,335,20379,"Moore,Sandra L",41112,Police Sergeant,16887,F
+A99,352,38842,"Morales Jr,Ronaldo E",41112,Police Sergeant,46933,M
+A99,348,57443,"Murphy,Keenan P",41112,Police Sergeant,16931,M
+A99,300,16927,"Nicholl,Michael D",41112,Police Sergeant,16680,M
+A99,95,69914,"O'Leary,Brendan J",41112,Police Sergeant,18856,M
+A99,304,7647,"Oliver,Juan T",41112,Police Sergeant,16969,M
+A99,190,28863,"Page Jr,Arthur W",41112,Police Sergeant,46929,M
+A99,304,16879,"Palmer,Timothy L",41112,Police Sergeant,34906,M
+A99,197,20076,"Parker Jr,Zachary",41112,Police Sergeant,32992,M
+A99,330,42003,"Pride,Lamont",41112,Police Sergeant,46927,M
+A99,312,35158,"Quaranto,Daniel P",41112,Police Sergeant,17527,M
+A99,166,7727,"Ramberg,Kenneth J",41112,Police Sergeant,16918,M
+A99,261,2953,"Reed,Michael L",41112,Police Sergeant,16916,M
+A99,5,21245,"Reed,Steven M",41112,Police Sergeant,32987,M
+A99,93,16542,"Reynolds,Michael M",41112,Police Sergeant,16804,M
+A99,335,1309,"Rivera,Jeffrey O",41112,Police Sergeant,16888,M
+A99,313,16695,"Robar,Russell S",41112,Police Sergeant,16933,M
+A99,399,45764,"Robinson,Aaron",41112,Police Sergeant,35434,M
+A99,190,66718,"Robles Mejia,Kenny J",41112,Police Sergeant,16920,M
+A99,309,534,"Roepcke,Kurt F",41112,Police Sergeant,35507,M
+A99,120,8113,"Rollhauser Jr,Charles M",41112,Police Sergeant,16710,M
+A99,415,11935,"Rosenblatt,Joshua E",41112,Police Sergeant,16820,M
+A99,322,45510,"Ross,Robert R",41112,Police Sergeant,16867,M
+A99,93,12800,"Rowlett,Jasmin N",41112,Police Sergeant,16856,F
+A99,407,995,"Ruiz,Luis A",41112,Police Sergeant,16851,M
+A99,332,817,"Rutkowski,Mark A",41112,Police Sergeant,16800,M
+A99,95,7264,"Sagner,Jeremy M",41112,Police Sergeant,16835,M
+A99,193,11716,"Salefski,Daniel W",41112,Police Sergeant,19147,M
+A99,322,46156,"Santos,Daniel",41112,Police Sergeant,19329,M
+A99,356,25061,"Santucci Jr,Raymond P",41112,Police Sergeant,35454,M
+A99,97,7101,"Schmidt,Christopher M",41112,Police Sergeant,35453,M
+A99,408,7360,"Scott,Theresa A",41112,Police Sergeant,46924,F
+A99,223,33761,"Sedgwick,William A",41112,Police Sergeant,16688,M
+A99,261,29390,"Seitler,Molly R",41112,Police Sergeant,19082,F
+A99,2,840,"Seymour,Andrew S",41112,Police Sergeant,35254,M
+A99,260,38367,"Shetterly,Jimmy A",41112,Police Sergeant,19145,M
+A99,222,2528,"Shuttleworth,Gregory V",41112,Police Sergeant,33758,M
+A99,394,25508,"Sieracki III,John V",41112,Police Sergeant,18147,M
+A99,260,1151,"Simpson Jr,Welton",41112,Police Sergeant,35440,M
+A99,263,25747,"Slack,Steven J",41112,Police Sergeant,32988,M
+A99,161,71706,"Smith,Charles H",41112,Police Sergeant,18991,M
+A99,330,38997,"Smith,Michael H",41112,Police Sergeant,16705,M
+A99,299,17243,"Smith,Thomas B",41112,Police Sergeant,19079,M
+A99,338,7910,"Smith-Gee,Quinton O",41112,Police Sergeant,43201,M
+A99,422,12192,"Stiemly Jr,George J",41112,Police Sergeant,19142,M
+A99,127,2355,"Streett,Amy L",41112,Police Sergeant,32984,F
+A99,295,29435,"Streett,Craig A",41112,Police Sergeant,16831,M
+A99,330,825,"Sullivan,Akinlawon F",41112,Police Sergeant,16897,M
+A99,356,16271,"Swinton,Kimberly A",41112,Police Sergeant,46932,F
+A99,351,38614,"Taylor,Craig V",41112,Police Sergeant,32997,M
+A99,200,7986,"Taylor,John K",41112,Police Sergeant,18763,M
+A99,266,46175,"Taylor,Lamacairos E",41112,Police Sergeant,16873,M
+A99,224,1925,"Thomas,Donald",41112,Police Sergeant,19568,M
+A99,195,16033,"Thompson,Paul E",41112,Police Sergeant,18859,M
+A99,310,1105,"Todd,Tanesha A",41112,Police Sergeant,16968,F
+A99,2,65604,"Tondeur,Adam K",41112,Police Sergeant,19328,M
+A99,415,48999,"Tran,Christopher A",41112,Police Sergeant,16947,M
+A99,408,20476,"Turner,Lisa",41112,Police Sergeant,16892,F
+A99,3,16571,"Vaeth,Anthony S",41112,Police Sergeant,16799,M
+A99,330,16152,"Valenzia,Richard B",41112,Police Sergeant,18852,M
+A99,322,10171,"Vallair,Kristel D",41112,Police Sergeant,19667,F
+A99,125,29702,"Veney,Monica",41112,Police Sergeant,18984,F
+A99,304,46119,"Villodas,Israel J",41112,Police Sergeant,16891,M
+A99,95,8086,"Walford,Damion C",41112,Police Sergeant,16850,M
+A99,60,16096,"Wallace Jr,John W",41112,Police Sergeant,33770,M
+A99,307,33874,"Warren,C J",41112,Police Sergeant,16846,M
+A99,408,38499,"Washington,Ongenette D",41112,Police Sergeant,16853,F
+A99,33,29803,"Watts,Richard R",41112,Police Sergeant,16970,M
+A99,261,38296,"Wells,Norris C",41112,Police Sergeant,16809,M
+A99,223,518,"West,Sonia M",41112,Police Sergeant,17284,F
+A99,61,48203,"Wiczulis,Joseph M",41112,Police Sergeant,16905,M
+A99,348,29444,"Wilhelm,Michael V",41112,Police Sergeant,16914,M
+A99,408,38145,"Williams Jr.,Larry D",41112,Police Sergeant,32983,M
+A99,422,1926,"Williams,Kenneth L",41112,Police Sergeant,16802,M
+A99,415,25386,"Willis,Tiffany",41112,Police Sergeant,17102,F
+A99,370,55306,"Wissmann,James R",41112,Police Sergeant,16798,M
+A99,338,48699,"Woods,Alan C",41112,Police Sergeant,46925,M
+A99,395,12031,"Worsley,Larry E",41112,Police Sergeant,16896,M
+A99,415,28999,"Young,Jeffrey A",41112,Police Sergeant,16686,M
+A99,407,61750,"Yourkovik,Kurt A",41112,Police Sergeant,16928,M
+A99,303,61539,"Zellars,K Chinyere N",41112,Police Sergeant,16917,F
+A99,220,1079,"Anderson,Charles",41132,Police Sergeant EID,16900,M
+A99,405,7646,"Arrington,Freda A",41132,Police Sergeant EID,16829,F
+A99,324,20467,"Bailey Jr,Kevin A",41132,Police Sergeant EID,16704,M
+A99,303,24939,"Bailey,Kenneth C",41132,Police Sergeant EID,16921,M
+A99,6,71700,"Beaver,Ryan J",41132,Police Sergeant EID,19080,M
+A99,322,2074,"Becherer,Jeffery L",41132,Police Sergeant EID,16827,M
+A99,34,44874,"Black,Kirk A",41132,Police Sergeant EID,18857,M
+A99,324,24321,"Blackmon,Robin",41132,Police Sergeant EID,16814,F
+A99,386,1399,"Boettcher,Jeffrey G",41132,Police Sergeant EID,32996,M
+A99,396,7507,"Bowman,Steven P",41132,Police Sergeant EID,32993,M
+A99,334,38554,"Bristol,William T",41132,Police Sergeant EID,16706,M
+A99,263,1831,"Camarote,Marc J",41132,Police Sergeant EID,16960,M
+A99,396,755,"Carter Watson,Angela A",41132,Police Sergeant EID,16877,F
+A99,322,135,"Cherry,Robert F",41132,Police Sergeant EID,16966,M
+A99,396,71083,"Cohen,Elliot T",41132,Police Sergeant EID,17260,M
+A99,262,82790,"Conley III,James L",41132,Police Sergeant EID,18858,M
+A99,406,37753,"Corell,Matthew W",41132,Police Sergeant EID,18863,M
+A99,94,51948,"Corrigan,Patrick J",41132,Police Sergeant EID,16879,M
+A99,6,78672,"Curtis,Dean M",41132,Police Sergeant EID,18761,M
+A99,93,78673,"Curtis,Trevor R",41132,Police Sergeant EID,19076,M
+A99,405,45574,"Cutchin,Sidney L",41132,Police Sergeant EID,19126,M
+A99,329,24173,"Danielczyk,Scott T",41132,Police Sergeant EID,16929,M
+A99,304,632,"DellaRocco,Albert P",41132,Police Sergeant EID,16864,M
+A99,65,7984,"Dohony,Robert L",41132,Police Sergeant EID,16957,M
+A99,225,2478,"Edmondson,Gary E",41132,Police Sergeant EID,16709,M
+A99,407,11675,"Ellis,Laverne P",41132,Police Sergeant EID,35599,F
+A99,193,20186,"Ellison,Tony A",41132,Police Sergeant EID,16812,M
+A99,196,78890,"Ford,Bryan S",41132,Police Sergeant EID,16816,M
+A99,407,33900,"Frazier,Brian K",41132,Police Sergeant EID,17832,M
+A99,61,2560,"Fried,Jared R",41132,Police Sergeant EID,16963,M
+A99,347,25308,"Furman,Leo M",41132,Police Sergeant EID,18854,M
+A99,93,54150,"Garcia,Naisha A",41132,Police Sergeant EID,16811,F
+A99,4,70628,"Gillespie,Corey A",41132,Police Sergeant EID,16932,M
+A99,123,1607,"Glanville,Kimberly W",41132,Police Sergeant EID,32975,F
+A99,350,2477,"Glazerman,Jonathan S",41132,Police Sergeant EID,16898,M
+A99,408,45226,"Grant,Christopher W",41132,Police Sergeant EID,16906,M
+A99,409,54146,"Grant,Welai N",41132,Police Sergeant EID,16832,F
+A99,408,25205,"Harris,Steven M",41132,Police Sergeant EID,17371,M
+A99,338,1071,"Henry,Kirk L",41132,Police Sergeant EID,16834,M
+A99,386,48996,"Hobday,Patricia L",41132,Police Sergeant EID,16815,F
+A99,297,3240,"Hobson,Michael J",41132,Police Sergeant EID,16884,M
+A99,220,2804,"Hughes,Timothy C",41132,Police Sergeant EID,16872,M
+A99,408,48677,"Hupp,Jennifer",41132,Police Sergeant EID,16919,F
+A99,265,33808,"Ivery,Kenneth E",41132,Police Sergeant EID,19327,M
+A99,303,20682,"Jackson,Derwin E",41132,Police Sergeant EID,16871,M
+A99,164,66934,"Jenkins,Arnold W",41132,Police Sergeant EID,16836,M
+A99,348,2609,"Johns,Kelly A",41132,Police Sergeant EID,33003,F
+A99,94,7378,"Jones Jr,Charles S",41132,Police Sergeant EID,16842,M
+A99,124,82787,"Jones,Supreme Q",41132,Police Sergeant EID,16903,M
+A99,5,821,"Kratz,Brian D",41132,Police Sergeant EID,16818,M
+A99,422,166,"Lattanzi,Adam E",41132,Police Sergeant EID,16823,M
+A99,370,42071,"Leaverton,Christopher M",41132,Police Sergeant EID,16707,M
+A99,190,3225,"Lee,Alexander C",41132,Police Sergeant EID,19564,M
+A99,422,44552,"Lloyd,Raymond",41132,Police Sergeant EID,17493,M
+A99,35,2573,"Logue,Matthew S",41132,Police Sergeant EID,35455,M
+A99,299,909,"Lucien,Monique N",41132,Police Sergeant EID,16878,F
+A99,221,36994,"Lufadeju,Evert A",41132,Police Sergeant EID,18987,M
+A99,194,83061,"Luke,Ramone O",41132,Police Sergeant EID,35449,M
+A99,350,20265,"Mancuso,Michael T",41132,Police Sergeant EID,16885,M
+A99,330,971,"Manners,Charles W",41132,Police Sergeant EID,32976,M
+A99,120,38389,"Mays,Stephen R",41132,Police Sergeant EID,16895,M
+A99,335,11753,"McCauley,Charles M",41132,Police Sergeant EID,35444,M
+A99,124,1844,"McGriff,Horace",41132,Police Sergeant EID,16910,M
+A99,312,16635,"McMillian,Paul",41132,Police Sergeant EID,16901,M
+A99,93,1251,"McMorris,Philip",41132,Police Sergeant EID,16844,M
+A99,30,914,"Merino,Christopher S",41132,Police Sergeant EID,16825,M
+A99,302,45938,"Monroe,Andre O",41132,Police Sergeant EID,35452,M
+A99,64,74530,"Mox,Eric C",41132,Police Sergeant EID,16925,M
+A99,220,25394,"Newberg,Ethan R",41132,Police Sergeant EID,32980,M
+A99,225,71637,"Novak,Zachary J",41132,Police Sergeant EID,16902,M
+A99,2,45699,"Ostrander,Gregory W",41132,Police Sergeant EID,16839,M
+A99,335,1642,"Patterson,Brian C",41132,Police Sergeant EID,16865,M
+A99,407,44273,"Pitts,Deirtra A",41132,Police Sergeant EID,16616,F
+A99,399,34221,"Pride,Courtney",41132,Police Sergeant EID,17416,F
+A99,322,1845,"Purtell,Richard E",41132,Police Sergeant EID,16943,M
+A99,223,7721,"Reed,Kareem R",41132,Police Sergeant EID,19144,M
+A99,424,34109,"Richardson,Regina I",41132,Police Sergeant EID,35447,F
+A99,195,2620,"Rosser,Jesse H",41132,Police Sergeant EID,18855,M
+A99,407,2916,"Rotell,Albert J",41132,Police Sergeant EID,35600,M
+A99,408,25005,"Rynn,John T",41132,Police Sergeant EID,16926,M
+A99,415,2834,"Scarborough,Robert E",41132,Police Sergeant EID,35483,M
+A99,123,24975,"Shiflett,Billy E",41132,Police Sergeant EID,18515,M
+A99,395,55272,"Sinchak,Paul A",41132,Police Sergeant EID,32998,M
+A99,164,45683,"Smith,Darryl R",41132,Police Sergeant EID,16922,M
+A99,311,16933,"Smith,McKinley E",41132,Police Sergeant EID,16822,M
+A99,323,1725,"Snead,Kerry D",41132,Police Sergeant EID,16909,M
+A99,161,2493,"Sokol,Karen L",41132,Police Sergeant EID,50428,F
+A99,390,7824,"Stauder,Jeffrey R",41132,Police Sergeant EID,16934,M
+A99,399,61721,"Steigerwald Jr,Frederick",41132,Police Sergeant EID,16679,M
+A99,195,42743,"Sweet,Rachelle L",41132,Police Sergeant EID,16801,M
+A99,415,2742,"Swenson,Scott M",41132,Police Sergeant EID,16870,M
+A99,334,7530,"Talley,Christopher B",41132,Police Sergeant EID,17267,M
+A99,406,21473,"Thomas,Niesha C",41132,Police Sergeant EID,16874,F
+A99,408,20510,"Toliver,Kevin L",41132,Police Sergeant EID,16683,M
+A99,415,1139,"Vaughn,Michael S",41132,Police Sergeant EID,33759,M
+A99,390,66749,"Velez,Maria A",41132,Police Sergeant EID,33763,F
+A99,161,29305,"Wallace,Joanne E",41132,Police Sergeant EID,16847,F
+A99,5,906,"Weston,Duane A",41132,Police Sergeant EID,16858,M
+A99,407,3400,"Wheeler,Hillary E",41132,Police Sergeant EID,16813,F
+A99,380,62293,"White,Alicia L",41132,Police Sergeant EID,16938,F
+A99,297,33669,"White,Carolyn M",41132,Police Sergeant EID,34907,F
+A99,263,1763,"Whitted,Lakeshia Y",41132,Police Sergeant EID,33761,F
+A99,33,7667,"Williams,Leslie K",41132,Police Sergeant EID,32982,F
+A99,322,34188,"Wilson,Edward H",41132,Police Sergeant EID,33767,M
+A99,308,12260,"Yampierre,Danika T",41132,Police Sergeant EID,16841,F
+A99,4,66742,"Zero,Benjamin E",41132,Police Sergeant EID,16838,M
+A99,410,96799,"Southern,Kezia N",33586,Procurement Officer II,48008,F
