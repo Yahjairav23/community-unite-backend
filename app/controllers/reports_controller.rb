@@ -6,7 +6,7 @@ class ReportsController < ApplicationController
 
     def show
         report = Report.find(params[:id])
-        render json: report 
+        render json: report.to_json(include: [:police, :citizen])
     end
 
     def create
@@ -19,6 +19,7 @@ class ReportsController < ApplicationController
             police_id: params[:reportObj][:police_id],
             citizen_id: params[:reportObj][:citizen_id],
             location: address,
+            time: (new Time(params[:reportObj][:currentTime])),
             # location: params[:reportObj][:reportDetails][:encounterAddress]+" "+params[:reportObj][:reportDetails][:encounterAddress2],
             city: params[:reportObj][:reportDetails][:city],
             state: params[:reportObj][:reportDetails][:state],
