@@ -10,8 +10,26 @@ class ReportsController < ApplicationController
     end
 
     def create
-        report = Report.create(report_params)
-        render json: report 
+        if (params[:reportObj][:reportDetails][:encounterAddress2])
+            address = params[:reportObj][:reportDetails][:encounterAddress]+" "+params[:reportObj][:reportDetails][:encounterAddress2]
+        else
+            address = params[:reportObj][:reportDetails][:encounterAddress]
+        end
+        report = Report.create(
+            police_id: params[:reportObj][:police_id],
+            citizen_id: params[:reportObj][:citizen_id],
+            location: address,
+            # location: params[:reportObj][:reportDetails][:encounterAddress]+" "+params[:reportObj][:reportDetails][:encounterAddress2],
+            city: params[:reportObj][:reportDetails][:city],
+            state: params[:reportObj][:reportDetails][:state],
+            date: Date.parse(params[:reportObj][:reportDetails][:date]),
+            arrest: params[:reportObj][:reportDetails][:arrestMade]=="true",
+            force_used: params[:reportObj][:reportDetails][:forceUsed]=="true",
+            reason: params[:reportObj][:reportDetails][:reason],
+            incident_description: params[:reportObj][:reportDetails][:description],
+            resolution: params[:reportObj][:reportDetails][:resolution]
+        )
+        render json: report.to_json(include: [:police, :citizen])
     end
 
 

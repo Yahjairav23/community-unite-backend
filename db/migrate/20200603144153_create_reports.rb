@@ -10,9 +10,9 @@ class CreateReports < ActiveRecord::Migration[6.0]
       t.time :time
       t.boolean :arrest
       t.boolean :force_used
-      t.string :reason
-      t.string :incident_description
-      t.string :resolution
+      t.text :reason
+      t.text :incident_description
+      t.text :resolution
 
       t.timestamps
     end

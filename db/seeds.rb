@@ -7,10 +7,10 @@ Police.destroy_all
 Report.destroy_all
 
 #CITIZENS
-c1 = Citizen.create(name: "Yahjaira Vasquez", address: "2209 e 765 st", city: "Baltimore", state: "MD", phone_number: 2222222222, email: "yv@demo.com", birthday: Date.parse("1993-01-13"), gender: "F", race: "hispanic", state_id: "yv99999999")
+c1 = Citizen.create(password: "password", name: "Yahjaira Vasquez", address: "2209 e 765 st", city: "Baltimore", state: "MD", phone_number: "2222222222", email: "yv@demo.com", birthday: Date.parse("1993-01-13"), gender: "F", race: "hispanic", state_id: "yv99999999")
 
 #POLICE DEPARTMENTS
-pd1 = PoliceDepartment.create(name: "Baltimore Police Department", address: "601 East Fayette Street", city: "Baltimore", state: "MD", phone_number: 4430000000, email: "bpd@demo.com")
+pd1 = PoliceDepartment.create(name: "Baltimore Police Department", address: "601 East Fayette Street", city: "Baltimore", state: "MD", phone_number: "4430000000", email: "bpd@demo.com")
 
 #COMMENTS
 com1 = Comment.create(citizen_id: c1.id, police_department_id: pd1.id, description: "No Justice No Peace", date: Date.parse("2020-06-01"))
@@ -26,6 +26,7 @@ csv.each do |row|
     t.job_title = row['Job Title']
     t.police_department_id = pd1.id
     t.gender = row['Gender']
+    t.password = "password"
     
     t.save
 end
