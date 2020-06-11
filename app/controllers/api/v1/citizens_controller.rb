@@ -13,7 +13,12 @@ class Api::V1::CitizensController < ApplicationController
     end
 
     def search
-        citizen = Citizen.find_or_create_by(state_id: params[:citizenId])
+        if Citizen.where(:state_id => params[:citizenId]).exists?
+            citizen = Citizen.find_by(state_id: params[:citizenId]) 
+        else
+            citizen = Citizen.create(state_id: params[:citizenId], email: params[:citizenId], password: params[:citizenId])
+        end
+        
         render json: citizen.to_json(except: [:password_digest],)
     end
 
@@ -26,6 +31,10 @@ class Api::V1::CitizensController < ApplicationController
         citizen = Citizen.create(citizen_params)
         render json: citizen.to_json(except: [:password_digest], include: :reports)
     end
+
+    # def update
+
+    # end
 
     
     private

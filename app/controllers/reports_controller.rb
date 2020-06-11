@@ -1,3 +1,5 @@
+require 'time'
+
 class ReportsController < ApplicationController
     def index 
         reports = Report.all
@@ -15,12 +17,13 @@ class ReportsController < ApplicationController
         else
             address = params[:reportObj][:reportDetails][:encounterAddress]
         end
+
+        time = Time.parse(params[:reportObj][:reportDetails][:currentTime])
         report = Report.create(
             police_id: params[:reportObj][:police_id],
             citizen_id: params[:reportObj][:citizen_id],
             location: address,
-            time: (new Time(params[:reportObj][:currentTime])),
-            # location: params[:reportObj][:reportDetails][:encounterAddress]+" "+params[:reportObj][:reportDetails][:encounterAddress2],
+            time: time,
             city: params[:reportObj][:reportDetails][:city],
             state: params[:reportObj][:reportDetails][:state],
             date: Date.parse(params[:reportObj][:reportDetails][:date]),
@@ -30,6 +33,34 @@ class ReportsController < ApplicationController
             incident_description: params[:reportObj][:reportDetails][:description],
             resolution: params[:reportObj][:reportDetails][:resolution]
         )
+
+        citizen = Citizen.find(params[:reportObj][:citizen_id])
+        
+        citizen_obj = Hash.new
+
+        if (params[:reportObj][:reportDetails][:citizenAddress2])
+            citizen_obj[:address] = params[:reportObj][:reportDetails][:citizenAddress]+" "+params[:reportObj][:reportDetails][:encounterAddress2]
+        else
+            citizen_obj[:address] = params[:reportObj][:reportDetails][:citizenAddress]
+        end
+        if (params[:reportObj][:reportDetails][:citizenName])
+            citizen_obj[:name] = params[:reportObj][:reportDetails][:citizenName]
+        end
+        if (params[:reportObj][:reportDetails][:citizenPhoneNumber])
+            citizen_obj[:phone_number] = params[:reportObj][:reportDetails][:citizenPhoneNumber]
+        end
+        if (params[:reportObj][:reportDetails][:citizenEmail])
+            citizen_obj[:email] = params[:reportObj][:reportDetails][:citizenEmail]
+        end
+        if (params[:reportObj][:reportDetails][:citizenCity])
+            citizen_obj[:city] = params[:reportObj][:reportDetails][:citizenCity]
+        end
+        if (params[:reportObj][:reportDetails][:citizenState])
+            citizen_obj[:state] = params[:reportObj][:reportDetails][:citizenState]
+        end
+        
+        citizen.update(citizen_obj)
+
         render json: report.to_json(include: [:police, :citizen])
     end
 
