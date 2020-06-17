@@ -71,4 +71,12 @@ class ReportsController < ApplicationController
         render json: report.to_json(include: [:police, :citizen])
     end
 
+    def update
+        report = Report.find(params[:id])
+        report.comments = report.comments.push(params[:comment])
+        report.save
+        
+        render json: report.to_json(include: [:police, :citizen])
+    end
+
 end

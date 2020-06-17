@@ -7,6 +7,7 @@ Rails.application.routes.draw do
   resources :police
   
   get '/escalated_reports', to: 'reports#escalations'
+  
 
 
 
