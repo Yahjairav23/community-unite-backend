@@ -3,13 +3,20 @@ require 'time'
 class ReportsController < ApplicationController
     def index 
         reports = Report.all
-        render json: reports 
+        render json: reports.as_json(include: [:police, :citizen, escalation: {include: [:action_takens]}])
+    end
+
+    def escalations
+        escalated_reports = Escalation.all.map{ |escalation| escalation.report }
+        render json: escalated_reports.as_json()
+        # .as_json(include: [:police, :citizen_id, :escalation]) 
     end
 
     def show
         report = Report.find(params[:id])
-        render json: report.to_json(include: [:police, :citizen])
+        render json: report.as_json(include: [:police, :citizen, escalation: {include: [:action_takens]}])
     end
+
 
     def create
         if (params[:reportObj][:reportDetails][:encounterAddress2])
@@ -64,22 +71,4 @@ class ReportsController < ApplicationController
         render json: report.to_json(include: [:police, :citizen])
     end
 
-
-    private
-
-    def report_params
-        params.require(:report).permit(
-            :police_id,
-            :citizen_id,
-            :location,
-            :city,
-            :state,
-            :date,
-            :arrest,
-            :force_used,
-            :reason,
-            :incident_description,
-            :resolution
-        )
-    end
 end

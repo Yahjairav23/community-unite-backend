@@ -10,10 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_06_10_042922) do
+ActiveRecord::Schema.define(version: 2020_06_13_210732) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "action_takens", force: :cascade do |t|
+    t.date "date"
+    t.integer "escalation_id"
+    t.integer "oversight_agency_id"
+    t.string "description"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
 
   create_table "citizens", force: :cascade do |t|
     t.string "password_digest"
@@ -36,6 +45,27 @@ ActiveRecord::Schema.define(version: 2020_06_10_042922) do
     t.integer "police_department_id"
     t.text "description"
     t.date "date"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "escalations", force: :cascade do |t|
+    t.integer "report_id"
+    t.date "date"
+    t.string "reason"
+    t.string "status", default: "active"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "oversight_agencies", force: :cascade do |t|
+    t.string "name"
+    t.string "address"
+    t.string "city"
+    t.string "state"
+    t.string "phone_number"
+    t.string "email"
+    t.string "password_digest"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

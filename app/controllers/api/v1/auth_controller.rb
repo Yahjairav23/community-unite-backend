@@ -8,7 +8,10 @@ class Api::V1::AuthController < ApplicationController
             @user = Citizen.find_by(email: params[:email])
         elsif(@user_type == 'police')
             @user = Police.find_by(badge_number: params[:badge_number])
+        elsif(@user_type == 'oversightAgency')
+            @user = OversightAgency.find_by(email: params[:email])
         end
+        
         # # byebug
         if(@user && @user.authenticate(params[:password]))
             # byebug
