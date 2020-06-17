@@ -16,4 +16,11 @@ class EscalationsController < ApplicationController
 
         render json: escalation.as_json(include: [:action_takens])
     end
+
+    def update
+        escalation = Escalation.find(params[:id])
+        escalation.status = params[:status]
+        escalation.save
+        render json: escalation.as_json(include: [:action_takens])
+    end
 end
