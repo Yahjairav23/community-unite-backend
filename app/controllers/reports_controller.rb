@@ -76,7 +76,7 @@ class ReportsController < ApplicationController
         report.comments = report.comments.push(params[:comment])
         report.save
         
-        render json: report.to_json(include: [:police, :citizen])
+        render json: report.to_json(include: [:police, :citizen, escalation: {include: [:action_takens]}])
     end
 
 end
