@@ -34,8 +34,8 @@ class ReportsController < ApplicationController
             city: params[:reportObj][:reportDetails][:city],
             state: params[:reportObj][:reportDetails][:state],
             date: Date.parse(params[:reportObj][:reportDetails][:date]),
-            arrest: params[:reportObj][:reportDetails][:arrestMade]=="true",
-            force_used: params[:reportObj][:reportDetails][:forceUsed]=="true",
+            arrest: params[:reportObj][:reportDetails][:arrestMade]==true,
+            force_used: params[:reportObj][:reportDetails][:forceUsed]==true,
             reason: params[:reportObj][:reportDetails][:reason],
             incident_description: params[:reportObj][:reportDetails][:description],
             resolution: params[:reportObj][:reportDetails][:resolution]

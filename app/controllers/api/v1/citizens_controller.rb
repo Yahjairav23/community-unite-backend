@@ -19,7 +19,7 @@ class Api::V1::CitizensController < ApplicationController
             citizen = Citizen.create(state_id: params[:citizenId], email: params[:citizenId], password: params[:citizenId])
         end
         
-        render json: citizen.to_json(except: [:password_digest],)
+        render json: citizen.to_json(except: [:password_digest])
     end
 
     def show
