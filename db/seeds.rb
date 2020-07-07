@@ -11,10 +11,10 @@ Escalation.destroy_all
 
 
 #OVERSIGHT AGENCIES
-oa = OversightAgency.create(name: "Citizen's Guard", address: "2300 w Newell rd", city: "Baltimore", state: "MD", phone_number: "3012893478", email: "citizenguard@gmail.com", password: "password")
+oa = OversightAgency.create(name: "Citizen's Guard", address: "2300 w Newell rd", city: "Baltimore", state: "MD", phone_number: "3012893478", email: "citizenguard@demo.com", password: "password")
 
 #CITIZENS
-c1 = Citizen.create(password: "password", name: "Yahjaira Vasquez", address: "2209 e 765 st", city: "Baltimore", state: "MD", phone_number: "2222222222", email: "yv@demo.com", birthday: Date.parse("1993-01-13"), gender: "F", race: "hispanic", state_id: "yv99999999")
+c1 = Citizen.create(password: "password", name: "Ashley Rodriguez", address: "2209 e 765 st", city: "Baltimore", state: "MD", phone_number: "2222222222", email: "ar@demo.com", birthday: Date.parse("1993-01-13"), gender: "F", race: "hispanic", state_id: "ar99999999")
 
 #POLICE DEPARTMENTS
 pd1 = PoliceDepartment.create(name: "Baltimore Police Department", address: "601 East Fayette Street", city: "Baltimore", state: "MD", phone_number: "4430000000", email: "bpd@demo.com")
