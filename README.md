@@ -1,4 +1,4 @@
-#YOUNite
+## YOUNite
 
 Younite is an application that was created to help combat the ongoing issue of police brutality. 
 
