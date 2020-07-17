@@ -16,6 +16,7 @@ oa = OversightAgency.create(name: "Citizen's Guard", address: "2300 w Newell rd"
 #CITIZENS
 c1 = Citizen.create(password: "password", name: "Ashley Rodriguez", address: "2209 e 765 st", city: "Baltimore", state: "MD", phone_number: "2222222222", email: "ar@demo.com", birthday: Date.parse("1993-01-13"), gender: "F", race: "hispanic", state_id: "ar99999999")
 c2 = Citizen.create(password: "demo", name: "John Andrews", address: "2222 e 222 st", city: "Baltimore", state: "MD", phone_number: "3333333333", email: "demo@demo.com", birthday: Date.parse("1986-09-23"), gender: "M", race: "white", state_id: "ja99999999")
+c2 = Citizen.create(password: "test", name: "test Andrews", address: "2222 e test st", city: "Baltimore", state: "MD", phone_number: "1111111111", email: "test@demo.com", birthday: Date.parse("1986-09-23"), gender: "M", race: "white", state_id: "ts99999999")
 
 #POLICE DEPARTMENTS
 pd1 = PoliceDepartment.create(name: "Baltimore Police Department", address: "601 East Fayette Street", city: "Baltimore", state: "MD", phone_number: "4430000000", email: "bpd@demo.com")
