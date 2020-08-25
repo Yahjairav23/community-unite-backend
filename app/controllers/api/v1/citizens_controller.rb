@@ -27,8 +27,16 @@ class Api::V1::CitizensController < ApplicationController
     end
 
     def create
-        citizen = Citizen.create(citizen_params)
-        render json: citizen.to_json(except: [:password_digest], include: :reports)
+        # a fetch call to this method need to be made in order to create a new user instance
+        # Check to see if the user's state id is in the system first
+        citizen_found = Citizen.find_by(state_id: params[:state_id])
+        # if(citizen_found)
+            # if yes, we need to do an update instance with the new info
+        # else
+            # if not, create new instance
+            @citizen = Citizen.create(citizen_params)
+        # end
+        render json: @citizen.to_json(except: [:password_digest], include: :reports)
     end
 
     private

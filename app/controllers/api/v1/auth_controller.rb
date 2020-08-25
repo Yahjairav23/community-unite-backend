@@ -3,6 +3,7 @@ class Api::V1::AuthController < ApplicationController
     def create
         #find user using params
         @user_type = params[:userType]
+        
         if(@user_type == 'citizen')
             @user = Citizen.find_by(email: params[:email])
         elsif(@user_type == 'police')
