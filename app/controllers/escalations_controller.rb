@@ -1,7 +1,6 @@
 class EscalationsController < ApplicationController
     def index
         escalations = Escalation.all 
-        # byebug
         render json: escalations.as_json(include: [:action_takens]) 
     end
 

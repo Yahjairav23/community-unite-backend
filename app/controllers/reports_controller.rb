@@ -9,7 +9,6 @@ class ReportsController < ApplicationController
     def escalations
         escalated_reports = Escalation.all.map{ |escalation| escalation.report }
         render json: escalated_reports.as_json()
-        # .as_json(include: [:police, :citizen_id, :escalation]) 
     end
 
     def show

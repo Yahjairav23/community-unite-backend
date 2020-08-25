@@ -8,7 +8,6 @@ class Api::V1::CitizensController < ApplicationController
     def profile
         token = request.headers['Authenticate']
         user = Citizen.find(decode(token)['user_id'])
-        # byebug
         render json: user.to_json(except: [:password_digest], include: :reports)
     end
 
@@ -32,11 +31,6 @@ class Api::V1::CitizensController < ApplicationController
         render json: citizen.to_json(except: [:password_digest], include: :reports)
     end
 
-    # def update
-
-    # end
-
-    
     private
 
     def citizen_params
