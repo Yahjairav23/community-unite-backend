@@ -1,10 +1,9 @@
 Rails.application.routes.draw do
-  resources :action_takens
-  resources :escalations
-  resources :reports
-  resources :comments
-  resources :police_departments
-  resources :police
+  resources :action_takens, only: [:index, :show, :create]
+  resources :escalations, only: [:index, :show, :create, :udpate]
+  resources :reports, only: [:index, :show, :create, :udpate]
+  resources :comments, only: [:index, :create]
+  resources :police_departments, only: [:index, :show]
   
   get '/escalated_reports', to: 'reports#escalations'
   
